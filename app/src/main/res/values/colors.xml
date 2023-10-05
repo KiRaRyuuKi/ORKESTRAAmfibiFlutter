@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryPertama">#1DAE57</color>
+    <color name="primaryKedua">#47CBC3</color>
+    <color name="secondaryPertama">#3B3B3B</color>
+    <color name="secondaryKedua">#787878</color>
+    <color name="secondaryKetiga">#ADADAD</color>
+    <color name="secondaryKeempat">#DDDDDD</color>
+    <color name="secondaryKelima">#F1F1F1</color>
+</resources>

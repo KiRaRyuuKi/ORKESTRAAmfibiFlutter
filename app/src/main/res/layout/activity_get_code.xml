@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainGetCode">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/lilita_one"
+        android:text="Batal"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextTextPassword"
+        android:layout_width="325dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/stroke_background_color"
+        android:ems="10"
+        android:hint="Masukkan Kode Verifikasi"
+        android:inputType="numberPassword"
+        android:padding="8dp"
+        android:textAlignment="center"
+        android:textColor="@color/secondaryPertama"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="Butuh Bantuan?"
+        android:textColor="@color/primaryPertama"
+        app:layout_constraintEnd_toEndOf="@+id/editTextTextPassword"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/editTextTextPassword"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword" />
+
+    <Button
+        android:id="@+id/lanjutkanKeHome"
+        android:layout_width="325dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/gradient_background_color"
+        android:backgroundTint="@color/secondaryKeempat"
+        android:fontFamily="@font/lilita_one"
+        android:text="Lanjutkan"
+        android:textAllCaps="false"
+        android:textColor="@color/secondaryKetiga"
+        android:textSize="15sp"
+        app:cornerRadius="8sp"
+        app:layout_constraintEnd_toEndOf="@+id/editTextTextPassword"
+        app:layout_constraintStart_toStartOf="@+id/editTextTextPassword"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <LinearLayout
+        android:id="@+id/linearOpsiont"
+        android:layout_width="325dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="22dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="@+id/lanjutkanKeHome"
+        app:layout_constraintStart_toStartOf="@+id/lanjutkanKeHome"
+        app:layout_constraintTop_toBottomOf="@+id/lanjutkanKeHome">
+
+        <View
+            android:id="@+id/lineLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@color/secondaryKetiga" />
+
+        <TextView
+            android:id="@+id/secondaryOpsiont"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:text="kirim ulang kode" />
+
+        <View
+            android:id="@+id/lineRight"
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@color/secondaryKetiga" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
