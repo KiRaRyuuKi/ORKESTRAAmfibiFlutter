@@ -61,16 +61,13 @@ public final class ActivityRegisterBinding implements ViewBinding {
   @NonNull
   public final TextView textView3;
 
-  @NonNull
-  public final View view2;
-
   private ActivityRegisterBinding(@NonNull ConstraintLayout rootView,
       @NonNull EditText editTextText1, @NonNull EditText editTextText102,
       @NonNull EditText editTextText12, @NonNull EditText editTextTextPassword,
       @NonNull Button lanjutDenganGoogle, @NonNull Button lanjutLogin, @NonNull View lineLeft,
       @NonNull View lineRight, @NonNull LinearLayout linearOpsiont,
       @NonNull TextView secondaryOpsiont, @NonNull TextView textView, @NonNull TextView textView2,
-      @NonNull TextView textView3, @NonNull View view2) {
+      @NonNull TextView textView3) {
     this.rootView = rootView;
     this.editTextText1 = editTextText1;
     this.editTextText102 = editTextText102;
@@ -85,7 +82,6 @@ public final class ActivityRegisterBinding implements ViewBinding {
     this.textView = textView;
     this.textView2 = textView2;
     this.textView3 = textView3;
-    this.view2 = view2;
   }
 
   @Override
@@ -193,16 +189,9 @@ public final class ActivityRegisterBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.view2;
-      View view2 = ViewBindings.findChildViewById(rootView, id);
-      if (view2 == null) {
-        break missingId;
-      }
-
       return new ActivityRegisterBinding((ConstraintLayout) rootView, editTextText1,
           editTextText102, editTextText12, editTextTextPassword, lanjutDenganGoogle, lanjutLogin,
-          lineLeft, lineRight, linearOpsiont, secondaryOpsiont, textView, textView2, textView3,
-          view2);
+          lineLeft, lineRight, linearOpsiont, secondaryOpsiont, textView, textView2, textView3);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

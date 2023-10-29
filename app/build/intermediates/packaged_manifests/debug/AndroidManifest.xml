@@ -28,7 +28,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.PayCarsPlatformJualBeliMobilBekas" >
         <activity
-            android:name="com.orkestra.paycars.MainHome"
+            android:name="com.orkestra.paycars.ui.home.MainHome"
             android:exported="false" />
         <activity
             android:name="com.orkestra.paycars.MainGetCode"

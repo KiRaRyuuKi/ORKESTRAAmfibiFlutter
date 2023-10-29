@@ -4,7 +4,7 @@
             "outputFile": "com.orkestra.paycars.app-mergeDebugResources-26:/values-w1240dp-v13/values-w1240dp-v13.xml",
             "map": [
                 {
-                    "source": "E:\\Project\\ORKESTRA PayCars\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
+                    "source": "E:\\Project\\ORKESTRAPayCarsPlatformMobile\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

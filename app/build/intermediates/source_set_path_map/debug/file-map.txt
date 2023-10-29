@@ -22,10 +22,10 @@ com.orkestra.paycars.app-activity-1.6.0-20 C:\Users\Tri agus hadi p\.gradle\cach
 com.orkestra.paycars.app-drawerlayout-1.1.1-21 C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\e2d2d3c4dd62635dbea352ab171561e5\transformed\drawerlayout-1.1.1\res
 com.orkestra.paycars.app-transition-1.2.0-22 C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\e44573450bfeaacfbe89d93e4952b042\transformed\transition-1.2.0\res
 com.orkestra.paycars.app-material-1.9.0-23 C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\e5f321a248aa217236dda4759916dcd9\transformed\material-1.9.0\res
-com.orkestra.paycars.app-pngs-24 E:\Project\ORKESTRA PayCars\app\build\generated\res\pngs\debug
-com.orkestra.paycars.app-resValues-25 E:\Project\ORKESTRA PayCars\app\build\generated\res\resValues\debug
-com.orkestra.paycars.app-packageDebugResources-26 E:\Project\ORKESTRA PayCars\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.orkestra.paycars.app-packageDebugResources-27 E:\Project\ORKESTRA PayCars\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.orkestra.paycars.app-merged_res-28 E:\Project\ORKESTRA PayCars\app\build\intermediates\merged_res\debug
-com.orkestra.paycars.app-debug-29 E:\Project\ORKESTRA PayCars\app\src\debug\res
-com.orkestra.paycars.app-main-30 E:\Project\ORKESTRA PayCars\app\src\main\res
+com.orkestra.paycars.app-pngs-24 E:\Project\ORKESTRAPayCarsPlatformMobile\app\build\generated\res\pngs\debug
+com.orkestra.paycars.app-resValues-25 E:\Project\ORKESTRAPayCarsPlatformMobile\app\build\generated\res\resValues\debug
+com.orkestra.paycars.app-packageDebugResources-26 E:\Project\ORKESTRAPayCarsPlatformMobile\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.orkestra.paycars.app-packageDebugResources-27 E:\Project\ORKESTRAPayCarsPlatformMobile\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.orkestra.paycars.app-merged_res-28 E:\Project\ORKESTRAPayCarsPlatformMobile\app\build\intermediates\merged_res\debug
+com.orkestra.paycars.app-debug-29 E:\Project\ORKESTRAPayCarsPlatformMobile\app\src\debug\res
+com.orkestra.paycars.app-main-30 E:\Project\ORKESTRAPayCarsPlatformMobile\app\src\main\res
