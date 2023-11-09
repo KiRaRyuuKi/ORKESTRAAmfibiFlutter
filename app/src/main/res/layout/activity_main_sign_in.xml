@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".models.MainSignInActivity">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="280dp"
+        android:layout_height="280dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/orange_car" />
+
+    <TextView
+        android:id="@+id/signInTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:gravity="center"
+        android:text="@string/sign_in_title"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:fontFamily="poppins"
+        android:textColor="@color/accentsFirst" />
+
+    <TextView
+        android:id="@+id/signInDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="50dp"
+        android:gravity="center"
+        android:text="@string/sign_in_description"
+        android:textSize="15sp"
+        android:textStyle="normal"
+        android:fontFamily="poppins"
+        android:textColor="@color/accentsSecond"  />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="30dp"
+        android:drawablePadding="12dp"
+        android:paddingStart="8dp"
+        android:ems="10"
+        android:textSize="15dp"
+        android:inputType="text"
+        android:fontFamily="poppins"
+        android:hint="@string/sign_in_user"
+        android:textAlignment="textStart"
+        android:background="@drawable/custom_stroke_color"
+        android:drawableStart="@drawable/baseline_drawable_user" />
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="30dp"
+        android:drawablePadding="12dp"
+        android:paddingStart="8dp"
+        android:ems="10"
+        android:textSize="15dp"
+        android:fontFamily="poppins"
+        android:inputType="textPassword"
+        android:hint="@string/sign_in_password"
+        android:textAlignment="textStart"
+        android:background="@drawable/custom_stroke_color"
+        android:drawableStart="@drawable/baseline_drawable_lock" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="30dp"
+        android:background="@drawable/button_gradient_color"
+        android:fontFamily="poppins"
+        android:textStyle="bold"
+        android:textColor="@color/accentsThrid"
+        android:text="@string/sign_in_button" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/other_access" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="30dp"
+        android:background="@drawable/button_white_color"
+        android:fontFamily="poppins"
+        android:textStyle="bold"
+        android:textColor="@color/accentsFirst"
+        android:text="@string/sign_button_google" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/sign_in_no_have_account" />
+
+</LinearLayout>
