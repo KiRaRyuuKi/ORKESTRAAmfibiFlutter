@@ -2966,8 +2966,21 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable baseline_account
+drawable baseline_arrow_left
+drawable baseline_bell
+drawable baseline_chevron_right
+drawable baseline_close
+drawable baseline_copy
+drawable baseline_drawable_code
+drawable baseline_drawable_key
 drawable baseline_drawable_lock
+drawable baseline_drawable_mail
 drawable baseline_drawable_user
+drawable baseline_home
+drawable baseline_search
+drawable baseline_showroom
+drawable baseline_transaction
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2977,6 +2990,7 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable button_gradient_color
+drawable button_item_selector
 drawable button_white_color
 drawable custom_stroke_color
 drawable design_fab_background
@@ -3121,6 +3135,7 @@ id accessibility_custom_action_6
 id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
+id accountItem
 id actionDown
 id actionDownUp
 id actionUp
@@ -3173,9 +3188,11 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id button3
-id button4
 id buttonPanel
+id buttonSignIn
+id buttonSignInGoogle
+id buttonSignUp
+id buttonSignUpGoogle
 id cache_measures
 id callMeasure
 id cancel_button
@@ -3214,6 +3231,7 @@ id currentState
 id custom
 id customPanel
 id cut
+id dataBinding
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -3249,10 +3267,9 @@ id easeInOut
 id easeOut
 id east
 id edge
-id editText
-id editTextPassword
 id edit_query
 id elastic
+id emailAddressSignUp
 id embed
 id enabled
 id end
@@ -3293,6 +3310,7 @@ id header_title
 id hideable
 id home
 id homeAsUp
+id homeItem
 id honorRequest
 id horizontal_only
 id icon
@@ -3321,6 +3339,7 @@ id line3
 id linear
 id listMode
 id list_item
+id lottieAnimationSignIn
 id lottie_layer_name
 id m3_side_sheet
 id marquee
@@ -3402,6 +3421,8 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+id onAttachStateChangeListener
+id onDateChanged
 id onInterceptTouchReturnSwipe
 id open_search_bar_text_view
 id open_search_view_background
@@ -3417,6 +3438,8 @@ id open_search_view_search_prefix
 id open_search_view_status_bar_spacer
 id open_search_view_toolbar
 id open_search_view_toolbar_container
+id otherAccessSignIn
+id otherAccessSignUp
 id outline
 id outward
 id overshoot
@@ -3426,6 +3449,8 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id passwordSignIn
+id passwordSignUp
 id password_toggle
 id path
 id pathRelative
@@ -3440,6 +3465,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id repeatPasswordSignUp
 id report_drawn
 id restart
 id reverse
@@ -3460,6 +3486,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id searchItem
 id search_badge
 id search_bar
 id search_button
@@ -3479,8 +3506,13 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id showroomItem
 id signInDescription
+id signInNoHaveAccount
+id signInRegister
 id signInTitle
+id signUpDescription
+id signUpTitle
 id sin
 id skipCollapsed
 id skipped
@@ -3535,8 +3567,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textView3
-id textView4
+id textWatcher
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3554,6 +3585,7 @@ id toggle
 id top
 id topPanel
 id touch_outside
+id transactionItem
 id transitionToEnd
 id transitionToStart
 id transition_current_scene
@@ -3567,6 +3599,8 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id userSignIn
+id userSignUp
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -3720,6 +3754,11 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_account
+layout fragment_home
+layout fragment_search
+layout fragment_showroom
+layout fragment_transaction
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3781,7 +3820,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
-menu button_nav_menu
+menu button_items_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -3839,6 +3878,7 @@ string get_code
 string get_code_button
 string get_code_message
 string get_code_resend
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.orkestra.paycars.app-mergeDebugResources-30:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.orkestra.paycars.app-mergeDebugResources-34:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/res/values-night/themes.xml",
