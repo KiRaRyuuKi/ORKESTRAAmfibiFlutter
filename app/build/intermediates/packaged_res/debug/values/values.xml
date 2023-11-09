@@ -14,13 +14,14 @@
     <string name="get_code_button">Next</string>
     <string name="get_code_message">Get the code from your email message.</string>
     <string name="get_code_resend">Resend return code</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="other_access">atau login dengan</string>
     <string name="sign_button_google">Login Dengan Google</string>
     <string name="sign_in_button">Sign In</string>
     <string name="sign_in_description">Komitmen kami dalam menjaga keamanan data anda</string>
-    <string name="sign_in_no_have_account">Belum punya akun?</string>
+    <string name="sign_in_no_have_account"> Belum punya akun? </string>
     <string name="sign_in_password">Enter your password</string>
-    <string name="sign_in_register">Register</string>
+    <string name="sign_in_register"> Register </string>
     <string name="sign_in_title">Platform Jual Beli Mobil Bekas</string>
     <string name="sign_in_user">Login with email or username</string>
     <string name="sign_up_button">Sign Up</string>
