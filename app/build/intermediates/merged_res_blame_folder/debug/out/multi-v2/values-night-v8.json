@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "com.orkestra.paycars.app-mergeDebugResources-34:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.orkestra.paycars.app-mergeDebugResources-26:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/res/values-night/themes.xml",
+                    "source": "E:\\Project\\ORKESTRA PayCars\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "100",
                         "endLines": "5",
                         "endColumns": "12",
-                        "endOffsets": "348"
+                        "endOffsets": "337"
                     },
                     "to": {
                         "startLines": "2",
@@ -19,28 +19,11 @@
                         "startOffsets": "55",
                         "endLines": "5",
                         "endColumns": "12",
-                        "endOffsets": "199"
+                        "endOffsets": "188"
                     }
                 },
                 {
-                    "source": "/home/kira/.gradle/caches/transforms-3/ea81018398a5eb9877f0ba4a04db551f/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593,687",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "120,204,288,384,486,588,682,771"
-                    },
-                    "to": {
-                        "startLines": "6,7,8,9,10,11,12,38",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "204,274,358,442,538,640,742,3597",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "269,353,437,533,635,737,831,3681"
-                    }
-                },
-                {
-                    "source": "/home/kira/.gradle/caches/transforms-3/63382362199d553975ec785d0a1c3d4b/transformed/material-1.10.0/res/values-night-v8/values-night-v8.xml",
+                    "source": "C:\\Users\\Tri agus hadi p\\.gradle\\caches\\transforms-3\\e5f321a248aa217236dda4759916dcd9\\transformed\\material-1.9.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -51,9 +34,26 @@
                     "to": {
                         "startLines": "13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,39,40,41,42,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "836,911,1022,1111,1212,1319,1426,1525,1632,1735,1823,1947,2049,2151,2267,2369,2483,2611,2727,2849,2985,3105,3239,3359,3471,3686,3803,3927,4057,4179,4317,4451,4567",
+                        "startOffsets": "825,900,1011,1100,1201,1308,1415,1514,1621,1724,1812,1936,2038,2140,2256,2358,2472,2600,2716,2838,2974,3094,3228,3348,3460,3675,3792,3916,4046,4168,4306,4440,4556",
                         "endColumns": "74,110,88,100,106,106,98,106,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
-                        "endOffsets": "906,1017,1106,1207,1314,1421,1520,1627,1730,1818,1942,2044,2146,2262,2364,2478,2606,2722,2844,2980,3100,3234,3354,3466,3592,3798,3922,4052,4174,4312,4446,4562,4682"
+                        "endOffsets": "895,1006,1095,1196,1303,1410,1509,1616,1719,1807,1931,2033,2135,2251,2353,2467,2595,2711,2833,2969,3089,3223,3343,3455,3581,3787,3911,4041,4163,4301,4435,4551,4671"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Tri agus hadi p\\.gradle\\caches\\transforms-3\\af575453595166fed38ef613cf3573b3\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,38",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "193,263,347,431,527,629,731,3586",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "258,342,426,522,624,726,820,3670"
                     }
                 }
             ]

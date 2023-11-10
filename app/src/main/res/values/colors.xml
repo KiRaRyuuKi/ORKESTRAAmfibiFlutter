@@ -2,10 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="primaryFirst">#FF3518</color>
-    <color name="primarySecond">#FF5E18</color>
-    <color name="accentsFirst">#020000</color>
-    <color name="accentsSecond">#2C2C2C</color>
-    <color name="accentsThrid">#F5F5F5</color>
-    <color name="accentsStroke">#CECECE</color>
+    <color name="primaryPertama">#1DAE57</color>
+    <color name="primaryKedua">#47CBC3</color>
+    <color name="secondaryPertama">#3B3B3B</color>
+    <color name="secondaryKedua">#787878</color>
+    <color name="secondaryKetiga">#ADADAD</color>
+    <color name="secondaryKeempat">#DDDDDD</color>
+    <color name="secondaryKelima">#F1F1F1</color>
 </resources>
