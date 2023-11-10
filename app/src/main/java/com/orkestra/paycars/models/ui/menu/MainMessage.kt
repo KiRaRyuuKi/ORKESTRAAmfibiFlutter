@@ -26,7 +26,7 @@ class MainMessage : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main_Message)
+        setContentView(R.layout.activity_main_message)
         recyclerView = findViewById(R.id.rvDate)
         listData = ArrayList()
         getData()
