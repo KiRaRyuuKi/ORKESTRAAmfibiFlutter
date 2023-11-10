@@ -13,8 +13,8 @@
     <string name="sign_in_user">Login with email or username</string>
     <string name="sign_in_password">Enter your password</string>
     <string name="sign_in_button">Sign In</string>
-    <string name="sign_in_no_have_account">Belum punya akun?</string>
-    <string name="sign_in_register">Register</string>
+    <string name="sign_in_no_have_account"> Belum punya akun? </string>
+    <string name="sign_in_register"> Register </string>
 
     <!-- sign up -->
     <string name="sign_up_title">Buat akun PayCars</string>

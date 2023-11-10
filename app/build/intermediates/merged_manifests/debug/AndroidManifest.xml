@@ -32,13 +32,13 @@
             android:exported="false"
             android:theme="@style/Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" />
         <activity
-            android:name="com.orkestra.paycars.model.MainSignUpActivity"
+            android:name="com.orkestra.paycars.models.MainSignUpActivity"
             android:exported="false" />
         <activity
-            android:name="com.orkestra.paycars.model.MainSignInActivity"
+            android:name="com.orkestra.paycars.models.MainSignInActivity"
             android:exported="false" />
         <activity
-            android:name="com.orkestra.paycars.model.ui.home.MainHomeActivity"
+            android:name="com.orkestra.paycars.models.ui.menu.MainHomeActivity"
             android:exported="false" />
         <activity
             android:name="com.orkestra.paycars.MainStartActivity"
