@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PayCars (Platform Jual Beli Mobil Bekas)"
+rootProject.name = "ORKESTRA PayCars (Platform Jual Beli Mobil Bekas)"
 include(":app")

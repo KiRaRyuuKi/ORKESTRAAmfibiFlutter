@@ -1,14 +1,40 @@
 <resources>
+    <!-- app name -->
     <string name="app_name">PayCars</string>
-    <string name="opsi_login">atau masuk dengan</string>
-    <string name="reload">kirim ulang</string>
-    <string name="title_activity_login">LoginActivity</string>
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Sign in or register</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="welcome">"Welcome !"</string>
-    <string name="invalid_username">Not a valid username</string>
-    <string name="invalid_password">Password must be >5 characters</string>
-    <string name="login_failed">"Login failed"</string>
+
+    <!-- welcome -->
+    <string name="welcome_title">Temukan Mobil Impian Anda disini!</string>
+    <string name="welcome_subtitle">Jelajahi Pilihan Mobil  Terbaik yang kami Sediakan!</string>
+    <string name="welcome_button">Get Started</string>
+
+    <!-- sign in -->
+    <string name="sign_in_title">Platform Jual Beli Mobil Bekas</string>
+    <string name="sign_in_description">Komitmen kami dalam menjaga keamanan data anda</string>
+    <string name="sign_in_user">Login with email or username</string>
+    <string name="sign_in_password">Enter your password</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="sign_in_no_have_account"> Belum punya akun? </string>
+    <string name="sign_in_register"> Register </string>
+
+    <!-- sign up -->
+    <string name="sign_up_title">Buat akun PayCars</string>
+    <string name="sign_up_description">Layanan kami mengutamakan keamanan data. Kami akan selalu menjaga keamanan data Anda, yang dapat Anda percayakan kepada kami.</string>
+    <string name="sign_up_user">Enter your username</string>
+    <string name="sign_up_mail">Type your email</string>
+    <string name="sign_up_password">Type your passwrod</string>
+    <string name="sign_up_repeat_password">Repeat your password</string>
+    <string name="sign_up_button">Sign Up</string>
+
+    <!-- get code -->
+    <string name="get_code">Type your authentication code</string>
+    <string name="get_code_message">Get the code from your email message.</string>
+    <string name="get_code_resend">Resend return code</string>
+    <string name="get_code_button">Next</string>
+
+    <!-- other -->
+    <string name="other_access">atau login dengan</string>
+    <string name="sign_button_google">Login Dengan Google</string>
+    <string name="copy_right">Copyright ORKESTRA (PayCars). All rights reserved</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
