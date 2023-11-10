@@ -3187,6 +3187,7 @@ int id bounce 0x7f080060
 int id bounceBoth 0x7f080061
 int id bounceEnd 0x7f080062
 int id bounceStart 0x7f080063
+int id buttonArrowLeft 0x7f08021a
 int id buttonPanel 0x7f080066
 int id buttonSignIn 0x7f080201
 int id buttonSignInGoogle 0x7f080202

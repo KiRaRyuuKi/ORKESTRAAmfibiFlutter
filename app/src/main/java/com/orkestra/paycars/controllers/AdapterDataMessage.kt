@@ -1,4 +1,4 @@
-package com.orkestra.paycars.models.ui.menu
+package com.orkestra.paycars.controllers
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -9,11 +9,12 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.orkestra.paycars.R
+import com.orkestra.paycars.models.ui.menu.DataModelMessage
 
-class AdapterData(context: Context, listData: List<DataModel>?) :
-    RecyclerView.Adapter<AdapterData.HolderData>() {
+class AdapterDataMessage(context: Context, listData: List<DataModelMessage>?) :
+    RecyclerView.Adapter<AdapterDataMessage.HolderData>() {
 
-    var listData: List<DataModel>
+    var listData: List<DataModelMessage>
     var inflater: LayoutInflater
     var context: Context
 
@@ -25,7 +26,7 @@ class AdapterData(context: Context, listData: List<DataModel>?) :
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): HolderData {
-        val view: View = inflater.inflate(R.layout.item_data, parent, false)
+        val view: View = inflater.inflate(R.layout.item_data_message, parent, false)
         return HolderData(view)
     }
 

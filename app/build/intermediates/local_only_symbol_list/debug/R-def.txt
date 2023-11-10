@@ -31,6 +31,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 id accountItem
 id bottomNavigationView
+id buttonArrowLeft
 id buttonSignIn
 id buttonSignInGoogle
 id buttonSignUp

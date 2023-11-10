@@ -13,10 +13,6 @@
         android:theme="@style/Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas"
         tools:targetApi="31" >
         <activity
-            android:name=".models.ui.menu.MainMessage"
-            android:exported="false"
-            android:theme="@style/Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" />
-        <activity
             android:name=".MainWelcomeActivity"
             android:exported="false"
             android:theme="@style/Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" />

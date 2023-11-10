@@ -8,24 +8,24 @@
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-pngs-32:/drawable-xhdpi/baseline_showroom.png"
     },
     {
-        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-36:/drawable_baseline_arrow_left.xml.flat",
-        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-38:/drawable/baseline_arrow_left.xml"
-    },
-    {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-36:/drawable-xxxhdpi_baseline_showroom.png.flat",
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-pngs-32:/drawable-xxxhdpi/baseline_showroom.png"
+    },
+    {
+        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-36:/drawable_baseline_arrow_left.xml.flat",
+        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-38:/drawable/baseline_arrow_left.xml"
     },
     {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-36:/drawable_baseline_drawable_lock.xml.flat",
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-38:/drawable/baseline_drawable_lock.xml"
     },
     {
-        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-36:/layout_activity_main_welcome.xml.flat",
-        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-38:/layout/activity_main_welcome.xml"
-    },
-    {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-36:/layout_fragment_search.xml.flat",
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-38:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-36:/layout_activity_main_welcome.xml.flat",
+        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-38:/layout/activity_main_welcome.xml"
     },
     {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-36:/raw_loading.json.flat",
@@ -70,10 +70,6 @@
     {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-36:/drawable_baseline_drawable_user.xml.flat",
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-38:/drawable/baseline_drawable_user.xml"
-    },
-    {
-        "merged": "com.orkestra.paycars.app-merged_res-36:/layout_activity_main_sign_in.xml.flat",
-        "source": "com.orkestra.paycars.app-main-38:/layout/activity_main_sign_in.xml"
     },
     {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
