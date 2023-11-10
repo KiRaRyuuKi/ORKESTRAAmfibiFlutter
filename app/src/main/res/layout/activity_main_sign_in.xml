@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".models.MainSignInActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp" >
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/lottieAnimationSignIn"
+            android:layout_width="wrap_content"
+            android:layout_height="280dp"
+            android:layout_marginTop="-100dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            app:lottie_rawRes="@raw/orange_car" />
+
+        <TextView
+            android:id="@+id/signInTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-75dp"
+            android:gravity="center"
+            android:text="@string/sign_in_title"
+            android:textColor="@color/accentsFirst"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/lottieAnimationSignIn" />
+
+        <TextView
+            android:id="@+id/signInDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:text="@string/sign_in_description"
+            android:textColor="@color/accentsSecond"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/signInTitle" />
+
+        <EditText
+            android:id="@+id/userSignIn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/custom_stroke_color"
+            android:drawableStart="@drawable/baseline_drawable_user"
+            android:drawablePadding="12dp"
+            android:ems="10"
+            android:hint="@string/sign_in_user"
+            android:inputType="text"
+            android:paddingStart="8dp"
+            android:textAlignment="textStart"
+            android:textSize="15dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/lottieAnimationSignIn" />
+
+        <EditText
+            android:id="@+id/passwordSignIn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/custom_stroke_color"
+            android:drawableStart="@drawable/baseline_drawable_lock"
+            android:drawablePadding="12dp"
+            android:ems="10"
+            android:hint="@string/sign_in_password"
+            android:inputType="textPassword"
+            android:paddingStart="8dp"
+            android:textAlignment="textStart"
+            android:textSize="15dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/userSignIn" />
+
+        <Button
+            android:id="@+id/buttonSignIn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/button_gradient_color"
+            android:text="@string/sign_in_button"
+            android:textColor="@color/accentsThrid"
+            android:textStyle="bold"
+            app:layout_constraintTop_toBottomOf="@+id/passwordSignIn" />
+
+        <TextView
+            android:id="@+id/otherAccessSignIn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:text="@string/other_access"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/buttonSignIn" />
+
+        <Button
+            android:id="@+id/buttonSignInGoogle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/button_white_color"
+            android:text="@string/sign_button_google"
+            android:textColor="@color/accentsFirst"
+            android:textStyle="bold"
+            app:layout_constraintTop_toBottomOf="@+id/otherAccessSignIn" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="28dp"
+            android:layout_marginTop="32dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@+id/buttonSignInGoogle">
+
+            <TextView
+                android:id="@+id/signInNoHaveAccount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sign_in_no_have_account" />
+
+            <TextView
+                android:id="@+id/signInRegister"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="2dp"
+                android:text="@string/sign_in_register"
+                android:textColor="@color/primaryFirst" />
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>

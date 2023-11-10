@@ -1,17 +1,20 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.PayCarsPlatformJualBeliMobilBekas" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="Base.Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/primaryFirst</item>
+        <item name="colorPrimaryDark">@color/primarySecond</item>
+        <item name="colorAccent">@color/accentsThrid</item>
     </style>
 
-    <style name="Theme.PayCarsPlatformJualBeliMobilBekas" parent="Base.Theme.PayCarsPlatformJualBeliMobilBekas" />
-    
-    <style name="Theme.PayCarsPlatformJualBeliMobilBekas.NoActionBarAndNoStatusBar">
-        <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
+    <style name="Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" parent="Base.Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" >
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:windowContentOverlay">@null</item>
         <item name="android:windowTranslucentStatus">true</item>
         <item name="android:windowTranslucentNavigation">true</item>
-        <item name="android:fitsSystemWindows">true</item>
     </style>
 </resources>
