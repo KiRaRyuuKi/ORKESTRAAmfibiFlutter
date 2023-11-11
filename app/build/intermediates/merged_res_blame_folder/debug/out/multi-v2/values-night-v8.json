@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "com.orkestra.paycars.app-mergeDebugResources-34:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.orkestra.paycars.app-mergeDebugResources-36:/values-night-v8/values-night-v8.xml",
             "map": [
-                {
-                    "source": "/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/res/values-night/themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "348"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "199"
-                    }
-                },
                 {
                     "source": "/home/kira/.gradle/caches/transforms-3/ea81018398a5eb9877f0ba4a04db551f/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
                     "from": {
@@ -54,6 +35,25 @@
                         "startOffsets": "836,911,1022,1111,1212,1319,1426,1525,1632,1735,1823,1947,2049,2151,2267,2369,2483,2611,2727,2849,2985,3105,3239,3359,3471,3686,3803,3927,4057,4179,4317,4451,4567",
                         "endColumns": "74,110,88,100,106,106,98,106,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
                         "endOffsets": "906,1017,1106,1207,1314,1421,1520,1627,1730,1818,1942,2044,2146,2262,2364,2478,2606,2722,2844,2980,3100,3234,3354,3466,3592,3798,3922,4052,4174,4312,4446,4562,4682"
+                    }
+                },
+                {
+                    "source": "/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "199"
                     }
                 }
             ]
