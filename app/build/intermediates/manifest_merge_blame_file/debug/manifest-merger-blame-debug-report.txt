@@ -20,69 +20,69 @@
 15-->[androidx.core:core:1.9.0] /home/kira/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:5:5-37:19
+17-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:5:5-37:19
 18        android:allowBackup="true"
-18-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:6:9-35
+18-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.9.0] /home/kira/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:7:9-65
+20-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:extractNativeLibs="true"
 23        android:fullBackupContent="@xml/backup_rules"
-23-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:8:9-54
+23-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:8:9-54
 24        android:icon="@mipmap/ic_launcher"
-24-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:9:9-43
+24-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:9:9-43
 25        android:label="@string/app_name"
-25-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:10:9-41
+25-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:10:9-41
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:11:9-54
+26-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:11:9-54
 27        android:supportsRtl="true"
-27-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:12:9-35
+27-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:12:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" >
-29-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:13:9-79
+29-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:13:9-79
 30        <activity
-30-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:15:9-18:86
+30-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:15:9-18:86
 31            android:name="com.orkestra.paycars.MainWelcomeActivity"
-31-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:16:13-48
+31-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:16:13-48
 32            android:exported="false"
-32-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:17:13-37
+32-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:17:13-37
 33            android:theme="@style/Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" />
-33-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:18:13-83
+33-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:18:13-83
 34        <activity
-34-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:19:9-21:40
+34-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:19:9-21:40
 35            android:name="com.orkestra.paycars.models.MainSignUpActivity"
-35-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:20:13-54
+35-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:20:13-54
 36            android:exported="false" />
-36-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:21:13-37
+36-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:21:13-37
 37        <activity
-37-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:22:9-24:40
+37-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:22:9-24:40
 38            android:name="com.orkestra.paycars.models.MainSignInActivity"
-38-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:23:13-54
+38-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:23:13-54
 39            android:exported="false" />
-39-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:24:13-37
+39-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:24:13-37
 40        <activity
-40-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:25:9-27:40
+40-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:25:9-27:40
 41            android:name="com.orkestra.paycars.models.ui.menu.MainHomeActivity"
-41-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:26:13-60
+41-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:26:13-60
 42            android:exported="false" />
-42-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:27:13-37
+42-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:27:13-37
 43        <activity
-43-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:28:9-36:20
+43-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:28:9-36:20
 44            android:name="com.orkestra.paycars.MainStartActivity"
-44-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:29:13-46
+44-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:29:13-46
 45            android:exported="true" >
-45-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:30:13-36
+45-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:30:13-36
 46            <intent-filter>
-46-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:31:13-35:29
+46-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:31:13-35:29
 47                <action android:name="android.intent.action.MAIN" />
-47-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:32:17-69
-47-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:32:25-66
+47-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:32:17-69
+47-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:32:25-66
 48
 49                <category android:name="android.intent.category.LAUNCHER" />
-49-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:34:17-77
-49-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:34:27-74
+49-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:34:17-77
+49-->/home/kira/Documents/GitHub/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:34:27-74
 50            </intent-filter>
 51        </activity>
 52

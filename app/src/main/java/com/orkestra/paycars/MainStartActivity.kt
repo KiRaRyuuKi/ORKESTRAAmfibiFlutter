@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.orkestra.paycars.models.MainSignUpActivity
+import com.orkestra.paycars.models.ui.menu.MainHomeActivity
 
 
 class MainStartActivity : AppCompatActivity() {
@@ -16,6 +17,13 @@ class MainStartActivity : AppCompatActivity() {
 
         goToRegister.setOnClickListener {
             val intent = Intent(this@MainStartActivity, MainSignUpActivity::class.java)
+            startActivity(intent)
+        }
+
+        val goToHome = findViewById<TextView>(R.id.buttonSignIn)
+
+        goToHome.setOnClickListener {
+            val intent = Intent(this@MainStartActivity, MainHomeActivity::class.java)
             startActivity(intent)
         }
     }
