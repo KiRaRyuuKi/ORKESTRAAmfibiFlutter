@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.orkestra.paycars.app-mergeDebugResources-34:/values-gl/values-gl.xml",
+            "outputFile": "com.orkestra.paycars.app-mergeDebugResources-36:/values-gl/values-gl.xml",
             "map": [
                 {
                     "source": "/home/kira/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/res/values-gl/values-gl.xml",
