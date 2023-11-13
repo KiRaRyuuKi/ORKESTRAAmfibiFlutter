@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".models.ui.menu.MainMessage">
+    tools:context=".models.ui.menu.MainMessageActivity">
 
 
     <androidx.recyclerview.widget.RecyclerView

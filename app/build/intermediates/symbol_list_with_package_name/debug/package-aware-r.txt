@@ -2978,6 +2978,7 @@ drawable baseline_drawable_lock
 drawable baseline_drawable_mail
 drawable baseline_drawable_user
 drawable baseline_home
+drawable baseline_message
 drawable baseline_search
 drawable baseline_showroom
 drawable baseline_transaction
@@ -2992,6 +2993,9 @@ drawable btn_radio_on_to_off_mtrl_animation
 drawable button_gradient_color
 drawable button_item_selector
 drawable button_white_color
+drawable content_1
+drawable content_2
+drawable content_3
 drawable custom_stroke_color
 drawable design_fab_background
 drawable design_ic_visibility
@@ -3084,6 +3088,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable selection_band_overlay
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3188,6 +3193,11 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id button
+id button2
+id button3
+id button4
+id buttonArrowLeft
 id buttonPanel
 id buttonSignIn
 id buttonSignInGoogle
@@ -3232,6 +3242,7 @@ id custom
 id customPanel
 id cut
 id dataBinding
+id dataText
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -3299,6 +3310,7 @@ id frost
 id fullscreen_header
 id ghost_view
 id ghost_view_holder
+id glide_custom_view_target_tag
 id gone
 id graph
 id graph_wrap
@@ -3315,10 +3327,15 @@ id honorRequest
 id horizontal_only
 id icon
 id icon_group
+id idImg
 id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageContentFirst
+id imageContentSecond
+id imageContentThird
+id imageView
 id immediateStop
 id included
 id indeterminate
@@ -3476,6 +3493,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id rvDate
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3734,6 +3752,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main_home
+layout activity_main_message
 layout activity_main_sign_in
 layout activity_main_sign_up
 layout activity_main_start
@@ -3759,6 +3778,7 @@ layout fragment_home
 layout fragment_search
 layout fragment_showroom
 layout fragment_transaction
+layout item_data_message
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
