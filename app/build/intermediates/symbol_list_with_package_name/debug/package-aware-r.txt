@@ -2966,6 +2966,8 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable background_screen
+drawable background_welcome
 drawable baseline_account
 drawable baseline_arrow_left
 drawable baseline_bell
@@ -2977,10 +2979,17 @@ drawable baseline_drawable_key
 drawable baseline_drawable_lock
 drawable baseline_drawable_mail
 drawable baseline_drawable_user
+drawable baseline_edit
+drawable baseline_globe
 drawable baseline_home
+drawable baseline_info
+drawable baseline_lock
+drawable baseline_log_out
+drawable baseline_map_pin
+drawable baseline_menu
 drawable baseline_message
+drawable baseline_more_vertical
 drawable baseline_search
-drawable baseline_showroom
 drawable baseline_transaction
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -2990,18 +2999,22 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button_black_color
 drawable button_gradient_color
 drawable button_item_selector
 drawable button_white_color
 drawable content_1
 drawable content_2
 drawable content_3
+drawable copyright_line
 drawable custom_stroke_color
+drawable customer_automobile_saloon
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable google
 drawable ic_arrow_back_black_24
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
@@ -3016,6 +3029,8 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
+drawable logo_add
+drawable logo_app
 drawable m3_appbar_background
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
@@ -3088,10 +3103,17 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable profile
 drawable selection_band_overlay
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font poppins_bold
+font poppins_extra_bold
+font poppins_italic
+font poppins_regular
+font poppins_semi_bold
+font poppins_thin
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -3181,6 +3203,8 @@ id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
 id automatic
+id backgroundStartScreen
+id backgroundWelcome
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -3197,12 +3221,25 @@ id button
 id button2
 id button3
 id button4
+id button5
+id button7
 id buttonArrowLeft
+id buttonEditProfile
+id buttonLogOutAccount
+id buttonMapAccount
+id buttonNotifyAccount
 id buttonPanel
+id buttonPrivacyAccount
+id buttonSecurityAccount
+id buttonShowroom
+id buttonShowroomTransaction
+id buttonShowroomUser
 id buttonSignIn
 id buttonSignInGoogle
 id buttonSignUp
 id buttonSignUpGoogle
+id buttonStatusTransaction
+id buttonWelcome
 id cache_measures
 id callMeasure
 id cancel_button
@@ -3228,12 +3265,14 @@ id collapseActionView
 id compress
 id confirm_button
 id constraint
+id constraintLayout
 id container
 id content
 id contentPanel
 id contiguous
 id continuousVelocity
 id coordinator
+id copyrightScreen
 id cos
 id counterclockwise
 id cradle
@@ -3250,6 +3289,7 @@ id decor_content_parent
 id default_activity_button
 id deltaRelative
 id dependency_ordering
+id descriptionTransaction
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -3281,6 +3321,7 @@ id edge
 id edit_query
 id elastic
 id emailAddressSignUp
+id emailUser
 id embed
 id enabled
 id end
@@ -3326,6 +3367,7 @@ id homeItem
 id honorRequest
 id horizontal_only
 id icon
+id iconShowroomUser
 id icon_group
 id idImg
 id ifRoom
@@ -3335,7 +3377,10 @@ id image
 id imageContentFirst
 id imageContentSecond
 id imageContentThird
-id imageView
+id imageShowroomTransaction
+id imageTransaction
+id imageView2
+id imageWelcome
 id immediateStop
 id included
 id indeterminate
@@ -3354,8 +3399,11 @@ id legacy
 id line1
 id line3
 id linear
+id linearLayout
 id listMode
 id list_item
+id logoAppScreen
+id lottieAnimationScreen
 id lottieAnimationSignIn
 id lottie_layer_name
 id m3_side_sheet
@@ -3418,6 +3466,10 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id nameShowroomTransaction
+id nameShowroomUser
+id nameTransaction
+id nameUser
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3477,11 +3529,14 @@ id pin
 id position
 id postLayout
 id pressed
+id priceTransaction
+id profileImage
 id progress_circular
 id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerViewTransaction
 id repeatPasswordSignUp
 id report_drawn
 id restart
@@ -3563,6 +3618,10 @@ id stop
 id stretch
 id submenuarrow
 id submit_area
+id subtitleMapAccount
+id subtitleNotifyAccount
+id subtitlePrivacyAccount
+id subtitleSecurityAccount
 id supportScrollUp
 id tabMode
 id tag_accessibility_actions
@@ -3585,6 +3644,12 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textView10
+id textView2
+id textView7
+id textView8
+id textView9
 id textWatcher
 id text_input_end_icon
 id text_input_error_icon
@@ -3598,6 +3663,12 @@ id textinput_suffix_text
 id time
 id title
 id titleDividerNoCustom
+id titleLogOutAccount
+id titleMapAccount
+id titleNotifyAccount
+id titlePrivacyAccount
+id titleSecurityAccount
+id titleSettingAccount
 id title_template
 id toggle
 id top
@@ -3619,7 +3690,10 @@ id up
 id useLogo
 id userSignIn
 id userSignUp
+id usernameUser
 id vertical_only
+id viewLineFirst
+id viewLineSecond
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
@@ -3628,6 +3702,11 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id welcomeSubtitle
+id welcomeTitleFirst
+id welcomeTitleFourth
+id welcomeTitleSecond
+id welcomeTitleThird
 id west
 id withText
 id with_icon
@@ -3779,6 +3858,7 @@ layout fragment_search
 layout fragment_showroom
 layout fragment_transaction
 layout item_data_message
+layout item_data_transaction
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3847,6 +3927,7 @@ plurals mtrl_badge_content_description
 raw city_cars
 raw loading
 raw orange_car
+raw screen
 raw search
 string abc_action_bar_home_description
 string abc_action_bar_up_description
@@ -3888,7 +3969,7 @@ string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
 string clear_text_end_icon_content_description
-string copy_right
+string copyright
 string error_a11y_label
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
@@ -4032,7 +4113,10 @@ string sign_up_user
 string status_bar_notification_info_overflow
 string welcome_button
 string welcome_subtitle
-string welcome_title
+string welcome_title_first
+string welcome_title_fourth
+string welcome_title_second
+string welcome_title_third
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -4321,6 +4405,8 @@ style Base_Widget_MaterialComponents_Snackbar
 style Base_Widget_MaterialComponents_TextInputEditText
 style Base_Widget_MaterialComponents_TextInputLayout
 style Base_Widget_MaterialComponents_TextView
+style BottomNavigationActiveText
+style BottomNavigationInactiveText
 style CardView
 style CardView_Dark
 style CardView_Light
@@ -5150,6 +5236,8 @@ style Widget_MaterialComponents_Toolbar_PrimarySurface
 style Widget_MaterialComponents_Toolbar_Surface
 style Widget_MaterialComponents_Tooltip
 style Widget_Support_CoordinatorLayout
+style circular
+style rounded
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth
@@ -5304,5 +5392,6 @@ styleable ViewPager2 android_orientation
 styleable ViewStubCompat android_id android_layout android_inflatedId
 styleable ViewTransition android_id SharedValue SharedValueId clearsTag duration ifTagNotSet ifTagSet motionInterpolator motionTarget onStateTransition pathMotionArc setsTag transitionDisable upDuration viewTransitionMode
 styleable include constraintSet
+xml activity_main_start_scene
 xml backup_rules
 xml data_extraction_rules

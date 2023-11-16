@@ -1,30 +1,28 @@
 package com.orkestra.paycars
 
 import android.content.Intent
+import android.os.Build
 import android.os.Bundle
-import android.widget.TextView
+import android.os.Handler
+import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
-import com.orkestra.paycars.models.MainSignUpActivity
-import com.orkestra.paycars.models.ui.menu.MainHomeActivity
 
 
 class MainStartActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main_sign_in)
+        setContentView(R.layout.activity_main_start)
 
-        val goToRegister = findViewById<TextView>(R.id.signInRegister)
-
-        goToRegister.setOnClickListener {
-            val intent = Intent(this@MainStartActivity, MainSignUpActivity::class.java)
-            startActivity(intent)
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            window.setFlags(
+                WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,
+                WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS
+            )
         }
 
-        val goToHome = findViewById<TextView>(R.id.buttonSignIn)
-
-        goToHome.setOnClickListener {
-            val intent = Intent(this@MainStartActivity, MainHomeActivity::class.java)
-            startActivity(intent)
-        }
+        Handler().postDelayed({
+            startActivity(Intent(this@MainStartActivity, MainWelcomeActivity::class.java))
+            finish()
+        }, 2500)
     }
 }

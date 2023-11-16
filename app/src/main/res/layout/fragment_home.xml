@@ -1,106 +1,231 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".models.fragment.menu.HomeFragment">
+    android:layout_height="match_parent">
 
     <androidx.constraintlayout.widget.ConstraintLayout
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
         android:layout_width="match_parent"
-        android:layout_height="50dp">
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp">
 
-        <ImageView
-            android:id="@+id/imageView"
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/imageView2"
+            android:padding="2dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/profile"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:shapeAppearanceOverlay="@style/circular"
+            app:strokeWidth="3dp"/>
+
+        <TextView
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:id="@+id/textView7"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="17dp"
-            android:layout_marginTop="12dp"
-            android:background="@drawable/button_white_color"
-            android:src="@drawable/baseline_account"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+            android:text="Muhammad Ilham"
+            android:fontFamily="@font/poppins_regular"
+            android:layout_marginStart="15dp"
+            app:layout_constraintBottom_toTopOf="@+id/textView8"
+            app:layout_constraintStart_toEndOf="@+id/imageView2"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <TextView
+            android:textSize="12sp"
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="KiRaRyuuKi"
+            android:layout_marginStart="15dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView2"
+            app:layout_constraintTop_toBottomOf="@+id/textView7"/>
+
+        <Button
+            android:id="@+id/button7"
+            android:background="@drawable/baseline_message"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginEnd="15dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/button5"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <Button
+            android:id="@+id/button5"
+            android:background="@drawable/baseline_menu"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <ScrollView
+        android:gravity="center"
         android:layout_width="match_parent"
-        android:layout_height="675dp"
-        android:layout_marginTop="55dp">
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp">
 
         <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
             android:gravity="center"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Promo Bulan Ini!"/>
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="November Berhadiah"/>
 
             <ViewFlipper
-                android:layout_width="380dp"
+                android:layout_width="match_parent"
                 android:layout_height="185dp"
-                android:autoStart="true"
-                android:flipInterval="5000"
                 android:inAnimation="@android:anim/slide_in_left"
-                android:outAnimation="@android:anim/slide_out_right">
+                android:outAnimation="@android:anim/slide_out_right"
+                android:flipInterval="5000" android:autoStart="true">
 
-                <ImageView
+                <com.google.android.material.imageview.ShapeableImageView
                     android:id="@+id/imageContentFirst"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:src="@drawable/content_1" />
+                    android:src="@drawable/content_1"
+                    app:shapeAppearanceOverlay="@style/rounded"/>
 
-                <ImageView
+                <com.google.android.material.imageview.ShapeableImageView
                     android:id="@+id/imageContentSecond"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:src="@drawable/content_2" />
+                    android:src="@drawable/content_2"
+                    app:shapeAppearanceOverlay="@style/rounded"/>
 
-                <ImageView
+                <com.google.android.material.imageview.ShapeableImageView
                     android:id="@+id/imageContentThird"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:src="@drawable/content_3" />
+                    android:src="@drawable/content_3"
+                    app:shapeAppearanceOverlay="@style/rounded"/>
+
             </ViewFlipper>
 
-            <LinearLayout
-                android:layout_width="wrap_content"
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:id="@+id/textView"
+                android:paddingTop="30dp"
+                android:paddingBottom="10dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
-                android:orientation="horizontal">
+                android:text="Kategori"/>
 
-                <Button
-                    android:id="@+id/button"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Button" />
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
 
-                <Button
-                    android:id="@+id/button2"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="Button"
-                    tools:layout_editor_absoluteY="185dp" />
-
-                <Button
-                    android:id="@+id/button3"
+                <LinearLayout
+                    android:orientation="horizontal"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="Button" />
+                    android:layout_height="wrap_content">
 
-                <Button
-                    android:id="@+id/button4"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="Button" />
+                    <Button
+                        android:textSize="12dp"
+                        android:textColor="@color/accentsThrid"
+                        android:id="@+id/button"
+                        android:background="@drawable/button_gradient_color"
+                        android:layout_width="115dp"
+                        android:layout_height="45dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="8dp"
+                        android:text="Lihat Semua"
+                        android:paddingStart="25dp"
+                        android:paddingEnd="25dp"/>
+
+                    <Button
+                        android:textSize="12dp"
+                        android:id="@+id/button2"
+                        android:background="@drawable/button_white_color"
+                        android:layout_width="115dp"
+                        android:layout_height="45dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="8dp"
+                        android:text="Mobil Family"
+                        android:layout_weight="1"
+                        android:paddingStart="25dp"
+                        android:paddingEnd="25dp"
+                        android:layout_marginStart="15dp"/>
+
+                    <Button
+                        android:textSize="12dp"
+                        android:id="@+id/button3"
+                        android:background="@drawable/button_white_color"
+                        android:layout_width="120dp"
+                        android:layout_height="45dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="8dp"
+                        android:text="Mobil Business"
+                        android:layout_weight="1"
+                        android:paddingStart="25dp"
+                        android:paddingEnd="25dp"
+                        android:layout_marginStart="15dp"/>
+
+                    <Button
+                        android:textSize="12dp"
+                        android:id="@+id/button4"
+                        android:background="@drawable/button_white_color"
+                        android:layout_width="115dp"
+                        android:layout_height="45dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="8dp"
+                        android:text="Mobil Sport"
+                        android:layout_weight="1"
+                        android:paddingStart="25dp"
+                        android:paddingEnd="25dp"
+                        android:layout_marginStart="15dp"/>
+
+                </LinearLayout>
+
+            </HorizontalScrollView>
+
+            <TextView
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:id="@+id/textView2"
+                android:paddingTop="30dp"
+                android:paddingBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lanjut Mencari"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
 
             </LinearLayout>
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="vertical"></LinearLayout>
-
         </LinearLayout>
+
     </ScrollView>
+
 </FrameLayout>

@@ -9,7 +9,6 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.orkestra.paycars.R
-import com.orkestra.paycars.models.ui.menu.DataModelMessage
 
 class AdapterDataMessage(context: Context, listData: List<DataModelMessage>?) :
     RecyclerView.Adapter<AdapterDataMessage.HolderData>() {

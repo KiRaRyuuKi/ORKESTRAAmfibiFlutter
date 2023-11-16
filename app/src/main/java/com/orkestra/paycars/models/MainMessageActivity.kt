@@ -15,6 +15,7 @@ import org.json.JSONException
 import org.json.JSONObject
 import com.orkestra.paycars.R
 import com.orkestra.paycars.controllers.AdapterDataMessage
+import com.orkestra.paycars.controllers.DataModelMessage
 
 class MainMessageActivity : AppCompatActivity() {
 

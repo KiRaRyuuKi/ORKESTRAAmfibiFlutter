@@ -9,7 +9,7 @@
     <color name="primarySecond">#FF5E18</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">PayCars</string>
-    <string name="copy_right">Copyright ORKESTRA (PayCars). All rights reserved</string>
+    <string name="copyright">Copyright ORKESTRA (PayCars). All rights reserved</string>
     <string name="get_code">Type your authentication code</string>
     <string name="get_code_button">Next</string>
     <string name="get_code_message">Get the code from your email message.</string>
@@ -32,14 +32,23 @@
     <string name="sign_up_title">Buat akun PayCars</string>
     <string name="sign_up_user">Enter your username</string>
     <string name="welcome_button">Get Started</string>
-    <string name="welcome_subtitle">Jelajahi Pilihan Mobil  Terbaik yang kami Sediakan!</string>
-    <string name="welcome_title">Temukan Mobil Impian Anda disini!</string>
+    <string name="welcome_subtitle">Jelajahi Pilihan Mobil Terbaik yang kami Sediakan!</string>
+    <string name="welcome_title_first">Temukan</string>
+    <string name="welcome_title_fourth">disini!</string>
+    <string name="welcome_title_second">Mobil</string>
+    <string name="welcome_title_third">Impian Anda</string>
     <style name="Base.Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" parent="Theme.AppCompat.Light.NoActionBar">
         
         
         <item name="colorPrimary">@color/primaryFirst</item>
         <item name="colorPrimaryDark">@color/primarySecond</item>
         <item name="colorAccent">@color/accentsThrid</item>
+    </style>
+    <style name="BottomNavigationActiveText">
+        <item name="android:textSize">11sp</item>
+    </style>
+    <style name="BottomNavigationInactiveText">
+        <item name="android:textSize">10sp</item>
     </style>
     <style name="Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" parent="Base.Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas">
         <item name="android:windowNoTitle">true</item>
@@ -49,5 +58,11 @@
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:windowTranslucentStatus">true</item>
         <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="circular" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="rounded" parent="">
+        <item name="cornerSize">12%</item>
     </style>
 </resources>

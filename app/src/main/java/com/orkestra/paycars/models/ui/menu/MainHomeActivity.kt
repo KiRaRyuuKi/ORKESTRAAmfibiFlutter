@@ -21,8 +21,6 @@ class MainHomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main_home)
 
-        replaceFragment(HomeFragment())
-
         binding = ActivityMainHomeBinding.inflate(layoutInflater)
         setContentView(binding.getRoot())
         binding.bottomNavigationView.setOnItemSelectedListener { item ->
