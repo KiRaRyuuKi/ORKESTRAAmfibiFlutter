@@ -1,4 +1,4 @@
-package com.orkestra.paycars.controllers
+package com.orkestra.paycars.controllers.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -9,7 +9,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.orkestra.paycars.R
-import com.orkestra.paycars.models.ui.menu.DataModelMessage
+import com.orkestra.paycars.controllers.model.DataModelMessage
 
 class AdapterDataMessage(context: Context, listData: List<DataModelMessage>?) :
     RecyclerView.Adapter<AdapterDataMessage.HolderData>() {

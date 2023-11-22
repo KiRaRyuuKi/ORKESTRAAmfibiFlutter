@@ -1,4 +1,4 @@
-package com.orkestra.paycars.models.fragment.menu
+package com.orkestra.paycars.models.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -10,7 +10,7 @@ import com.orkestra.paycars.R
 private const val ARG_PARAM1 = "param1"
 private const val ARG_PARAM2 = "param2"
 
-class TransactionFragment : Fragment() {
+class AccountFragment : Fragment() {
     private var param1: String? = null
     private var param2: String? = null
 
@@ -26,13 +26,13 @@ class TransactionFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.fragment_transaction, container, false)
+        return inflater.inflate(R.layout.fragment_account, container, false)
     }
 
     companion object {
         @JvmStatic
         fun newInstance(param1: String, param2: String) =
-            TransactionFragment().apply {
+            AccountFragment().apply {
                 arguments = Bundle().apply {
                     putString(ARG_PARAM1, param1)
                     putString(ARG_PARAM2, param2)

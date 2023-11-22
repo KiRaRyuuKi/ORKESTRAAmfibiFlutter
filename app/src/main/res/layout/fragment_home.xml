@@ -4,103 +4,126 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".models.fragment.menu.HomeFragment">
+    tools:context=".models.fragment.HomeFragment">
 
-    <androidx.constraintlayout.widget.ConstraintLayout
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipeRefreshHome"
         android:layout_width="match_parent"
-        android:layout_height="50dp">
+        android:layout_height="match_parent">
 
-        <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="17dp"
-            android:layout_marginTop="12dp"
-            android:background="@drawable/button_white_color"
-            android:src="@drawable/baseline_account"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
-    </androidx.constraintlayout.widget.ConstraintLayout>
-
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="675dp"
-        android:layout_marginTop="55dp">
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
+            android:layout_height="match_parent"
             android:orientation="vertical">
 
-            <ViewFlipper
-                android:layout_width="380dp"
-                android:layout_height="185dp"
-                android:autoStart="true"
-                android:flipInterval="5000"
-                android:inAnimation="@android:anim/slide_in_left"
-                android:outAnimation="@android:anim/slide_out_right">
-
-                <ImageView
-                    android:id="@+id/imageContentFirst"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:src="@drawable/content_1" />
-
-                <ImageView
-                    android:id="@+id/imageContentSecond"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:src="@drawable/content_2" />
-
-                <ImageView
-                    android:id="@+id/imageContentThird"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:src="@drawable/content_3" />
-            </ViewFlipper>
-
             <LinearLayout
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="20dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="18dp"
+                android:layout_marginEnd="15dp"
+                android:gravity="center_vertical"
                 android:orientation="horizontal">
 
-                <Button
-                    android:id="@+id/button"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Button" />
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/imageProfileTransaction"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="5dp"
+                    android:padding="2dp"
+                    android:src="@drawable/profile"
+                    app:shapeAppearanceOverlay="@style/circular"
+                    app:strokeWidth="3dp" />
 
-                <Button
-                    android:id="@+id/button2"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="Button"
-                    tools:layout_editor_absoluteY="185dp" />
-
-                <Button
-                    android:id="@+id/button3"
+                <TextView
+                    android:id="@+id/nameProfileTransaction"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:layout_marginStart="15dp"
+                    android:layout_marginBottom="-2dp"
                     android:layout_weight="1"
-                    android:text="Button" />
+                    android:fontFamily="@font/poppins_semi_bold"
+                    android:text="Muhammad Ilham"
+                    android:textSize="15sp" />
 
                 <Button
-                    android:id="@+id/button4"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="Button" />
+                    android:id="@+id/buttonMassageTransaction"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_marginEnd="15dp"
+                    android:background="@drawable/baseline_message" />
+
+                <Button
+                    android:id="@+id/buttonNavigationTransaction"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_marginEnd="5dp"
+                    android:background="@drawable/baseline_menu" />
 
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:orientation="vertical"></LinearLayout>
+                android:orientation="vertical">
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginEnd="15dp"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/textView9"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="12dp"
+                            android:fontFamily="@font/poppins_semi_bold"
+                            android:text="Promo Bulan Ini!"
+                            android:textSize="25sp" />
+
+                        <TextView
+                            android:id="@+id/textView10"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-8dp"
+                            android:layout_marginBottom="20dp"
+                            android:fontFamily="@font/poppins_regular"
+                            android:text="November Berhadiah"
+                            android:textColor="@color/primaryFirst"
+                            android:textSize="15sp" />
+
+                        <androidx.viewpager2.widget.ViewPager2
+                            android:id="@+id/viewPager"
+                            android:layout_width="match_parent"
+                            android:layout_height="180dp" />
+
+                        <LinearLayout
+                            android:id="@+id/dotsIndicator"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:orientation="horizontal"></LinearLayout>
+
+                        <androidx.recyclerview.widget.RecyclerView
+                            android:id="@+id/recyclerDataHome"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                    </LinearLayout>
+
+                </ScrollView>
+            </LinearLayout>
 
         </LinearLayout>
-    </ScrollView>
+
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
 </FrameLayout>

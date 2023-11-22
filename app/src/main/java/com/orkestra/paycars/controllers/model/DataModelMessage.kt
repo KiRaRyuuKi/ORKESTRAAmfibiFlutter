@@ -1,4 +1,4 @@
-package com.orkestra.paycars.models.ui.menu
+package com.orkestra.paycars.controllers.model
 
 class DataModelMessage {
     var judul: String? = null

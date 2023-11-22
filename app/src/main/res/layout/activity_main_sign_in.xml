@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:gravity="center"
-    tools:context=".models.MainSignInActivity">
+    android:orientation="vertical">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="15dp"
-        android:layout_marginEnd="15dp" >
+        android:layout_marginEnd="15dp">
 
         <com.airbnb.lottie.LottieAnimationView
             android:id="@+id/lottieAnimationSignIn"
@@ -31,6 +29,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="-75dp"
+            android:fontFamily="@font/poppins_regular"
             android:gravity="center"
             android:text="@string/sign_in_title"
             android:textColor="@color/accentsFirst"
@@ -45,6 +44,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
+            android:fontFamily="@font/poppins_regular"
             android:gravity="center"
             android:text="@string/sign_in_description"
             android:textColor="@color/accentsSecond"
@@ -62,12 +62,13 @@
             android:background="@drawable/custom_stroke_color"
             android:drawableStart="@drawable/baseline_drawable_user"
             android:drawablePadding="12dp"
-            android:ems="10"
-            android:hint="@string/sign_in_user"
             android:inputType="text"
+            android:ems="10"
+            android:textSize="15sp"
             android:paddingStart="8dp"
+            android:fontFamily="@font/poppins_regular"
+            android:hint="@string/sign_in_user"
             android:textAlignment="textStart"
-            android:textSize="15dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/lottieAnimationSignIn" />
@@ -81,11 +82,12 @@
             android:drawableStart="@drawable/baseline_drawable_lock"
             android:drawablePadding="12dp"
             android:ems="10"
+            android:fontFamily="@font/poppins_regular"
             android:hint="@string/sign_in_password"
             android:inputType="textPassword"
             android:paddingStart="8dp"
             android:textAlignment="textStart"
-            android:textSize="15dp"
+            android:textSize="15sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/userSignIn" />
@@ -93,12 +95,18 @@
         <Button
             android:id="@+id/buttonSignIn"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:layout_marginTop="40dp"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="2dp"
             android:background="@drawable/button_gradient_color"
+            android:fontFamily="@font/poppins_bold"
             android:text="@string/sign_in_button"
+            android:textAllCaps="false"
             android:textColor="@color/accentsThrid"
-            android:textStyle="bold"
+            android:textSize="13sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/passwordSignIn" />
 
         <TextView
@@ -106,6 +114,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
+            android:fontFamily="@font/poppins_regular"
             android:gravity="center"
             android:text="@string/other_access"
             app:layout_constraintEnd_toEndOf="parent"
@@ -115,26 +124,38 @@
         <Button
             android:id="@+id/buttonSignInGoogle"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:layout_marginTop="15dp"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="2dp"
             android:background="@drawable/button_white_color"
+            android:drawableStart="@drawable/google"
+            android:fontFamily="@font/poppins_bold"
+            android:paddingLeft="70dp"
+            android:paddingRight="70dp"
             android:text="@string/sign_button_google"
+            android:textAllCaps="false"
             android:textColor="@color/accentsFirst"
-            android:textStyle="bold"
+            android:textSize="13sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/otherAccessSignIn" />
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="28dp"
-            android:layout_marginTop="32dp"
+            android:layout_marginTop="50dp"
             android:gravity="center"
             android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/buttonSignInGoogle">
 
             <TextView
                 android:id="@+id/signInNoHaveAccount"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_regular"
                 android:text="@string/sign_in_no_have_account" />
 
             <TextView
@@ -142,10 +163,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="2dp"
+                android:fontFamily="@font/poppins_regular"
                 android:text="@string/sign_in_register"
                 android:textColor="@color/primaryFirst" />
         </LinearLayout>
-
     </androidx.constraintlayout.widget.ConstraintLayout>
-
 </LinearLayout>

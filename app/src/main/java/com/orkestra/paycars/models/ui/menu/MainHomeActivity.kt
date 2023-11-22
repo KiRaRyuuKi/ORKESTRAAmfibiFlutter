@@ -6,11 +6,10 @@ import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.RecyclerView
 import com.orkestra.paycars.R
 import com.orkestra.paycars.databinding.ActivityMainHomeBinding
-import com.orkestra.paycars.models.fragment.menu.AccountFragment
-import com.orkestra.paycars.models.fragment.menu.HomeFragment
-import com.orkestra.paycars.models.fragment.menu.SearchFragment
-import com.orkestra.paycars.models.fragment.menu.ShowroomFragment
-import com.orkestra.paycars.models.fragment.menu.TransactionFragment
+import com.orkestra.paycars.models.fragment.AccountFragment
+import com.orkestra.paycars.models.fragment.HomeFragment
+import com.orkestra.paycars.models.fragment.SearchFragment
+import com.orkestra.paycars.models.fragment.TransactionFragment
 
 class MainHomeActivity : AppCompatActivity() {
     private val ListAdapter : RecyclerView.Adapter<*>? = null
@@ -21,8 +20,6 @@ class MainHomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main_home)
 
-        replaceFragment(HomeFragment())
-
         binding = ActivityMainHomeBinding.inflate(layoutInflater)
         setContentView(binding.getRoot())
         binding.bottomNavigationView.setOnItemSelectedListener { item ->
@@ -32,8 +29,6 @@ class MainHomeActivity : AppCompatActivity() {
                 replaceFragment(AccountFragment())
             } else if (item.getItemId() === R.id.transactionItem) {
                 replaceFragment(TransactionFragment())
-            } else if (item.getItemId() === R.id.showroomItem) {
-                replaceFragment(ShowroomFragment())
             } else if (item.getItemId() === R.id.searchItem) {
                 replaceFragment(SearchFragment())
             }
