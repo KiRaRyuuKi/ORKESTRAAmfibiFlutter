@@ -6,160 +6,700 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-9        android:targetSdkVersion="33" />
+9        android:targetSdkVersion="34" />
 10
-11    <permission
-11-->[androidx.core:core:1.9.0] /home/kira/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
-12        android:name="com.orkestra.paycars.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-12-->[androidx.core:core:1.9.0] /home/kira/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
-13        android:protectionLevel="signature" />
-13-->[androidx.core:core:1.9.0] /home/kira/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
-14
-15    <uses-permission android:name="com.orkestra.paycars.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-15-->[androidx.core:core:1.9.0] /home/kira/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
-15-->[androidx.core:core:1.9.0] /home/kira/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:5:5-66
+11-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:6:5-78
+12-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:6:22-76
+13
+14    <!-- See https://developer.android.com/training/package-visibility/declaring for more details. -->
+15    <queries>
+15-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:8:5-12:15
 16
-17    <application
-17-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:5:5-37:19
-18        android:allowBackup="true"
-18-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:6:9-35
-19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.9.0] /home/kira/.gradle/caches/transforms-3/43edc55df3b5c22b93aea8041b6b233a/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
-20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:7:9-65
-21        android:debuggable="true"
-22        android:extractNativeLibs="true"
-23        android:fullBackupContent="@xml/backup_rules"
-23-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:8:9-54
-24        android:icon="@mipmap/ic_launcher"
-24-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:9:9-43
-25        android:label="@string/app_name"
-25-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:10:9-41
-26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:11:9-54
-27        android:supportsRtl="true"
-27-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:12:9-35
-28        android:testOnly="true"
-29        android:theme="@style/Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" >
-29-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:13:9-79
-30        <activity
-30-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:15:9-18:86
-31            android:name="com.orkestra.paycars.MainWelcomeActivity"
-31-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:16:13-48
-32            android:exported="false"
-32-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:17:13-37
-33            android:theme="@style/Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" />
-33-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:18:13-83
-34        <activity
-34-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:19:9-21:40
-35            android:name="com.orkestra.paycars.models.MainSignUpActivity"
-35-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:20:13-54
-36            android:exported="false" />
-36-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:21:13-37
-37        <activity
-37-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:22:9-24:40
-38            android:name="com.orkestra.paycars.models.MainSignInActivity"
-38-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:23:13-54
-39            android:exported="false" />
-39-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:24:13-37
-40        <activity
-40-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:25:9-27:40
-41            android:name="com.orkestra.paycars.models.ui.menu.MainHomeActivity"
-41-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:26:13-60
-42            android:exported="false" />
-42-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:27:13-37
-43        <activity
-43-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:28:9-36:20
-44            android:name="com.orkestra.paycars.MainStartActivity"
-44-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:29:13-46
-45            android:exported="true" >
-45-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:30:13-36
-46            <intent-filter>
-46-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:31:13-35:29
-47                <action android:name="android.intent.action.MAIN" />
-47-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:32:17-69
-47-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:32:25-66
-48
-49                <category android:name="android.intent.category.LAUNCHER" />
-49-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:34:17-77
-49-->/home/kira/Documents/Android Studio/Kotlin/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:34:27-74
-50            </intent-filter>
-51        </activity>
-52
-53        <provider
-53-->[androidx.emoji2:emoji2:1.2.0] /home/kira/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-54            android:name="androidx.startup.InitializationProvider"
-54-->[androidx.emoji2:emoji2:1.2.0] /home/kira/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
-55            android:authorities="com.orkestra.paycars.androidx-startup"
-55-->[androidx.emoji2:emoji2:1.2.0] /home/kira/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
-56            android:exported="false" >
-56-->[androidx.emoji2:emoji2:1.2.0] /home/kira/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
-57            <meta-data
-57-->[androidx.emoji2:emoji2:1.2.0] /home/kira/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-58                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-58-->[androidx.emoji2:emoji2:1.2.0] /home/kira/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
-59                android:value="androidx.startup" />
-59-->[androidx.emoji2:emoji2:1.2.0] /home/kira/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
-60            <meta-data
-60-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/kira/.gradle/caches/transforms-3/b1466cc17a6dcdf69625081e524827b8/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
-61                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-61-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/kira/.gradle/caches/transforms-3/b1466cc17a6dcdf69625081e524827b8/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
-62                android:value="androidx.startup" />
-62-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/kira/.gradle/caches/transforms-3/b1466cc17a6dcdf69625081e524827b8/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
-63            <meta-data
-63-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
-64                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-64-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
-65                android:value="androidx.startup" />
-65-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
-66        </provider>
-67
-68        <service
-68-->[androidx.room:room-runtime:2.6.0] /home/kira/.gradle/caches/transforms-3/1f1ea5abe4f12fa814df8647a37e9148/transformed/room-runtime-2.6.0/AndroidManifest.xml:24:9-28:63
-69            android:name="androidx.room.MultiInstanceInvalidationService"
-69-->[androidx.room:room-runtime:2.6.0] /home/kira/.gradle/caches/transforms-3/1f1ea5abe4f12fa814df8647a37e9148/transformed/room-runtime-2.6.0/AndroidManifest.xml:25:13-74
-70            android:directBootAware="true"
-70-->[androidx.room:room-runtime:2.6.0] /home/kira/.gradle/caches/transforms-3/1f1ea5abe4f12fa814df8647a37e9148/transformed/room-runtime-2.6.0/AndroidManifest.xml:26:13-43
-71            android:exported="false" />
-71-->[androidx.room:room-runtime:2.6.0] /home/kira/.gradle/caches/transforms-3/1f1ea5abe4f12fa814df8647a37e9148/transformed/room-runtime-2.6.0/AndroidManifest.xml:27:13-37
+17        <!-- Added to check if Chrome is installed for browser-based payment authentication (e.g. 3DS1). -->
+18        <package android:name="com.android.chrome" />
+18-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:11:9-54
+18-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:11:18-51
+19        <!-- Needs to be explicitly declared on Android R+ -->
+20        <package android:name="com.google.android.apps.maps" />
+20-->[com.google.android.gms:play-services-maps:18.0.2] /home/kira/.gradle/caches/transforms-3/93ebec446551f589961c787b5c4ad545/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+20-->[com.google.android.gms:play-services-maps:18.0.2] /home/kira/.gradle/caches/transforms-3/93ebec446551f589961c787b5c4ad545/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+21    </queries>
+22
+23    <uses-feature
+23-->[com.google.android.gms:play-services-maps:18.0.2] /home/kira/.gradle/caches/transforms-3/93ebec446551f589961c787b5c4ad545/transformed/play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+24        android:glEsVersion="0x00020000"
+24-->[com.google.android.gms:play-services-maps:18.0.2] /home/kira/.gradle/caches/transforms-3/93ebec446551f589961c787b5c4ad545/transformed/play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+25        android:required="true" />
+25-->[com.google.android.gms:play-services-maps:18.0.2] /home/kira/.gradle/caches/transforms-3/93ebec446551f589961c787b5c4ad545/transformed/play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+26
+27    <uses-permission android:name="android.permission.WAKE_LOCK" />
+27-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:24:5-68
+27-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:24:22-65
+28    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+28-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:25:5-79
+28-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:25:22-76
+29    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
+29-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:26:5-88
+29-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:26:22-85
+30    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
+30-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:27:5-82
+30-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:27:22-79
+31    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+31-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:26:5-110
+31-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:26:22-107
+32
+33    <permission
+33-->[androidx.core:core:1.12.0] /home/kira/.gradle/caches/transforms-3/5e6ea81b027c8cc7879d59d61516a5e2/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+34        android:name="com.orkestra.paycars.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+34-->[androidx.core:core:1.12.0] /home/kira/.gradle/caches/transforms-3/5e6ea81b027c8cc7879d59d61516a5e2/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+35        android:protectionLevel="signature" />
+35-->[androidx.core:core:1.12.0] /home/kira/.gradle/caches/transforms-3/5e6ea81b027c8cc7879d59d61516a5e2/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+36
+37    <uses-permission android:name="com.orkestra.paycars.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+37-->[androidx.core:core:1.12.0] /home/kira/.gradle/caches/transforms-3/5e6ea81b027c8cc7879d59d61516a5e2/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+37-->[androidx.core:core:1.12.0] /home/kira/.gradle/caches/transforms-3/5e6ea81b027c8cc7879d59d61516a5e2/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+38
+39    <application
+39-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:8:5-42:19
+40        android:allowBackup="true"
+40-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:9:9-35
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->[androidx.core:core:1.12.0] /home/kira/.gradle/caches/transforms-3/5e6ea81b027c8cc7879d59d61516a5e2/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+42        android:dataExtractionRules="@xml/data_extraction_rules"
+42-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:10:9-65
+43        android:debuggable="true"
+44        android:extractNativeLibs="true"
+45        android:fullBackupContent="@xml/backup_rules"
+45-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:11:9-54
+46        android:icon="@mipmap/ic_launcher"
+46-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:12:9-43
+47        android:label="@string/app_name"
+47-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:13:9-41
+48        android:roundIcon="@mipmap/ic_launcher_round"
+48-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:14:9-54
+49        android:supportsRtl="true"
+49-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:15:9-35
+50        android:testOnly="true"
+51        android:theme="@style/Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" >
+51-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:16:9-79
+52        <activity
+52-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:18:9-20:40
+53            android:name="com.orkestra.paycars.models.ui.content.MainDetailContentActivity"
+53-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:19:13-72
+54            android:exported="false" />
+54-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:20:13-37
+55        <activity
+55-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:21:9-23:40
+56            android:name="com.orkestra.paycars.MainWelcomeActivity"
+56-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:22:13-48
+57            android:exported="false" />
+57-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:23:13-37
+58        <activity
+58-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:24:9-26:40
+59            android:name="com.orkestra.paycars.models.MainSignUpActivity"
+59-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:25:13-54
+60            android:exported="false" />
+60-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:26:13-37
+61        <activity
+61-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:27:9-29:40
+62            android:name="com.orkestra.paycars.models.MainSignInActivity"
+62-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:28:13-54
+63            android:exported="false" />
+63-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:29:13-37
+64        <activity
+64-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:30:9-32:40
+65            android:name="com.orkestra.paycars.models.ui.menu.MainHomeActivity"
+65-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:31:13-60
+66            android:exported="false" />
+66-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:32:13-37
+67        <activity
+67-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:33:9-41:20
+68            android:name="com.orkestra.paycars.MainStartActivity"
+68-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:34:13-46
+69            android:exported="true" >
+69-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:35:13-36
+70            <intent-filter>
+70-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:36:13-40:29
+71                <action android:name="android.intent.action.MAIN" />
+71-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:37:17-69
+71-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:37:25-66
 72
-73        <receiver
-73-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
-74            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-74-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
-75            android:directBootAware="false"
-75-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
-76            android:enabled="true"
-76-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
-77            android:exported="true"
-77-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
-78            android:permission="android.permission.DUMP" >
-78-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
-79            <intent-filter>
-79-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
-80                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-80-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
-80-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
-81            </intent-filter>
-82            <intent-filter>
-82-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
-83                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-83-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
-83-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
-84            </intent-filter>
-85            <intent-filter>
-85-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
-86                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-86-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
-86-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
-87            </intent-filter>
-88            <intent-filter>
-88-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
-89                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-89-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
-89-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
-90            </intent-filter>
-91        </receiver>
-92    </application>
-93
-94</manifest>
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:39:17-77
+73-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:39:27-74
+74            </intent-filter>
+75        </activity>
+76        <activity
+76-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:8:9-12:58
+77            android:name="com.stripe.android.paymentsheet.PaymentSheetActivity"
+77-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:9:13-80
+78            android:exported="false"
+78-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:10:13-37
+79            android:theme="@style/StripePaymentSheetDefaultTheme"
+79-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:11:13-66
+80            android:windowSoftInputMode="adjustResize" />
+80-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:12:13-55
+81        <activity
+81-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:13:9-17:58
+82            android:name="com.stripe.android.paymentsheet.PaymentOptionsActivity"
+82-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:14:13-82
+83            android:exported="false"
+83-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:15:13-37
+84            android:theme="@style/StripePaymentSheetDefaultTheme"
+84-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:16:13-66
+85            android:windowSoftInputMode="adjustResize" />
+85-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:17:13-55
+86        <activity
+86-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:18:9-22:58
+87            android:name="com.stripe.android.customersheet.CustomerSheetActivity"
+87-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:19:13-82
+88            android:exported="false"
+88-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:20:13-37
+89            android:theme="@style/StripePaymentSheetDefaultTheme"
+89-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:21:13-66
+90            android:windowSoftInputMode="adjustResize" />
+90-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:22:13-55
+91        <activity
+91-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:23:9-26:69
+92            android:name="com.stripe.android.paymentsheet.addresselement.AddressElementActivity"
+92-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:24:13-97
+93            android:exported="false"
+93-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:25:13-37
+94            android:theme="@style/StripePaymentSheetDefaultTheme" />
+94-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:26:13-66
+95        <activity
+95-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:27:9-30:69
+96            android:name="com.stripe.android.paymentsheet.paymentdatacollection.bacs.BacsMandateConfirmationActivity"
+96-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:28:13-118
+97            android:exported="false"
+97-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:29:13-37
+98            android:theme="@style/StripePaymentSheetDefaultTheme" />
+98-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:30:13-66
+99        <activity
+99-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:31:9-34:69
+100            android:name="com.stripe.android.paymentsheet.paymentdatacollection.polling.PollingActivity"
+100-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:32:13-105
+101            android:exported="false"
+101-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:33:13-37
+102            android:theme="@style/StripePaymentSheetDefaultTheme" />
+102-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:34:13-66
+103        <activity
+103-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:35:9-38:69
+104            android:name="com.stripe.android.paymentsheet.ui.SepaMandateActivity"
+104-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:36:13-82
+105            android:exported="false"
+105-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:37:13-37
+106            android:theme="@style/StripePaymentSheetDefaultTheme" />
+106-->[com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:38:13-66
+107        <activity
+107-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:8:9-13:61
+108            android:name="com.stripe.android.link.LinkForegroundActivity"
+108-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:9:13-74
+109            android:autoRemoveFromRecents="true"
+109-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:10:13-49
+110            android:configChanges="orientation|keyboard|keyboardHidden|screenLayout|screenSize|smallestScreenSize"
+110-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:11:13-115
+111            android:launchMode="singleTop"
+111-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:12:13-43
+112            android:theme="@style/StripeTransparentTheme" />
+112-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:13:13-58
+113        <activity
+113-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:14:9-31:20
+114            android:name="com.stripe.android.link.LinkRedirectHandlerActivity"
+114-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:15:13-79
+115            android:autoRemoveFromRecents="true"
+115-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:16:13-49
+116            android:exported="true"
+116-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:17:13-36
+117            android:launchMode="singleInstance"
+117-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:18:13-48
+118            android:theme="@style/StripeTransparentTheme" >
+118-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:19:13-58
+119            <intent-filter>
+119-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:20:13-30:29
+120                <action android:name="android.intent.action.VIEW" />
+120-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:21:17-69
+120-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:21:25-66
+121
+122                <category android:name="android.intent.category.DEFAULT" />
+122-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:23:17-76
+122-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:23:27-73
+123                <category android:name="android.intent.category.BROWSABLE" />
+123-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:24:17-78
+123-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:24:27-75
+124
+125                <data
+125-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:26:17-29:51
+126                    android:host="complete"
+126-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:27:21-44
+127                    android:path="/com.orkestra.paycars"
+127-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:28:21-53
+128                    android:scheme="link-popup" />
+128-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:29:21-48
+129            </intent-filter>
+130        </activity>
+131        <activity
+131-->[com.stripe:payments-ui-core:20.34.4] /home/kira/.gradle/caches/transforms-3/7e41a7d0e75af36e29bb7748713b372a/transformed/payments-ui-core-20.34.4/AndroidManifest.xml:8:9-11:69
+132            android:name="com.stripe.android.ui.core.cardscan.CardScanActivity"
+132-->[com.stripe:payments-ui-core:20.34.4] /home/kira/.gradle/caches/transforms-3/7e41a7d0e75af36e29bb7748713b372a/transformed/payments-ui-core-20.34.4/AndroidManifest.xml:9:13-80
+133            android:exported="false"
+133-->[com.stripe:payments-ui-core:20.34.4] /home/kira/.gradle/caches/transforms-3/7e41a7d0e75af36e29bb7748713b372a/transformed/payments-ui-core-20.34.4/AndroidManifest.xml:10:13-37
+134            android:theme="@style/StripePaymentSheetDefaultTheme" />
+134-->[com.stripe:payments-ui-core:20.34.4] /home/kira/.gradle/caches/transforms-3/7e41a7d0e75af36e29bb7748713b372a/transformed/payments-ui-core-20.34.4/AndroidManifest.xml:11:13-66
+135        <activity
+135-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:15:9-18:57
+136            android:name="com.stripe.android.view.AddPaymentMethodActivity"
+136-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:16:13-76
+137            android:exported="false"
+137-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:17:13-37
+138            android:theme="@style/StripeDefaultTheme" />
+138-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:18:13-54
+139        <activity
+139-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:19:9-22:57
+140            android:name="com.stripe.android.view.PaymentMethodsActivity"
+140-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:20:13-74
+141            android:exported="false"
+141-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:21:13-37
+142            android:theme="@style/StripeDefaultTheme" />
+142-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:22:13-54
+143        <activity
+143-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:23:9-26:57
+144            android:name="com.stripe.android.view.PaymentFlowActivity"
+144-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:24:13-71
+145            android:exported="false"
+145-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:25:13-37
+146            android:theme="@style/StripeDefaultTheme" />
+146-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:26:13-54
+147        <activity
+147-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:27:9-31:58
+148            android:name="com.stripe.android.view.PaymentAuthWebViewActivity"
+148-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:28:13-78
+149            android:exported="false"
+149-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:29:13-37
+150            android:theme="@style/StripeDefaultTheme"
+150-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:30:13-54
+151            android:windowSoftInputMode="adjustResize" />
+151-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:31:13-55
+152        <activity
+152-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:32:9-35:61
+153            android:name="com.stripe.android.view.PaymentRelayActivity"
+153-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:33:13-72
+154            android:exported="false"
+154-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:34:13-37
+155            android:theme="@style/StripeTransparentTheme" />
+155-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:35:13-58
+156        <!--
+157        Set android:launchMode="singleTop" so that the StripeBrowserLauncherActivity instance that
+158        launched the browser Activity will also handle the return URL deep link.
+159        -->
+160        <activity
+160-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:41:9-45:61
+161            android:name="com.stripe.android.payments.StripeBrowserLauncherActivity"
+161-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:42:13-85
+162            android:exported="false"
+162-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:43:13-37
+163            android:launchMode="singleTask"
+163-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:44:13-44
+164            android:theme="@style/StripeTransparentTheme" />
+164-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:45:13-58
+165        <activity
+165-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:46:9-63:20
+166            android:name="com.stripe.android.payments.StripeBrowserProxyReturnActivity"
+166-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:47:13-88
+167            android:exported="true"
+167-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:48:13-36
+168            android:launchMode="singleTask"
+168-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:49:13-44
+169            android:theme="@style/StripeTransparentTheme" >
+169-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:50:13-58
+170            <intent-filter>
+170-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:51:13-62:29
+171                <action android:name="android.intent.action.VIEW" />
+171-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:21:17-69
+171-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:21:25-66
+172
+173                <category android:name="android.intent.category.DEFAULT" />
+173-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:23:17-76
+173-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:23:27-73
+174                <category android:name="android.intent.category.BROWSABLE" />
+174-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:24:17-78
+174-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:24:27-75
+175
+176                <!-- Must match `DefaultReturnUrl#value`. -->
+177                <data
+177-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:26:17-29:51
+178                    android:host="payment_return_url"
+178-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:27:21-44
+179                    android:path="/com.orkestra.paycars"
+179-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:28:21-53
+180                    android:scheme="stripesdk" />
+180-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:29:21-48
+181            </intent-filter>
+182        </activity>
+183        <activity
+183-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:64:9-67:57
+184            android:name="com.stripe.android.payments.core.authentication.threeds2.Stripe3ds2TransactionActivity"
+184-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:65:13-114
+185            android:exported="false"
+185-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:66:13-37
+186            android:theme="@style/StripeDefaultTheme" />
+186-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:67:13-54
+187        <activity
+187-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:68:9-71:66
+188            android:name="com.stripe.android.googlepaylauncher.GooglePayLauncherActivity"
+188-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:69:13-90
+189            android:exported="false"
+189-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:70:13-37
+190            android:theme="@style/StripeGooglePayDefaultTheme" />
+190-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:71:13-63
+191        <activity
+191-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:72:9-75:66
+192            android:name="com.stripe.android.googlepaylauncher.GooglePayPaymentMethodLauncherActivity"
+192-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:73:13-103
+193            android:exported="false"
+193-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:74:13-37
+194            android:theme="@style/StripeGooglePayDefaultTheme" />
+194-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:75:13-63
+195        <activity
+195-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:76:9-79:68
+196            android:name="com.stripe.android.payments.paymentlauncher.PaymentLauncherConfirmationActivity"
+196-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:77:13-107
+197            android:exported="false"
+197-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:78:13-37
+198            android:theme="@style/StripePayLauncherDefaultTheme" />
+198-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:79:13-65
+199        <activity
+199-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:80:9-83:61
+200            android:name="com.stripe.android.payments.bankaccount.ui.CollectBankAccountActivity"
+200-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:81:13-97
+201            android:exported="false"
+201-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:82:13-37
+202            android:theme="@style/StripeTransparentTheme" />
+202-->[com.stripe:payments-core:20.34.4] /home/kira/.gradle/caches/transforms-3/4a7b72da8f979330b515d1c5861aa02a/transformed/payments-core-20.34.4/AndroidManifest.xml:83:13-58
+203        <activity
+203-->[com.stripe:stripe-3ds2-android:6.1.7] /home/kira/.gradle/caches/transforms-3/be751946fcb6c22429f4ff46a9465b33/transformed/stripe-3ds2-android-6.1.7/AndroidManifest.xml:8:9-11:54
+204            android:name="com.stripe.android.stripe3ds2.views.ChallengeActivity"
+204-->[com.stripe:stripe-3ds2-android:6.1.7] /home/kira/.gradle/caches/transforms-3/be751946fcb6c22429f4ff46a9465b33/transformed/stripe-3ds2-android-6.1.7/AndroidManifest.xml:9:13-81
+205            android:exported="false"
+205-->[com.stripe:stripe-3ds2-android:6.1.7] /home/kira/.gradle/caches/transforms-3/be751946fcb6c22429f4ff46a9465b33/transformed/stripe-3ds2-android-6.1.7/AndroidManifest.xml:10:13-37
+206            android:theme="@style/Stripe3DS2Theme" />
+206-->[com.stripe:stripe-3ds2-android:6.1.7] /home/kira/.gradle/caches/transforms-3/be751946fcb6c22429f4ff46a9465b33/transformed/stripe-3ds2-android-6.1.7/AndroidManifest.xml:11:13-51
+207        <activity
+207-->[com.google.android.gms:play-services-auth:20.7.0] /home/kira/.gradle/caches/transforms-3/f9620b616c26eed9fd683ae5a1de2197/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+208            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+208-->[com.google.android.gms:play-services-auth:20.7.0] /home/kira/.gradle/caches/transforms-3/f9620b616c26eed9fd683ae5a1de2197/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+209            android:excludeFromRecents="true"
+209-->[com.google.android.gms:play-services-auth:20.7.0] /home/kira/.gradle/caches/transforms-3/f9620b616c26eed9fd683ae5a1de2197/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+210            android:exported="false"
+210-->[com.google.android.gms:play-services-auth:20.7.0] /home/kira/.gradle/caches/transforms-3/f9620b616c26eed9fd683ae5a1de2197/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+211            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+211-->[com.google.android.gms:play-services-auth:20.7.0] /home/kira/.gradle/caches/transforms-3/f9620b616c26eed9fd683ae5a1de2197/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+212        <!--
+213            Service handling Google Sign-In user revocation. For apps that do not integrate with
+214            Google Sign-In, this service will never be started.
+215        -->
+216        <service
+216-->[com.google.android.gms:play-services-auth:20.7.0] /home/kira/.gradle/caches/transforms-3/f9620b616c26eed9fd683ae5a1de2197/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+217            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+217-->[com.google.android.gms:play-services-auth:20.7.0] /home/kira/.gradle/caches/transforms-3/f9620b616c26eed9fd683ae5a1de2197/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+218            android:exported="true"
+218-->[com.google.android.gms:play-services-auth:20.7.0] /home/kira/.gradle/caches/transforms-3/f9620b616c26eed9fd683ae5a1de2197/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+219            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+219-->[com.google.android.gms:play-services-auth:20.7.0] /home/kira/.gradle/caches/transforms-3/f9620b616c26eed9fd683ae5a1de2197/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+220            android:visibleToInstantApps="true" />
+220-->[com.google.android.gms:play-services-auth:20.7.0] /home/kira/.gradle/caches/transforms-3/f9620b616c26eed9fd683ae5a1de2197/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+221        <service
+221-->[com.google.firebase:firebase-auth-ktx:22.3.0] /home/kira/.gradle/caches/transforms-3/d1da34318805cdf22a34e643a0509a75/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:8:9-14:19
+222            android:name="com.google.firebase.components.ComponentDiscoveryService"
+222-->[com.google.firebase:firebase-auth-ktx:22.3.0] /home/kira/.gradle/caches/transforms-3/d1da34318805cdf22a34e643a0509a75/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:9:13-84
+223            android:directBootAware="true"
+223-->[com.google.firebase:firebase-common:20.4.2] /home/kira/.gradle/caches/transforms-3/92c41717903b732ee911bad9753f423b/transformed/firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+224            android:exported="false" >
+224-->[com.google.firebase:firebase-auth-ktx:22.3.0] /home/kira/.gradle/caches/transforms-3/d1da34318805cdf22a34e643a0509a75/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:10:13-37
+225            <meta-data
+225-->[com.google.firebase:firebase-auth-ktx:22.3.0] /home/kira/.gradle/caches/transforms-3/d1da34318805cdf22a34e643a0509a75/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:11:13-13:85
+226                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar"
+226-->[com.google.firebase:firebase-auth-ktx:22.3.0] /home/kira/.gradle/caches/transforms-3/d1da34318805cdf22a34e643a0509a75/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:12:17-119
+227                android:value="com.google.firebase.components.ComponentRegistrar" />
+227-->[com.google.firebase:firebase-auth-ktx:22.3.0] /home/kira/.gradle/caches/transforms-3/d1da34318805cdf22a34e643a0509a75/transformed/firebase-auth-ktx-22.3.0/AndroidManifest.xml:13:17-82
+228            <meta-data
+228-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:69:13-71:85
+229                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+229-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:70:17-109
+230                android:value="com.google.firebase.components.ComponentRegistrar" />
+230-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:71:17-82
+231            <meta-data
+231-->[com.google.firebase:firebase-analytics-ktx:21.5.0] /home/kira/.gradle/caches/transforms-3/082dc24ac82075ba83ae3c01efc0464f/transformed/firebase-analytics-ktx-21.5.0/AndroidManifest.xml:11:13-13:85
+232                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsLegacyRegistrar"
+232-->[com.google.firebase:firebase-analytics-ktx:21.5.0] /home/kira/.gradle/caches/transforms-3/082dc24ac82075ba83ae3c01efc0464f/transformed/firebase-analytics-ktx-21.5.0/AndroidManifest.xml:12:17-129
+233                android:value="com.google.firebase.components.ComponentRegistrar" />
+233-->[com.google.firebase:firebase-analytics-ktx:21.5.0] /home/kira/.gradle/caches/transforms-3/082dc24ac82075ba83ae3c01efc0464f/transformed/firebase-analytics-ktx-21.5.0/AndroidManifest.xml:13:17-82
+234            <meta-data
+234-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:37:13-39:85
+235                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+235-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:38:17-139
+236                android:value="com.google.firebase.components.ComponentRegistrar" />
+236-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:39:17-82
+237            <meta-data
+237-->[com.google.firebase:firebase-installations:17.2.0] /home/kira/.gradle/caches/transforms-3/4efd6732459672a2a6dfafbbb734c307/transformed/firebase-installations-17.2.0/AndroidManifest.xml:15:13-17:85
+238                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+238-->[com.google.firebase:firebase-installations:17.2.0] /home/kira/.gradle/caches/transforms-3/4efd6732459672a2a6dfafbbb734c307/transformed/firebase-installations-17.2.0/AndroidManifest.xml:16:17-130
+239                android:value="com.google.firebase.components.ComponentRegistrar" />
+239-->[com.google.firebase:firebase-installations:17.2.0] /home/kira/.gradle/caches/transforms-3/4efd6732459672a2a6dfafbbb734c307/transformed/firebase-installations-17.2.0/AndroidManifest.xml:17:17-82
+240            <meta-data
+240-->[com.google.firebase:firebase-installations:17.2.0] /home/kira/.gradle/caches/transforms-3/4efd6732459672a2a6dfafbbb734c307/transformed/firebase-installations-17.2.0/AndroidManifest.xml:18:13-20:85
+241                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+241-->[com.google.firebase:firebase-installations:17.2.0] /home/kira/.gradle/caches/transforms-3/4efd6732459672a2a6dfafbbb734c307/transformed/firebase-installations-17.2.0/AndroidManifest.xml:19:17-127
+242                android:value="com.google.firebase.components.ComponentRegistrar" />
+242-->[com.google.firebase:firebase-installations:17.2.0] /home/kira/.gradle/caches/transforms-3/4efd6732459672a2a6dfafbbb734c307/transformed/firebase-installations-17.2.0/AndroidManifest.xml:20:17-82
+243            <meta-data
+243-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/kira/.gradle/caches/transforms-3/36dffb4fa713017b6354d6b5daac5b39/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+244                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+244-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/kira/.gradle/caches/transforms-3/36dffb4fa713017b6354d6b5daac5b39/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+245                android:value="com.google.firebase.components.ComponentRegistrar" />
+245-->[com.google.firebase:firebase-common-ktx:20.4.2] /home/kira/.gradle/caches/transforms-3/36dffb4fa713017b6354d6b5daac5b39/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+246            <meta-data
+246-->[com.google.firebase:firebase-common:20.4.2] /home/kira/.gradle/caches/transforms-3/92c41717903b732ee911bad9753f423b/transformed/firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+247                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+247-->[com.google.firebase:firebase-common:20.4.2] /home/kira/.gradle/caches/transforms-3/92c41717903b732ee911bad9753f423b/transformed/firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+248                android:value="com.google.firebase.components.ComponentRegistrar" />
+248-->[com.google.firebase:firebase-common:20.4.2] /home/kira/.gradle/caches/transforms-3/92c41717903b732ee911bad9753f423b/transformed/firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+249        </service>
+250
+251        <activity
+251-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:29:9-46:20
+252            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+252-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:30:13-80
+253            android:excludeFromRecents="true"
+253-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:31:13-46
+254            android:exported="true"
+254-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:32:13-36
+255            android:launchMode="singleTask"
+255-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:33:13-44
+256            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+256-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:34:13-72
+257            <intent-filter>
+257-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:35:13-45:29
+258                <action android:name="android.intent.action.VIEW" />
+258-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:21:17-69
+258-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:21:25-66
+259
+260                <category android:name="android.intent.category.DEFAULT" />
+260-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:23:17-76
+260-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:23:27-73
+261                <category android:name="android.intent.category.BROWSABLE" />
+261-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:24:17-78
+261-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:24:27-75
+262
+263                <data
+263-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:26:17-29:51
+264                    android:host="firebase.auth"
+264-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:27:21-44
+265                    android:path="/"
+265-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:28:21-53
+266                    android:scheme="genericidp" />
+266-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:29:21-48
+267            </intent-filter>
+268        </activity>
+269        <activity
+269-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:47:9-64:20
+270            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+270-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:48:13-79
+271            android:excludeFromRecents="true"
+271-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:49:13-46
+272            android:exported="true"
+272-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:50:13-36
+273            android:launchMode="singleTask"
+273-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:51:13-44
+274            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+274-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:52:13-72
+275            <intent-filter>
+275-->[com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:53:13-63:29
+276                <action android:name="android.intent.action.VIEW" />
+276-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:21:17-69
+276-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:21:25-66
+277
+278                <category android:name="android.intent.category.DEFAULT" />
+278-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:23:17-76
+278-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:23:27-73
+279                <category android:name="android.intent.category.BROWSABLE" />
+279-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:24:17-78
+279-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:24:27-75
+280
+281                <data
+281-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:26:17-29:51
+282                    android:host="firebase.auth"
+282-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:27:21-44
+283                    android:path="/"
+283-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:28:21-53
+284                    android:scheme="recaptcha" />
+284-->[com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:29:21-48
+285            </intent-filter>
+286        </activity> <!-- Needs to be explicitly declared on P+ -->
+287        <uses-library
+287-->[com.google.android.gms:play-services-maps:18.0.2] /home/kira/.gradle/caches/transforms-3/93ebec446551f589961c787b5c4ad545/transformed/play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+288            android:name="org.apache.http.legacy"
+288-->[com.google.android.gms:play-services-maps:18.0.2] /home/kira/.gradle/caches/transforms-3/93ebec446551f589961c787b5c4ad545/transformed/play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+289            android:required="false" />
+289-->[com.google.android.gms:play-services-maps:18.0.2] /home/kira/.gradle/caches/transforms-3/93ebec446551f589961c787b5c4ad545/transformed/play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+290
+291        <activity
+291-->[com.google.android.gms:play-services-base:18.0.1] /home/kira/.gradle/caches/transforms-3/78dbb9d6464c5385d8e6b97277b56c51/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+292            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+292-->[com.google.android.gms:play-services-base:18.0.1] /home/kira/.gradle/caches/transforms-3/78dbb9d6464c5385d8e6b97277b56c51/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+293            android:exported="false"
+293-->[com.google.android.gms:play-services-base:18.0.1] /home/kira/.gradle/caches/transforms-3/78dbb9d6464c5385d8e6b97277b56c51/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+294            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+294-->[com.google.android.gms:play-services-base:18.0.1] /home/kira/.gradle/caches/transforms-3/78dbb9d6464c5385d8e6b97277b56c51/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+295
+296        <property
+296-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:30:9-32:61
+297            android:name="android.adservices.AD_SERVICES_CONFIG"
+297-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:31:13-65
+298            android:resource="@xml/ga_ad_services_config" />
+298-->[com.google.android.gms:play-services-measurement-api:21.5.0] /home/kira/.gradle/caches/transforms-3/d5549679e941b85257ae1c8ade0c7a1d/transformed/play-services-measurement-api-21.5.0/AndroidManifest.xml:32:13-58
+299
+300        <provider
+300-->[com.google.firebase:firebase-common:20.4.2] /home/kira/.gradle/caches/transforms-3/92c41717903b732ee911bad9753f423b/transformed/firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+301            android:name="com.google.firebase.provider.FirebaseInitProvider"
+301-->[com.google.firebase:firebase-common:20.4.2] /home/kira/.gradle/caches/transforms-3/92c41717903b732ee911bad9753f423b/transformed/firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+302            android:authorities="com.orkestra.paycars.firebaseinitprovider"
+302-->[com.google.firebase:firebase-common:20.4.2] /home/kira/.gradle/caches/transforms-3/92c41717903b732ee911bad9753f423b/transformed/firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+303            android:directBootAware="true"
+303-->[com.google.firebase:firebase-common:20.4.2] /home/kira/.gradle/caches/transforms-3/92c41717903b732ee911bad9753f423b/transformed/firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+304            android:exported="false"
+304-->[com.google.firebase:firebase-common:20.4.2] /home/kira/.gradle/caches/transforms-3/92c41717903b732ee911bad9753f423b/transformed/firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+305            android:initOrder="100" />
+305-->[com.google.firebase:firebase-common:20.4.2] /home/kira/.gradle/caches/transforms-3/92c41717903b732ee911bad9753f423b/transformed/firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+306
+307        <service
+307-->[androidx.room:room-runtime:2.6.0] /home/kira/.gradle/caches/transforms-3/f57284dc1149ac85b21d584ef37a2ed9/transformed/room-runtime-2.6.0/AndroidManifest.xml:24:9-28:63
+308            android:name="androidx.room.MultiInstanceInvalidationService"
+308-->[androidx.room:room-runtime:2.6.0] /home/kira/.gradle/caches/transforms-3/f57284dc1149ac85b21d584ef37a2ed9/transformed/room-runtime-2.6.0/AndroidManifest.xml:25:13-74
+309            android:directBootAware="true"
+309-->[androidx.room:room-runtime:2.6.0] /home/kira/.gradle/caches/transforms-3/f57284dc1149ac85b21d584ef37a2ed9/transformed/room-runtime-2.6.0/AndroidManifest.xml:26:13-43
+310            android:exported="false" />
+310-->[androidx.room:room-runtime:2.6.0] /home/kira/.gradle/caches/transforms-3/f57284dc1149ac85b21d584ef37a2ed9/transformed/room-runtime-2.6.0/AndroidManifest.xml:27:13-37
+311
+312        <receiver
+312-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:29:9-33:20
+313            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+313-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:30:13-85
+314            android:enabled="true"
+314-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:31:13-35
+315            android:exported="false" >
+315-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:32:13-37
+316        </receiver>
+317
+318        <service
+318-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:35:9-38:40
+319            android:name="com.google.android.gms.measurement.AppMeasurementService"
+319-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:36:13-84
+320            android:enabled="true"
+320-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:37:13-35
+321            android:exported="false" />
+321-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:38:13-37
+322        <service
+322-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:39:9-43:72
+323            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+323-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:40:13-87
+324            android:enabled="true"
+324-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:41:13-35
+325            android:exported="false"
+325-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:42:13-37
+326            android:permission="android.permission.BIND_JOB_SERVICE" />
+326-->[com.google.android.gms:play-services-measurement:21.5.0] /home/kira/.gradle/caches/transforms-3/79985618a9d245d4f3cf2a71823eb3f3/transformed/play-services-measurement-21.5.0/AndroidManifest.xml:43:13-69
+327
+328        <provider
+328-->[androidx.emoji2:emoji2:1.4.0] /home/kira/.gradle/caches/transforms-3/0a767c83f4989fa6f0df59d60daec961/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+329            android:name="androidx.startup.InitializationProvider"
+329-->[androidx.emoji2:emoji2:1.4.0] /home/kira/.gradle/caches/transforms-3/0a767c83f4989fa6f0df59d60daec961/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+330            android:authorities="com.orkestra.paycars.androidx-startup"
+330-->[androidx.emoji2:emoji2:1.4.0] /home/kira/.gradle/caches/transforms-3/0a767c83f4989fa6f0df59d60daec961/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+331            android:exported="false" >
+331-->[androidx.emoji2:emoji2:1.4.0] /home/kira/.gradle/caches/transforms-3/0a767c83f4989fa6f0df59d60daec961/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+332            <meta-data
+332-->[androidx.emoji2:emoji2:1.4.0] /home/kira/.gradle/caches/transforms-3/0a767c83f4989fa6f0df59d60daec961/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+333                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+333-->[androidx.emoji2:emoji2:1.4.0] /home/kira/.gradle/caches/transforms-3/0a767c83f4989fa6f0df59d60daec961/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+334                android:value="androidx.startup" />
+334-->[androidx.emoji2:emoji2:1.4.0] /home/kira/.gradle/caches/transforms-3/0a767c83f4989fa6f0df59d60daec961/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+335            <meta-data
+335-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/kira/.gradle/caches/transforms-3/f5f53ca6a6b064914a3f615743bb8f85/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+336                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+336-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/kira/.gradle/caches/transforms-3/f5f53ca6a6b064914a3f615743bb8f85/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+337                android:value="androidx.startup" />
+337-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/kira/.gradle/caches/transforms-3/f5f53ca6a6b064914a3f615743bb8f85/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+338            <meta-data
+338-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+339                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+339-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+340                android:value="androidx.startup" />
+340-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+341        </provider>
+342
+343        <uses-library
+343-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/kira/.gradle/caches/transforms-3/ad485dd0eaade883c640d1511492ebf0/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+344            android:name="android.ext.adservices"
+344-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/kira/.gradle/caches/transforms-3/ad485dd0eaade883c640d1511492ebf0/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+345            android:required="false" />
+345-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/kira/.gradle/caches/transforms-3/ad485dd0eaade883c640d1511492ebf0/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+346
+347        <meta-data
+347-->[com.google.android.gms:play-services-basement:18.2.0] /home/kira/.gradle/caches/transforms-3/16875ecfa279be9d35b92e3a3fd6f7e4/transformed/play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
+348            android:name="com.google.android.gms.version"
+348-->[com.google.android.gms:play-services-basement:18.2.0] /home/kira/.gradle/caches/transforms-3/16875ecfa279be9d35b92e3a3fd6f7e4/transformed/play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
+349            android:value="@integer/google_play_services_version" />
+349-->[com.google.android.gms:play-services-basement:18.2.0] /home/kira/.gradle/caches/transforms-3/16875ecfa279be9d35b92e3a3fd6f7e4/transformed/play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
+350
+351        <receiver
+351-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+352            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+352-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+353            android:directBootAware="false"
+353-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+354            android:enabled="true"
+354-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+355            android:exported="true"
+355-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+356            android:permission="android.permission.DUMP" >
+356-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+357            <intent-filter>
+357-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+358                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+358-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+358-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+359            </intent-filter>
+360            <intent-filter>
+360-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+361                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+361-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+361-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+362            </intent-filter>
+363            <intent-filter>
+363-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+364                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+364-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+364-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+365            </intent-filter>
+366            <intent-filter>
+366-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+367                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+367-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+367-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/kira/.gradle/caches/transforms-3/da119182b2c12ec0bc4c5da5577c71e2/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+368            </intent-filter>
+369        </receiver>
+370
+371        <meta-data
+371-->[com.google.android.instantapps:instantapps:1.1.0] /home/kira/.gradle/caches/transforms-3/0ff691d20cc4ba7eb1080818bddc4efc/transformed/instantapps-1.1.0/AndroidManifest.xml:10:9-12:33
+372            android:name="aia-compat-api-min-version"
+372-->[com.google.android.instantapps:instantapps:1.1.0] /home/kira/.gradle/caches/transforms-3/0ff691d20cc4ba7eb1080818bddc4efc/transformed/instantapps-1.1.0/AndroidManifest.xml:11:13-54
+373            android:value="1" />
+373-->[com.google.android.instantapps:instantapps:1.1.0] /home/kira/.gradle/caches/transforms-3/0ff691d20cc4ba7eb1080818bddc4efc/transformed/instantapps-1.1.0/AndroidManifest.xml:12:13-30
+374    </application>
+375
+376</manifest>

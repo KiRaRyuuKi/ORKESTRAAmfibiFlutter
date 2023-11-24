@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.os.Handler
 import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
+import com.orkestra.paycars.models.ui.content.MainDetailContentActivity
 
 
 class MainStartActivity : AppCompatActivity() {
@@ -13,15 +14,13 @@ class MainStartActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main_start)
 
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-            window.setFlags(
-                WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,
-                WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS
-            )
-        }
+        window.setFlags(
+            WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,
+            WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS
+        )
 
         Handler().postDelayed({
-            startActivity(Intent(this@MainStartActivity, MainWelcomeActivity::class.java))
+            startActivity(Intent(this@MainStartActivity, MainDetailContentActivity::class.java))
             finish()
         }, 2500)
     }
