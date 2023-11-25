@@ -14,7 +14,7 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.GoogleAuthProvider
 import com.orkestra.paycars.MainStartActivity
 import com.orkestra.paycars.R
-import com.orkestra.paycars.models.ui.menu.MainHomeActivity
+import com.orkestra.paycars.models.ui.MainHomeActivity
 
 class MainSignUpActivity : AppCompatActivity() {
     lateinit var buttonSignUpGoogle: Button

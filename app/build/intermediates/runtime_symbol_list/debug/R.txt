@@ -3682,6 +3682,7 @@ int id actions 0x7f090049
 int id activity_chooser_view_content 0x7f09004a
 int id add 0x7f09004b
 int id add_payment_method_card 0x7f09004c
+int id addressDetailContent 0x7f090318
 int id adjust_height 0x7f09004d
 int id adjust_width 0x7f09004e
 int id alertTitle 0x7f09004f
@@ -3741,6 +3742,7 @@ int id button 0x7f090084
 int id button6 0x7f090085
 int id buttonArrowLeft 0x7f090086
 int id buttonContent 0x7f090087
+int id buttonDetailContent 0x7f090319
 int id buttonEditAccount 0x7f090088
 int id buttonLogOutAccount 0x7f090089
 int id buttonMapAccount 0x7f09008a
@@ -3748,7 +3750,6 @@ int id buttonMassageTransaction 0x7f09008b
 int id buttonNavigationTransaction 0x7f09008c
 int id buttonNotifyAccount 0x7f09008d
 int id buttonPanel 0x7f09008e
-int id buttonPayment 0x7f09008f
 int id buttonPrivacyAccount 0x7f090090
 int id buttonSecurityAccount 0x7f090091
 int id buttonShowroomAccount 0x7f090092
@@ -3849,6 +3850,7 @@ int id deltaRelative 0x7f0900f0
 int id dependency_ordering 0x7f0900f1
 int id description 0x7f0900f2
 int id descriptionContent 0x7f0900f3
+int id descriptionDetailContent 0x7f09031a
 int id descriptionTransaction 0x7f0900f4
 int id design_bottom_sheet 0x7f0900f5
 int id design_menu_item_action_area 0x7f0900f6
@@ -3973,11 +3975,11 @@ int id ignore 0x7f09016c
 int id ignoreRequest 0x7f09016d
 int id image 0x7f09016e
 int id imageContent 0x7f09016f
+int id imageDetailContent 0x7f09031b
 int id imageProfileTransaction 0x7f090170
 int id imageShowroomAccount 0x7f090171
 int id imageTransaction 0x7f090172
 int id imageUserAccount 0x7f090173
-int id imageView 0x7f090174
 int id imageWelcome 0x7f090175
 int id immediateStop 0x7f090176
 int id included 0x7f090177
@@ -4077,6 +4079,7 @@ int id mtrl_view_tag_bottom_padding 0x7f0901d4
 int id multiply 0x7f0901d5
 int id name 0x7f0901d6
 int id nameContent 0x7f0901d7
+int id nameDetailContent 0x7f09031c
 int id nameProfileTransaction 0x7f0901d8
 int id nameShowroomAccount 0x7f0901d9
 int id nameTransaction 0x7f0901da
@@ -4155,6 +4158,7 @@ int id postal_code_text_input_layout 0x7f090222
 int id pressed 0x7f090223
 int id price 0x7f090224
 int id priceContent 0x7f090225
+int id priceDetailContent 0x7f09031d
 int id priceTransaction 0x7f090226
 int id primary_button 0x7f090227
 int id production 0x7f090228
@@ -4302,11 +4306,6 @@ int id textStart 0x7f0902b5
 int id textTop 0x7f0902b6
 int id textView 0x7f0902b7
 int id textView10 0x7f0902b8
-int id textView11 0x7f0902b9
-int id textView3 0x7f0902ba
-int id textView5 0x7f0902bb
-int id textView6 0x7f0902bc
-int id textView8 0x7f0902bd
 int id textView9 0x7f0902be
 int id textWatcher 0x7f0902bf
 int id text_entry 0x7f0902c0
@@ -4516,7 +4515,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0c0018
 int layout abc_search_view 0x7f0c0019
 int layout abc_select_dialog_material 0x7f0c001a
 int layout abc_tooltip 0x7f0c001b
-int layout activity_main_detail_content 0x7f0c001c
+int layout activity_main_content 0x7f0c00b0
 int layout activity_main_home 0x7f0c001d
 int layout activity_main_message 0x7f0c001e
 int layout activity_main_sign_in 0x7f0c001f

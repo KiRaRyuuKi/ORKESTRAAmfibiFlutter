@@ -88,8 +88,8 @@
 51-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:16:9-79
 52        <activity
 52-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:18:9-20:40
-53            android:name="com.orkestra.paycars.models.ui.content.MainDetailContentActivity"
-53-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:19:13-72
+53            android:name="com.orkestra.paycars.models.ui.MainContentActivity"
+53-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:19:13-58
 54            android:exported="false" />
 54-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:20:13-37
 55        <activity
@@ -112,8 +112,8 @@
 63-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:29:13-37
 64        <activity
 64-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:30:9-32:40
-65            android:name="com.orkestra.paycars.models.ui.menu.MainHomeActivity"
-65-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:31:13-60
+65            android:name="com.orkestra.paycars.models.ui.MainHomeActivity"
+65-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:31:13-55
 66            android:exported="false" />
 66-->/home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:32:13-37
 67        <activity

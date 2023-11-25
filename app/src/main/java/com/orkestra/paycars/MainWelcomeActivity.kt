@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
 import com.orkestra.paycars.models.MainSignInActivity
-import com.orkestra.paycars.models.ui.content.MainDetailContentActivity
+import com.orkestra.paycars.models.ui.MainContentActivity
 
 class MainWelcomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -15,7 +15,7 @@ class MainWelcomeActivity : AppCompatActivity() {
         val goToRegister = findViewById<TextView>(R.id.buttonWelcome)
 
         goToRegister.setOnClickListener {
-            val intent = Intent(this@MainWelcomeActivity, MainDetailContentActivity::class.java)
+            val intent = Intent(this, MainSignInActivity::class.java)
             startActivity(intent)
         }
     }

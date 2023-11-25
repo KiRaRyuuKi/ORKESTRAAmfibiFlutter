@@ -1,12 +1,11 @@
 package com.orkestra.paycars
 
 import android.content.Intent
-import android.os.Build
 import android.os.Bundle
 import android.os.Handler
 import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
-import com.orkestra.paycars.models.ui.content.MainDetailContentActivity
+import com.orkestra.paycars.models.ui.MainContentActivity
 
 
 class MainStartActivity : AppCompatActivity() {
@@ -20,7 +19,7 @@ class MainStartActivity : AppCompatActivity() {
         )
 
         Handler().postDelayed({
-            startActivity(Intent(this@MainStartActivity, MainDetailContentActivity::class.java))
+            startActivity(Intent(this, MainWelcomeActivity::class.java))
             finish()
         }, 2500)
     }

@@ -3683,6 +3683,7 @@ id actions
 id activity_chooser_view_content
 id add
 id add_payment_method_card
+id addressDetailContent
 id adjust_height
 id adjust_width
 id alertTitle
@@ -3742,6 +3743,7 @@ id button
 id button6
 id buttonArrowLeft
 id buttonContent
+id buttonDetailContent
 id buttonEditAccount
 id buttonLogOutAccount
 id buttonMapAccount
@@ -3749,7 +3751,6 @@ id buttonMassageTransaction
 id buttonNavigationTransaction
 id buttonNotifyAccount
 id buttonPanel
-id buttonPayment
 id buttonPrivacyAccount
 id buttonSecurityAccount
 id buttonShowroomAccount
@@ -3850,6 +3851,7 @@ id deltaRelative
 id dependency_ordering
 id description
 id descriptionContent
+id descriptionDetailContent
 id descriptionTransaction
 id design_bottom_sheet
 id design_menu_item_action_area
@@ -3974,11 +3976,11 @@ id ignore
 id ignoreRequest
 id image
 id imageContent
+id imageDetailContent
 id imageProfileTransaction
 id imageShowroomAccount
 id imageTransaction
 id imageUserAccount
-id imageView
 id imageWelcome
 id immediateStop
 id included
@@ -4078,6 +4080,7 @@ id mtrl_view_tag_bottom_padding
 id multiply
 id name
 id nameContent
+id nameDetailContent
 id nameProfileTransaction
 id nameShowroomAccount
 id nameTransaction
@@ -4156,6 +4159,7 @@ id postal_code_text_input_layout
 id pressed
 id price
 id priceContent
+id priceDetailContent
 id priceTransaction
 id primary_button
 id production
@@ -4303,11 +4307,6 @@ id textStart
 id textTop
 id textView
 id textView10
-id textView11
-id textView3
-id textView5
-id textView6
-id textView8
 id textView9
 id textWatcher
 id text_entry
@@ -4517,7 +4516,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_main_detail_content
+layout activity_main_content
 layout activity_main_home
 layout activity_main_message
 layout activity_main_sign_in

@@ -50,7 +50,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" >
         <activity
-            android:name="com.orkestra.paycars.models.ui.content.MainDetailContentActivity"
+            android:name="com.orkestra.paycars.models.ui.MainContentActivity"
             android:exported="false" />
         <activity
             android:name="com.orkestra.paycars.MainWelcomeActivity"
@@ -62,7 +62,7 @@
             android:name="com.orkestra.paycars.models.MainSignInActivity"
             android:exported="false" />
         <activity
-            android:name="com.orkestra.paycars.models.ui.menu.MainHomeActivity"
+            android:name="com.orkestra.paycars.models.ui.MainHomeActivity"
             android:exported="false" />
         <activity
             android:name="com.orkestra.paycars.MainStartActivity"

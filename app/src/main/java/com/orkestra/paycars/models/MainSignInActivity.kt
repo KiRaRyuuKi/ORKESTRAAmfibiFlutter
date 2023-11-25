@@ -14,13 +14,13 @@ import com.google.android.gms.common.api.ApiException
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.GoogleAuthProvider
 import com.orkestra.paycars.R
-import com.orkestra.paycars.models.ui.menu.MainHomeActivity
+import com.orkestra.paycars.models.ui.MainHomeActivity
 
 class MainSignInActivity : AppCompatActivity() {
-    lateinit var buttonSignInGoogle: Button
-    lateinit var googleSignInClient: GoogleSignInClient
+    private lateinit var buttonSignInGoogle: Button
+    private lateinit var googleSignInClient: GoogleSignInClient
 
-    var firebaseAuth = FirebaseAuth.getInstance()
+    private var firebaseAuth = FirebaseAuth.getInstance()
 
     companion object {
         private const val RC_SIGN_IN = 1000
@@ -43,19 +43,17 @@ class MainSignInActivity : AppCompatActivity() {
             startActivityForResult(signInIntent, RC_SIGN_IN)
         }
 
-
-        //
         val goToRegister = findViewById<TextView>(R.id.signInRegister)
 
         goToRegister.setOnClickListener {
-            val intent = Intent(this@MainSignInActivity, MainSignUpActivity::class.java)
+            val intent = Intent(this, MainSignUpActivity::class.java)
             startActivity(intent)
         }
 
         val goToHome = findViewById<TextView>(R.id.buttonSignIn)
 
         goToHome.setOnClickListener {
-            val intent = Intent(this@MainSignInActivity, MainHomeActivity::class.java)
+            val intent = Intent(this, MainHomeActivity::class.java)
             startActivity(intent)
         }
     }
