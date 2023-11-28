@@ -52,10 +52,17 @@ android {
 }
 
 dependencies {
+    implementation("androidx.preference:preference-ktx:1.2.1")
     ksp("androidx.room:room-compiler:2.6.0")
 
     implementation("com.airbnb.android:lottie:6.1.0")
     implementation("com.github.bumptech.glide:glide:4.16.0")
+    implementation("com.android.volley:volley:1.2.1")
+
+    implementation("com.stripe:stripe-android:20.34.4")
+    implementation ("com.github.kittinunf.fuel:fuel:2.3.1")
+    implementation("com.github.kittinunf.fuel:fuel-json:2.3.1")
+
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 

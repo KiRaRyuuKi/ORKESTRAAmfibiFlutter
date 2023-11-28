@@ -1,49 +1,60 @@
 package com.orkestra.paycars.models.fragment
 
+import android.content.Context
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ImageView
 import android.widget.TextView
+import androidx.fragment.app.Fragment
+import com.bumptech.glide.Glide
 import com.orkestra.paycars.R
-
-private const val ARG_PARAM1 = "param1"
-private const val ARG_PARAM2 = "param2"
-
 class TransactionFragment : Fragment() {
-    private var param1: String? = null
-    private var param2: String? = null
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        arguments?.let {
-            param1 = it.getString(ARG_PARAM1)
-            param2 = it.getString(ARG_PARAM2)
+    companion object {
+        const val TAG = "GoogleSignIn"
+
+        fun newInstance(): TransactionFragment {
+            return TransactionFragment()
         }
     }
+
+    private lateinit var tvUserName: TextView
+    private lateinit var tvUserEmail: TextView
+    private lateinit var userImageView: ImageView
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        val view = inflater.inflate(R.layout.fragment_transaction, container, false)
+        val rootView = inflater.inflate(R.layout.fragment_transaction, container, false)
 
-        val goToMessage = view.findViewById<TextView>(R.id.buttonMassageTransaction)
+        tvUserName = rootView.findViewById(R.id.nameProfileTransaction)
+        tvUserEmail = rootView.findViewById(R.id.emailProfileTransaction)
+        userImageView = rootView.findViewById(R.id.imageProfileTransaction)
+
+        val preferences = requireActivity().getSharedPreferences("MyPrefs", Context.MODE_PRIVATE)
+        val userName = preferences.getString("username", "")
+        val userEmail = preferences.getString("useremail", "")
+        val userImageUrl = preferences.getString("userPhoto", "")
+
+        tvUserName.text = userName
+
+        // Check if userEmail is not null before setting the text
+        if (!userEmail.isNullOrEmpty()) {
+            tvUserEmail.text = userEmail
+        }
+
+        Glide.with(this).load(userImageUrl).into(userImageView)
+
+        val goToMessage = rootView.findViewById<TextView>(R.id.buttonMassageTransaction)
 
         goToMessage.setOnClickListener {
+            // Add your logic here for the button click
         }
-        return view
-    }
 
-    companion object {
-        @JvmStatic
-        fun newInstance(param1: String, param2: String) =
-            TransactionFragment().apply {
-                arguments = Bundle().apply {
-                    putString(ARG_PARAM1, param1)
-                    putString(ARG_PARAM2, param2)
-                }
-            }
+        return rootView
     }
 }
+

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="primaryFirst">#FF3518</color>
@@ -8,4 +8,12 @@
     <color name="accentsSecond">#2C2C2C</color>
     <color name="accentsThrid">#F5F5F5</color>
     <color name="accentsStroke">#CECECE</color>
+    <color name="orange">#FFA500</color>
+    <color name="green">#008000</color>
+
+    <style name="buttonLogout" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">@color/primaryFirst</item>
+        <item name="colorButtonNormal">@color/black</item>
+    </style>
+
 </resources>

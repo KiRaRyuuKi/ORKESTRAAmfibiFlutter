@@ -7,24 +7,42 @@ INJECTED from E:\Project\Pribadi\ORKESTRAPayCarsPlatformMobile\app\src\main\Andr
 MERGED from [androidx.databinding:databinding-adapters:8.1.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\46dd170bdf72051850e3b30f5c5d491c\transformed\databinding-adapters-8.1.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-ktx:8.1.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\e0e07cc22199bd397a32f96d4b82b094\transformed\databinding-ktx-8.1.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-runtime:8.1.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\772884b10ebe4abde88b5d4e5b4fe31e\transformed\databinding-runtime-8.1.2\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.databinding:viewbinding:8.1.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\611d2e01d2d3bb313d327b2de109e6cf\transformed\viewbinding-8.1.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.stripe:stripe-android:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a40d88453d6a36c247fe281ebc7681d3\transformed\stripe-android-20.34.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:2:1-41:12
+MERGED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:2:1-34:12
+MERGED from [com.stripe:payments-ui-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7e41a7d0e75af36e29bb7748713b372a\transformed\payments-ui-core-20.34.4\AndroidManifest.xml:2:1-14:12
+MERGED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:2:1-86:12
+MERGED from [com.stripe:stripe-3ds2-android:6.1.7] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\be751946fcb6c22429f4ff46a9465b33\transformed\stripe-3ds2-android-6.1.7\AndroidManifest.xml:2:1-14:12
+MERGED from [com.stripe:stripe-ui-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2fd8d2ffedad67f14ab4229e2c4f41ed\transformed\stripe-ui-core-20.34.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2166a07b372ce4c2721027df83ee2aa4\transformed\navigation-compose-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\45c790e7e4686d2b0ce2ff1a1c2ebe2b\transformed\accompanist-systemuicontroller-0.32.0\AndroidManifest.xml:17:1-23:12
 MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\445a2ea16b0547ba3ff55e0852412f6c\transformed\lottie-6.1.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\60b1a4df36b704f891f40da8b8a38b8e\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.accompanist:accompanist-themeadapter-appcompat:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\26a245856be1198c26ba2d174084b19e\transformed\accompanist-themeadapter-appcompat-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.accompanist:accompanist-themeadapter-material:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\435ad2ab1116c5ba7052ff8f5f5935d4\transformed\accompanist-themeadapter-material-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.accompanist:accompanist-themeadapter-material3:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\bdd0e505fbf92a23a58d41ca00ed8582\transformed\accompanist-themeadapter-material3-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.accompanist:accompanist-themeadapter-core:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2c0287ea5261e0540e7e56fbdc5f058d\transformed\accompanist-themeadapter-core-0.32.0\AndroidManifest.xml:17:1-23:12
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ae87b00707d6c286e6f4db79910303b7\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7dad0d24dfa01b52b19563b812a9d3d4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference-ktx:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\883a630abd95130b89b0c40a80c1a344\transformed\preference-ktx-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\fd72bfa48890a938dbff441b07a0dafd\transformed\preference-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\135e31e1c84ce08cb7ce8aa1c00f6614\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.stripe:payments-model:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5d2b43bd79789d4816922cf53d0303a0\transformed\payments-model-20.34.4\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8917287f61eeecaca979772df342f0cd\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\00a55e3f5915a63d7d1d49afad1e1022\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\153e2088b414b0a88add1c5f01148d79\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2997e1bf2694f15abedc23018757ed2f\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\17205f0353cc51b6be42eac8e8fc3ab6\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4c6eb07a8f3fa032fb3a8ab0594141a1\transformed\fragment-ktx-1.5.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\9010f1f7b98a438bfce56985b9933158\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a8b54bfc4a26c5f968c7d8ead03363fc\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d31d8b3c43201f05229db880b6a44840\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\60b1a4df36b704f891f40da8b8a38b8e\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f9620b616c26eed9fd683ae5a1de2197\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
 MERGED from [com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d1da34318805cdf22a34e643a0509a75\transformed\firebase-auth-ktx-22.3.0\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:17:1-75:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\e587bfd7dbba582cdd6114a7653562cd\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7945a6a0201c70977fa31e5b4ef7830e\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\22ad8103e3658ce2e14c22b5115261c5\transformed\play-services-fido-20.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-wallet:19.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\05895a974eb491c25cbdbbb962868b6d\transformed\play-services-wallet-19.2.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a4afb47b18af56f0745584e3d380dc35\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.android.gms:play-services-identity:18.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\73fa6cc1f423bc6611ac3727720a71d2\transformed\play-services-identity-18.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:17:1-44:12
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\78dbb9d6464c5385d8e6b97277b56c51\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
 MERGED from [com.google.firebase:firebase-analytics-ktx:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\082dc24ac82075ba83ae3c01efc0464f\transformed\firebase-analytics-ktx-21.5.0\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-analytics:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\3aaa58180cdcd4c72ee9223d45148fe2\transformed\firebase-analytics-21.5.0\AndroidManifest.xml:2:1-9:12
@@ -37,9 +55,10 @@ MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Tri agus ha
 MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\eabf4d6525256d146967d2288bea3d93\transformed\integrity-1.1.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.room:room-runtime:2.6.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f57284dc1149ac85b21d584ef37a2ed9\transformed\room-runtime-2.6.0\AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.room:room-ktx:2.6.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d67bd813323b129478dfbbf0a5f7e59a\transformed\room-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c7c4a99d975ee3ad8e03b88e2be4c80e\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0af9b639c040a2a54bb31caecb834af3\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.activity:activity:1.8.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c20a878d80cb69d2cbaa03f75a9c558c\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\00a55e3f5915a63d7d1d49afad1e1022\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\153e2088b414b0a88add1c5f01148d79\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2997e1bf2694f15abedc23018757ed2f\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\90751977cdb7602b90c7cc072d55adbc\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\41f0ff1727cb38bd460111a1aeef0c93\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\79985618a9d245d4f3cf2a71823eb3f3\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:17:1-46:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b1291cfacf7bb51148610726971a348f\transformed\play-services-measurement-sdk-21.5.0\AndroidManifest.xml:17:1-25:12
@@ -47,18 +66,59 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Us
 MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b69d166cf110223d1146a829c9a1e4aa\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d5bf78a661a92b97a6334646c82a696d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ee0728e56bb0c502c677eef19c3164e7\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3:1.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0f40f2a33e88ef84138a48f914884ca5\transformed\material3-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\943d502375d65f7fe4d9b12dc2857a44\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\997a174cb1cd72f9c506e04193fb16df\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\80fe6c2da20dde4b13145538880b1fbc\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\386dd9686cee8558339d99f18485b83a\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d0570e331cb66646645ab4b03610d00a\transformed\navigation-common-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\cfb904ae56878486852e0dd7036cf1cc\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4f0a290ab2918f2d917b774f8072efa8\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\10083bd360cebde3e09fef4155633580\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\3cb7eb0160e04a9f096bb5551617109b\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\727cd6b6da4960eae4405bc5f73a98e7\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\095df1b27dc0a78069294570d9c718d8\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\012bc593f26017b457545fbbbc8fcb24\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\1b693105532671617732edf1bf589f90\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2d49cece895194f852f105bdaea8725d\transformed\lifecycle-service-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.accompanist:accompanist-flowlayout:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c1ab86c98952f98d1d4e89c732c0c091\transformed\accompanist-flowlayout-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\1eceb0de05d1ff51177a5e65b4d36af7\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7f4fd1c9778e8db8c247eaf3075d9fae\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7520447a31b335ec16c1860f8d018528\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e44da97985882e03084cd53b048a849\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\77d1f37cc47abd1651d3bcd13aacb566\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\bc879cb2c2c596b1a5a7140b9e27b490\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a58bec0b6fe1ca64472c45d3921baf1e\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c62fb14b7dcd0e565877b7b3d8110355\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\27eea712de320ce52746b263eb47760d\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2a001e00c452663c190e807eba5b41dd\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b78eae8f61f328260b271766dfca04a8\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0a767c83f4989fa6f0df59d60daec961\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f5f53ca6a6b064914a3f615743bb8f85\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4ac655eb02a3fbe9655c879204c97c76\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\793c337683d16c9c01966041f367e15e\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-livedata:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\694e28a4dc8a97dbc41e9bc9fd2bcb0b\transformed\runtime-livedata-1.5.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\41da582a7f88053ec2bb22c15fffe1fb\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\10083bd360cebde3e09fef4155633580\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a4435aa00eab1c8dfa0f285428ba486e\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ad485dd0eaade883c640d1511492ebf0\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\475fb4c6f83b37c5387428c13b925041\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\17205f0353cc51b6be42eac8e8fc3ab6\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d82cac05cd51a04d47a29405d4dba694\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\05618e1b575936c00861a4d18dd781dc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\974565df2d909e2cb784413086a93f89\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a0db4171690dceb1a6331f81cf11f79c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16a00f999136a74851c6a7b46d6ebf3b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.stripe:stripe-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b1bcc420064af0f7c997cd604f8a54b0\transformed\stripe-core-20.34.4\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\9844d61fc42f8e74a2a3979c30077019\transformed\browser-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a48619e721b4548c5af01ba985516dac\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\04e05a9109312470328c50f9e113630e\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4d082ff8ee0b8b528ef7ece1fbfd584b\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8fe4579a8c0532d0f836710d7b6591aa\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f1ec33dc752498245c5592eb3fe2c21a\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e6ea81b027c8cc7879d59d61516a5e2\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ef5a912c8d820d29dfe95abfffd844a8\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f4eeab0572090c574878cd450e130624\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\1d081e9dbedb9294bb419baf59906a55\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a4435aa00eab1c8dfa0f285428ba486e\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ad485dd0eaade883c640d1511492ebf0\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b673766edf34a549847cccb073bed8eb\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\55473159c2c79513ce94cbebfff51e37\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\453171468a0465814e52bdd6921e9d68\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
@@ -66,18 +126,13 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:
 MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\334033cafb1695c145ac28270dcc1e7c\transformed\play-services-measurement-base-21.5.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\81f15d60629713f7cfcf4ba27c15f549\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16875ecfa279be9d35b92e3a3fd6f7e4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:16:1-26:12
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\783eac8e7949ab9055ecde692cfce034\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d82cac05cd51a04d47a29405d4dba694\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\05618e1b575936c00861a4d18dd781dc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\975f6637a0ed7018f0068ee47e1ebafb\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\974565df2d909e2cb784413086a93f89\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a0db4171690dceb1a6331f81cf11f79c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a48619e721b4548c5af01ba985516dac\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\04e05a9109312470328c50f9e113630e\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.browser:browser:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d1be4a3ad9578f750a24941a5d3e552e\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e6ea81b027c8cc7879d59d61516a5e2\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\90751977cdb7602b90c7cc072d55adbc\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\475fb4c6f83b37c5387428c13b925041\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.5.5] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\23de69e857122ab0ee1c1202633271da\transformed\fragment-1.5.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c20a878d80cb69d2cbaa03f75a9c558c\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.8.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7829c3f0be3d9eb13fc458122a787e86\transformed\activity-compose-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\1759b19ec936c249cb3b364289e89d7a\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-viewbinding:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c1640f65e4500a702af4969945c00c90\transformed\ui-viewbinding-1.5.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.1.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\611d2e01d2d3bb313d327b2de109e6cf\transformed\viewbinding-8.1.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\02a1e4592330769b33bcfd9b2830c1e2\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6282f4a75c4f769c446d55454c66fbb0\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4f84667f03161afffc575235a23af688\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\da119182b2c12ec0bc4c5da5577c71e2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
@@ -88,6 +143,7 @@ MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\Tri agus hadi p\.g
 MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a831823ad01f7e6fd13bcdb19794c21e\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7e52061e84598a601a8d6f6fc3471523\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0eafba3fa597fc4b8a81998776a8ccc4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5a109132059162214abbbb3336bf778e\transformed\security-crypto-1.1.0-alpha05\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5987286a855f14293fb13be22e47bf72\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\dc341da09e5ceefdd33070911379145e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7f930ff5c7dc50c7d2f4697dd068218d\transformed\firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
@@ -95,6 +151,7 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\9063f8c34054759155b011d82d25ebcb\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\805967b564beead62ce690ef5536ff13\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\9988f92fa1a719fe6d385e5e8ffe8439\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ff691d20cc4ba7eb1080818bddc4efc\transformed\instantapps-1.1.0\AndroidManifest.xml:2:1-15:12
 	package
 		INJECTED from E:\Project\Pribadi\ORKESTRAPayCarsPlatformMobile\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -109,6 +166,8 @@ uses-permission#android.permission.INTERNET
 ADDED from E:\Project\Pribadi\ORKESTRAPayCarsPlatformMobile\app\src\main\AndroidManifest.xml:5:5-66
 MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d5549679e941b85257ae1c8ade0c7a1d\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d5549679e941b85257ae1c8ade0c7a1d\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4efd6732459672a2a6dfafbbb734c307\transformed\firebase-installations-17.2.0\AndroidManifest.xml:8:5-67
@@ -127,6 +186,8 @@ uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from E:\Project\Pribadi\ORKESTRAPayCarsPlatformMobile\app\src\main\AndroidManifest.xml:6:5-78
 MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:26:5-79
 MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d5549679e941b85257ae1c8ade0c7a1d\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d5549679e941b85257ae1c8ade0c7a1d\transformed\play-services-measurement-api-21.5.0\AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4efd6732459672a2a6dfafbbb734c307\transformed\firebase-installations-17.2.0\AndroidManifest.xml:7:5-79
@@ -137,6 +198,8 @@ MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\T
 MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\79985618a9d245d4f3cf2a71823eb3f3\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7d39665d3bb7dc83a0309bbeb5bdeb00\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7d39665d3bb7dc83a0309bbeb5bdeb00\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:24:5-79
+MERGED from [com.stripe:stripe-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b1bcc420064af0f7c997cd604f8a54b0\transformed\stripe-core-20.34.4\AndroidManifest.xml:7:5-79
+MERGED from [com.stripe:stripe-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b1bcc420064af0f7c997cd604f8a54b0\transformed\stripe-core-20.34.4\AndroidManifest.xml:7:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f2434719ff38296118c318b9797ba54a\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f2434719ff38296118c318b9797ba54a\transformed\play-services-measurement-sdk-api-21.5.0\AndroidManifest.xml:24:5-79
 	android:name
@@ -144,6 +207,16 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] C:
 application
 ADDED from E:\Project\Pribadi\ORKESTRAPayCarsPlatformMobile\app\src\main\AndroidManifest.xml:8:5-42:19
 INJECTED from E:\Project\Pribadi\ORKESTRAPayCarsPlatformMobile\app\src\main\AndroidManifest.xml:8:5-42:19
+MERGED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:7:5-39:19
+MERGED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:7:5-39:19
+MERGED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:7:5-32:19
+MERGED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:7:5-32:19
+MERGED from [com.stripe:payments-ui-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7e41a7d0e75af36e29bb7748713b372a\transformed\payments-ui-core-20.34.4\AndroidManifest.xml:7:5-12:19
+MERGED from [com.stripe:payments-ui-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7e41a7d0e75af36e29bb7748713b372a\transformed\payments-ui-core-20.34.4\AndroidManifest.xml:7:5-12:19
+MERGED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:14:5-84:19
+MERGED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:14:5-84:19
+MERGED from [com.stripe:stripe-3ds2-android:6.1.7] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\be751946fcb6c22429f4ff46a9465b33\transformed\stripe-3ds2-android-6.1.7\AndroidManifest.xml:7:5-12:19
+MERGED from [com.stripe:stripe-3ds2-android:6.1.7] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\be751946fcb6c22429f4ff46a9465b33\transformed\stripe-3ds2-android-6.1.7\AndroidManifest.xml:7:5-12:19
 MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\445a2ea16b0547ba3ff55e0852412f6c\transformed\lottie-6.1.0\AndroidManifest.xml:7:5-20
 MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\445a2ea16b0547ba3ff55e0852412f6c\transformed\lottie-6.1.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ae87b00707d6c286e6f4db79910303b7\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
@@ -160,6 +233,10 @@ MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Tri agus
 MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\22ad8103e3658ce2e14c22b5115261c5\transformed\play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a4afb47b18af56f0745584e3d380dc35\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a4afb47b18af56f0745584e3d380dc35\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-identity:18.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\73fa6cc1f423bc6611ac3727720a71d2\transformed\play-services-identity-18.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:18.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\73fa6cc1f423bc6611ac3727720a71d2\transformed\play-services-identity-18.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\78dbb9d6464c5385d8e6b97277b56c51\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\78dbb9d6464c5385d8e6b97277b56c51\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.firebase:firebase-analytics-ktx:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\082dc24ac82075ba83ae3c01efc0464f\transformed\firebase-analytics-ktx-21.5.0\AndroidManifest.xml:7:5-15:19
@@ -180,8 +257,6 @@ MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\Tri agus hadi p\.
 MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\eabf4d6525256d146967d2288bea3d93\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
 MERGED from [androidx.room:room-runtime:2.6.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f57284dc1149ac85b21d584ef37a2ed9\transformed\room-runtime-2.6.0\AndroidManifest.xml:23:5-29:19
 MERGED from [androidx.room:room-runtime:2.6.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f57284dc1149ac85b21d584ef37a2ed9\transformed\room-runtime-2.6.0\AndroidManifest.xml:23:5-29:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0af9b639c040a2a54bb31caecb834af3\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0af9b639c040a2a54bb31caecb834af3\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
 MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\79985618a9d245d4f3cf2a71823eb3f3\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:28:5-44:19
 MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\79985618a9d245d4f3cf2a71823eb3f3\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:28:5-44:19
 MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b1291cfacf7bb51148610726971a348f\transformed\play-services-measurement-sdk-21.5.0\AndroidManifest.xml:22:5-23:19
@@ -190,10 +265,16 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7d39665d3bb7dc83a0309bbeb5bdeb00\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:29:5-30:19
 MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b69d166cf110223d1146a829c9a1e4aa\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b69d166cf110223d1146a829c9a1e4aa\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0a767c83f4989fa6f0df59d60daec961\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0a767c83f4989fa6f0df59d60daec961\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f5f53ca6a6b064914a3f615743bb8f85\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f5f53ca6a6b064914a3f615743bb8f85\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ad485dd0eaade883c640d1511492ebf0\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ad485dd0eaade883c640d1511492ebf0\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8fe4579a8c0532d0f836710d7b6591aa\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8fe4579a8c0532d0f836710d7b6591aa\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e6ea81b027c8cc7879d59d61516a5e2\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e6ea81b027c8cc7879d59d61516a5e2\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\55473159c2c79513ce94cbebfff51e37\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\55473159c2c79513ce94cbebfff51e37\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\453171468a0465814e52bdd6921e9d68\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
@@ -204,14 +285,14 @@ MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users
 MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\81f15d60629713f7cfcf4ba27c15f549\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16875ecfa279be9d35b92e3a3fd6f7e4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16875ecfa279be9d35b92e3a3fd6f7e4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
-MERGED from [androidx.core:core:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e6ea81b027c8cc7879d59d61516a5e2\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e6ea81b027c8cc7879d59d61516a5e2\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\da119182b2c12ec0bc4c5da5577c71e2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\da119182b2c12ec0bc4c5da5577c71e2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ae9baa4c9ce3762547fbe50f45ecd20\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ae9baa4c9ce3762547fbe50f45ecd20\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0eafba3fa597fc4b8a81998776a8ccc4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0eafba3fa597fc4b8a81998776a8ccc4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ff691d20cc4ba7eb1080818bddc4efc\transformed\instantapps-1.1.0\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ff691d20cc4ba7eb1080818bddc4efc\transformed\instantapps-1.1.0\AndroidManifest.xml:9:5-13:19
 	android:extractNativeLibs
 		INJECTED from E:\Project\Pribadi\ORKESTRAPayCarsPlatformMobile\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
@@ -290,28 +371,58 @@ MERGED from [androidx.databinding:databinding-ktx:8.1.2] C:\Users\Tri agus hadi 
 MERGED from [androidx.databinding:databinding-ktx:8.1.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\e0e07cc22199bd397a32f96d4b82b094\transformed\databinding-ktx-8.1.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:databinding-runtime:8.1.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\772884b10ebe4abde88b5d4e5b4fe31e\transformed\databinding-runtime-8.1.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:databinding-runtime:8.1.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\772884b10ebe4abde88b5d4e5b4fe31e\transformed\databinding-runtime-8.1.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:viewbinding:8.1.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\611d2e01d2d3bb313d327b2de109e6cf\transformed\viewbinding-8.1.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:viewbinding:8.1.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\611d2e01d2d3bb313d327b2de109e6cf\transformed\viewbinding-8.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:stripe-android:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a40d88453d6a36c247fe281ebc7681d3\transformed\stripe-android-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:stripe-android:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a40d88453d6a36c247fe281ebc7681d3\transformed\stripe-android-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:payments-ui-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7e41a7d0e75af36e29bb7748713b372a\transformed\payments-ui-core-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:payments-ui-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7e41a7d0e75af36e29bb7748713b372a\transformed\payments-ui-core-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:stripe-3ds2-android:6.1.7] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\be751946fcb6c22429f4ff46a9465b33\transformed\stripe-3ds2-android-6.1.7\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:stripe-3ds2-android:6.1.7] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\be751946fcb6c22429f4ff46a9465b33\transformed\stripe-3ds2-android-6.1.7\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:stripe-ui-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2fd8d2ffedad67f14ab4229e2c4f41ed\transformed\stripe-ui-core-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:stripe-ui-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2fd8d2ffedad67f14ab4229e2c4f41ed\transformed\stripe-ui-core-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2166a07b372ce4c2721027df83ee2aa4\transformed\navigation-compose-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2166a07b372ce4c2721027df83ee2aa4\transformed\navigation-compose-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\45c790e7e4686d2b0ce2ff1a1c2ebe2b\transformed\accompanist-systemuicontroller-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\45c790e7e4686d2b0ce2ff1a1c2ebe2b\transformed\accompanist-systemuicontroller-0.32.0\AndroidManifest.xml:21:5-44
 MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\445a2ea16b0547ba3ff55e0852412f6c\transformed\lottie-6.1.0\AndroidManifest.xml:5:5-44
 MERGED from [com.airbnb.android:lottie:6.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\445a2ea16b0547ba3ff55e0852412f6c\transformed\lottie-6.1.0\AndroidManifest.xml:5:5-44
-MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\60b1a4df36b704f891f40da8b8a38b8e\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\60b1a4df36b704f891f40da8b8a38b8e\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.accompanist:accompanist-themeadapter-appcompat:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\26a245856be1198c26ba2d174084b19e\transformed\accompanist-themeadapter-appcompat-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-themeadapter-appcompat:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\26a245856be1198c26ba2d174084b19e\transformed\accompanist-themeadapter-appcompat-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-themeadapter-material:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\435ad2ab1116c5ba7052ff8f5f5935d4\transformed\accompanist-themeadapter-material-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-themeadapter-material:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\435ad2ab1116c5ba7052ff8f5f5935d4\transformed\accompanist-themeadapter-material-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-themeadapter-material3:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\bdd0e505fbf92a23a58d41ca00ed8582\transformed\accompanist-themeadapter-material3-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-themeadapter-material3:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\bdd0e505fbf92a23a58d41ca00ed8582\transformed\accompanist-themeadapter-material3-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-themeadapter-core:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2c0287ea5261e0540e7e56fbdc5f058d\transformed\accompanist-themeadapter-core-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-themeadapter-core:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2c0287ea5261e0540e7e56fbdc5f058d\transformed\accompanist-themeadapter-core-0.32.0\AndroidManifest.xml:21:5-44
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ae87b00707d6c286e6f4db79910303b7\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ae87b00707d6c286e6f4db79910303b7\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7dad0d24dfa01b52b19563b812a9d3d4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7dad0d24dfa01b52b19563b812a9d3d4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference-ktx:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\883a630abd95130b89b0c40a80c1a344\transformed\preference-ktx-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\883a630abd95130b89b0c40a80c1a344\transformed\preference-ktx-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\fd72bfa48890a938dbff441b07a0dafd\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\fd72bfa48890a938dbff441b07a0dafd\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\135e31e1c84ce08cb7ce8aa1c00f6614\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\135e31e1c84ce08cb7ce8aa1c00f6614\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.stripe:payments-model:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5d2b43bd79789d4816922cf53d0303a0\transformed\payments-model-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:payments-model:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5d2b43bd79789d4816922cf53d0303a0\transformed\payments-model-20.34.4\AndroidManifest.xml:5:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8917287f61eeecaca979772df342f0cd\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8917287f61eeecaca979772df342f0cd\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\00a55e3f5915a63d7d1d49afad1e1022\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\00a55e3f5915a63d7d1d49afad1e1022\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\153e2088b414b0a88add1c5f01148d79\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\153e2088b414b0a88add1c5f01148d79\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2997e1bf2694f15abedc23018757ed2f\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2997e1bf2694f15abedc23018757ed2f\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\17205f0353cc51b6be42eac8e8fc3ab6\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\17205f0353cc51b6be42eac8e8fc3ab6\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4c6eb07a8f3fa032fb3a8ab0594141a1\transformed\fragment-ktx-1.5.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4c6eb07a8f3fa032fb3a8ab0594141a1\transformed\fragment-ktx-1.5.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\9010f1f7b98a438bfce56985b9933158\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\9010f1f7b98a438bfce56985b9933158\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a8b54bfc4a26c5f968c7d8ead03363fc\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a8b54bfc4a26c5f968c7d8ead03363fc\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d31d8b3c43201f05229db880b6a44840\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d31d8b3c43201f05229db880b6a44840\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\60b1a4df36b704f891f40da8b8a38b8e\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\60b1a4df36b704f891f40da8b8a38b8e\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f9620b616c26eed9fd683ae5a1de2197\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f9620b616c26eed9fd683ae5a1de2197\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d1da34318805cdf22a34e643a0509a75\transformed\firebase-auth-ktx-22.3.0\AndroidManifest.xml:5:5-44
@@ -324,8 +435,14 @@ MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Tri
 MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7945a6a0201c70977fa31e5b4ef7830e\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\22ad8103e3658ce2e14c22b5115261c5\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\22ad8103e3658ce2e14c22b5115261c5\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wallet:19.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\05895a974eb491c25cbdbbb962868b6d\transformed\play-services-wallet-19.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:19.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\05895a974eb491c25cbdbbb962868b6d\transformed\play-services-wallet-19.2.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a4afb47b18af56f0745584e3d380dc35\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a4afb47b18af56f0745584e3d380dc35\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-identity:18.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\73fa6cc1f423bc6611ac3727720a71d2\transformed\play-services-identity-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:18.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\73fa6cc1f423bc6611ac3727720a71d2\transformed\play-services-identity-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\78dbb9d6464c5385d8e6b97277b56c51\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\78dbb9d6464c5385d8e6b97277b56c51\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
 MERGED from [com.google.firebase:firebase-analytics-ktx:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\082dc24ac82075ba83ae3c01efc0464f\transformed\firebase-analytics-ktx-21.5.0\AndroidManifest.xml:5:5-44
@@ -350,12 +467,14 @@ MERGED from [androidx.room:room-runtime:2.6.0] C:\Users\Tri agus hadi p\.gradle\
 MERGED from [androidx.room:room-runtime:2.6.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f57284dc1149ac85b21d584ef37a2ed9\transformed\room-runtime-2.6.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.room:room-ktx:2.6.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d67bd813323b129478dfbbf0a5f7e59a\transformed\room-ktx-2.6.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.room:room-ktx:2.6.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d67bd813323b129478dfbbf0a5f7e59a\transformed\room-ktx-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c7c4a99d975ee3ad8e03b88e2be4c80e\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c7c4a99d975ee3ad8e03b88e2be4c80e\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0af9b639c040a2a54bb31caecb834af3\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0af9b639c040a2a54bb31caecb834af3\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.activity:activity:1.8.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c20a878d80cb69d2cbaa03f75a9c558c\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.8.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c20a878d80cb69d2cbaa03f75a9c558c\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\00a55e3f5915a63d7d1d49afad1e1022\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\00a55e3f5915a63d7d1d49afad1e1022\transformed\recyclerview-selection-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\153e2088b414b0a88add1c5f01148d79\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\153e2088b414b0a88add1c5f01148d79\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2997e1bf2694f15abedc23018757ed2f\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2997e1bf2694f15abedc23018757ed2f\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\90751977cdb7602b90c7cc072d55adbc\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\90751977cdb7602b90c7cc072d55adbc\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\41f0ff1727cb38bd460111a1aeef0c93\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\41f0ff1727cb38bd460111a1aeef0c93\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\79985618a9d245d4f3cf2a71823eb3f3\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:20:5-44
@@ -370,30 +489,112 @@ MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tri agus 
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d5bf78a661a92b97a6334646c82a696d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ee0728e56bb0c502c677eef19c3164e7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ee0728e56bb0c502c677eef19c3164e7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0f40f2a33e88ef84138a48f914884ca5\transformed\material3-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0f40f2a33e88ef84138a48f914884ca5\transformed\material3-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\943d502375d65f7fe4d9b12dc2857a44\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\943d502375d65f7fe4d9b12dc2857a44\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\997a174cb1cd72f9c506e04193fb16df\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\997a174cb1cd72f9c506e04193fb16df\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\80fe6c2da20dde4b13145538880b1fbc\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\80fe6c2da20dde4b13145538880b1fbc\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\386dd9686cee8558339d99f18485b83a\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\386dd9686cee8558339d99f18485b83a\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d0570e331cb66646645ab4b03610d00a\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d0570e331cb66646645ab4b03610d00a\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\cfb904ae56878486852e0dd7036cf1cc\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\cfb904ae56878486852e0dd7036cf1cc\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4f0a290ab2918f2d917b774f8072efa8\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4f0a290ab2918f2d917b774f8072efa8\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\10083bd360cebde3e09fef4155633580\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\10083bd360cebde3e09fef4155633580\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\3cb7eb0160e04a9f096bb5551617109b\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\3cb7eb0160e04a9f096bb5551617109b\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\727cd6b6da4960eae4405bc5f73a98e7\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\727cd6b6da4960eae4405bc5f73a98e7\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\095df1b27dc0a78069294570d9c718d8\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\095df1b27dc0a78069294570d9c718d8\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\012bc593f26017b457545fbbbc8fcb24\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\012bc593f26017b457545fbbbc8fcb24\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\1b693105532671617732edf1bf589f90\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\1b693105532671617732edf1bf589f90\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2d49cece895194f852f105bdaea8725d\transformed\lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2d49cece895194f852f105bdaea8725d\transformed\lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.accompanist:accompanist-flowlayout:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c1ab86c98952f98d1d4e89c732c0c091\transformed\accompanist-flowlayout-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-flowlayout:0.32.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c1ab86c98952f98d1d4e89c732c0c091\transformed\accompanist-flowlayout-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\1eceb0de05d1ff51177a5e65b4d36af7\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\1eceb0de05d1ff51177a5e65b4d36af7\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7f4fd1c9778e8db8c247eaf3075d9fae\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7f4fd1c9778e8db8c247eaf3075d9fae\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7520447a31b335ec16c1860f8d018528\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7520447a31b335ec16c1860f8d018528\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e44da97985882e03084cd53b048a849\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e44da97985882e03084cd53b048a849\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\77d1f37cc47abd1651d3bcd13aacb566\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\77d1f37cc47abd1651d3bcd13aacb566\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\bc879cb2c2c596b1a5a7140b9e27b490\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\bc879cb2c2c596b1a5a7140b9e27b490\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a58bec0b6fe1ca64472c45d3921baf1e\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a58bec0b6fe1ca64472c45d3921baf1e\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c62fb14b7dcd0e565877b7b3d8110355\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c62fb14b7dcd0e565877b7b3d8110355\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\27eea712de320ce52746b263eb47760d\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\27eea712de320ce52746b263eb47760d\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2a001e00c452663c190e807eba5b41dd\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\2a001e00c452663c190e807eba5b41dd\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b78eae8f61f328260b271766dfca04a8\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b78eae8f61f328260b271766dfca04a8\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0a767c83f4989fa6f0df59d60daec961\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0a767c83f4989fa6f0df59d60daec961\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f5f53ca6a6b064914a3f615743bb8f85\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f5f53ca6a6b064914a3f615743bb8f85\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4ac655eb02a3fbe9655c879204c97c76\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4ac655eb02a3fbe9655c879204c97c76\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\793c337683d16c9c01966041f367e15e\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\793c337683d16c9c01966041f367e15e\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-livedata:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\694e28a4dc8a97dbc41e9bc9fd2bcb0b\transformed\runtime-livedata-1.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-livedata:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\694e28a4dc8a97dbc41e9bc9fd2bcb0b\transformed\runtime-livedata-1.5.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\41da582a7f88053ec2bb22c15fffe1fb\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\41da582a7f88053ec2bb22c15fffe1fb\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\10083bd360cebde3e09fef4155633580\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\10083bd360cebde3e09fef4155633580\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a4435aa00eab1c8dfa0f285428ba486e\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a4435aa00eab1c8dfa0f285428ba486e\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ad485dd0eaade883c640d1511492ebf0\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ad485dd0eaade883c640d1511492ebf0\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\475fb4c6f83b37c5387428c13b925041\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\475fb4c6f83b37c5387428c13b925041\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\17205f0353cc51b6be42eac8e8fc3ab6\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\17205f0353cc51b6be42eac8e8fc3ab6\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d82cac05cd51a04d47a29405d4dba694\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d82cac05cd51a04d47a29405d4dba694\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\05618e1b575936c00861a4d18dd781dc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\05618e1b575936c00861a4d18dd781dc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\974565df2d909e2cb784413086a93f89\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\974565df2d909e2cb784413086a93f89\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a0db4171690dceb1a6331f81cf11f79c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a0db4171690dceb1a6331f81cf11f79c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16a00f999136a74851c6a7b46d6ebf3b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16a00f999136a74851c6a7b46d6ebf3b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.stripe:stripe-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b1bcc420064af0f7c997cd604f8a54b0\transformed\stripe-core-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [com.stripe:stripe-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b1bcc420064af0f7c997cd604f8a54b0\transformed\stripe-core-20.34.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\9844d61fc42f8e74a2a3979c30077019\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\9844d61fc42f8e74a2a3979c30077019\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a48619e721b4548c5af01ba985516dac\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a48619e721b4548c5af01ba985516dac\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\04e05a9109312470328c50f9e113630e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\04e05a9109312470328c50f9e113630e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4d082ff8ee0b8b528ef7ece1fbfd584b\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4d082ff8ee0b8b528ef7ece1fbfd584b\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8fe4579a8c0532d0f836710d7b6591aa\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8fe4579a8c0532d0f836710d7b6591aa\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f1ec33dc752498245c5592eb3fe2c21a\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f1ec33dc752498245c5592eb3fe2c21a\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e6ea81b027c8cc7879d59d61516a5e2\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e6ea81b027c8cc7879d59d61516a5e2\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ef5a912c8d820d29dfe95abfffd844a8\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ef5a912c8d820d29dfe95abfffd844a8\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f4eeab0572090c574878cd450e130624\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f4eeab0572090c574878cd450e130624\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\1d081e9dbedb9294bb419baf59906a55\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\1d081e9dbedb9294bb419baf59906a55\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a4435aa00eab1c8dfa0f285428ba486e\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
-MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a4435aa00eab1c8dfa0f285428ba486e\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
-MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ad485dd0eaade883c640d1511492ebf0\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
-MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ad485dd0eaade883c640d1511492ebf0\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b673766edf34a549847cccb073bed8eb\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
 MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b673766edf34a549847cccb073bed8eb\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\55473159c2c79513ce94cbebfff51e37\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
@@ -408,30 +609,20 @@ MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users
 MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\81f15d60629713f7cfcf4ba27c15f549\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16875ecfa279be9d35b92e3a3fd6f7e4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16875ecfa279be9d35b92e3a3fd6f7e4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\783eac8e7949ab9055ecde692cfce034\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\783eac8e7949ab9055ecde692cfce034\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d82cac05cd51a04d47a29405d4dba694\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d82cac05cd51a04d47a29405d4dba694\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\05618e1b575936c00861a4d18dd781dc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\05618e1b575936c00861a4d18dd781dc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\975f6637a0ed7018f0068ee47e1ebafb\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\975f6637a0ed7018f0068ee47e1ebafb\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\974565df2d909e2cb784413086a93f89\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\974565df2d909e2cb784413086a93f89\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a0db4171690dceb1a6331f81cf11f79c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a0db4171690dceb1a6331f81cf11f79c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a48619e721b4548c5af01ba985516dac\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a48619e721b4548c5af01ba985516dac\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\04e05a9109312470328c50f9e113630e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\04e05a9109312470328c50f9e113630e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.browser:browser:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d1be4a3ad9578f750a24941a5d3e552e\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.browser:browser:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\d1be4a3ad9578f750a24941a5d3e552e\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e6ea81b027c8cc7879d59d61516a5e2\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e6ea81b027c8cc7879d59d61516a5e2\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\90751977cdb7602b90c7cc072d55adbc\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\90751977cdb7602b90c7cc072d55adbc\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\475fb4c6f83b37c5387428c13b925041\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\475fb4c6f83b37c5387428c13b925041\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.5.5] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\23de69e857122ab0ee1c1202633271da\transformed\fragment-1.5.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\23de69e857122ab0ee1c1202633271da\transformed\fragment-1.5.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c20a878d80cb69d2cbaa03f75a9c558c\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c20a878d80cb69d2cbaa03f75a9c558c\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7829c3f0be3d9eb13fc458122a787e86\transformed\activity-compose-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7829c3f0be3d9eb13fc458122a787e86\transformed\activity-compose-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\1759b19ec936c249cb3b364289e89d7a\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\1759b19ec936c249cb3b364289e89d7a\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-viewbinding:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c1640f65e4500a702af4969945c00c90\transformed\ui-viewbinding-1.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-viewbinding:1.5.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\c1640f65e4500a702af4969945c00c90\transformed\ui-viewbinding-1.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\611d2e01d2d3bb313d327b2de109e6cf\transformed\viewbinding-8.1.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\611d2e01d2d3bb313d327b2de109e6cf\transformed\viewbinding-8.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\02a1e4592330769b33bcfd9b2830c1e2\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\02a1e4592330769b33bcfd9b2830c1e2\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
 MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6282f4a75c4f769c446d55454c66fbb0\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6282f4a75c4f769c446d55454c66fbb0\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4f84667f03161afffc575235a23af688\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
@@ -452,6 +643,8 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tri agus hadi 
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7e52061e84598a601a8d6f6fc3471523\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0eafba3fa597fc4b8a81998776a8ccc4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0eafba3fa597fc4b8a81998776a8ccc4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.security:security-crypto:1.1.0-alpha05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5a109132059162214abbbb3336bf778e\transformed\security-crypto-1.1.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5a109132059162214abbbb3336bf778e\transformed\security-crypto-1.1.0-alpha05\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5987286a855f14293fb13be22e47bf72\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5987286a855f14293fb13be22e47bf72\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\dc341da09e5ceefdd33070911379145e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
@@ -466,12 +659,254 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches
 MERGED from [androidx.print:print:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\805967b564beead62ce690ef5536ff13\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\9988f92fa1a719fe6d385e5e8ffe8439\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\9988f92fa1a719fe6d385e5e8ffe8439\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ff691d20cc4ba7eb1080818bddc4efc\transformed\instantapps-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ff691d20cc4ba7eb1080818bddc4efc\transformed\instantapps-1.1.0\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:23:9-61
 	android:targetSdkVersion
 		INJECTED from E:\Project\Pribadi\ORKESTRAPayCarsPlatformMobile\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from E:\Project\Pribadi\ORKESTRAPayCarsPlatformMobile\app\src\main\AndroidManifest.xml
+activity#com.stripe.android.paymentsheet.PaymentSheetActivity
+ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:8:9-12:58
+	android:windowSoftInputMode
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:12:13-55
+	android:exported
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:11:13-66
+	android:name
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:9:13-80
+activity#com.stripe.android.paymentsheet.PaymentOptionsActivity
+ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:13:9-17:58
+	android:windowSoftInputMode
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:17:13-55
+	android:exported
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:15:13-37
+	android:theme
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:14:13-82
+activity#com.stripe.android.customersheet.CustomerSheetActivity
+ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:18:9-22:58
+	android:windowSoftInputMode
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:22:13-55
+	android:exported
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:20:13-37
+	android:theme
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:19:13-82
+activity#com.stripe.android.paymentsheet.addresselement.AddressElementActivity
+ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:23:9-26:69
+	android:exported
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:26:13-66
+	android:name
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:24:13-97
+activity#com.stripe.android.paymentsheet.paymentdatacollection.bacs.BacsMandateConfirmationActivity
+ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:27:9-30:69
+	android:exported
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:29:13-37
+	android:theme
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:30:13-66
+	android:name
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:28:13-118
+activity#com.stripe.android.paymentsheet.paymentdatacollection.polling.PollingActivity
+ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:31:9-34:69
+	android:exported
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:33:13-37
+	android:theme
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:34:13-66
+	android:name
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:32:13-105
+activity#com.stripe.android.paymentsheet.ui.SepaMandateActivity
+ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:35:9-38:69
+	android:exported
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:37:13-37
+	android:theme
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:38:13-66
+	android:name
+		ADDED from [com.stripe:paymentsheet:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\b3d7dbec215e1345c364cac016c72265\transformed\paymentsheet-20.34.4\AndroidManifest.xml:36:13-82
+activity#com.stripe.android.link.LinkForegroundActivity
+ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:8:9-13:61
+	android:launchMode
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:12:13-43
+	android:autoRemoveFromRecents
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:10:13-49
+	android:configChanges
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:11:13-115
+	android:theme
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:13:13-58
+	android:name
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:9:13-74
+activity#com.stripe.android.link.LinkRedirectHandlerActivity
+ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:14:9-31:20
+	android:launchMode
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:18:13-48
+	android:autoRemoveFromRecents
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:16:13-49
+	android:exported
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:19:13-58
+	android:name
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:15:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:complete+data:path:/${applicationId}+data:scheme:link-popup
+ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:20:13-30:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:complete+data:path:/com.orkestra.paycars+data:scheme:link-popup
+ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:20:13-30:29
+action#android.intent.action.VIEW
+ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:21:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:23:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:24:17-78
+	android:name
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:24:27-75
+data
+ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:26:17-29:51
+	android:path
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:28:21-53
+	android:host
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:27:21-44
+	android:scheme
+		ADDED from [com.stripe:link:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\6bb7ab369b185ae84f6540b44384600f\transformed\link-20.34.4\AndroidManifest.xml:29:21-48
+activity#com.stripe.android.ui.core.cardscan.CardScanActivity
+ADDED from [com.stripe:payments-ui-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7e41a7d0e75af36e29bb7748713b372a\transformed\payments-ui-core-20.34.4\AndroidManifest.xml:8:9-11:69
+	android:exported
+		ADDED from [com.stripe:payments-ui-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7e41a7d0e75af36e29bb7748713b372a\transformed\payments-ui-core-20.34.4\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [com.stripe:payments-ui-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7e41a7d0e75af36e29bb7748713b372a\transformed\payments-ui-core-20.34.4\AndroidManifest.xml:11:13-66
+	android:name
+		ADDED from [com.stripe:payments-ui-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7e41a7d0e75af36e29bb7748713b372a\transformed\payments-ui-core-20.34.4\AndroidManifest.xml:9:13-80
+queries
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:8:5-12:15
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+package#com.android.chrome
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:11:9-54
+	android:name
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:11:18-51
+activity#com.stripe.android.view.AddPaymentMethodActivity
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:15:9-18:57
+	android:exported
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:17:13-37
+	android:theme
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:18:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:16:13-76
+activity#com.stripe.android.view.PaymentMethodsActivity
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:19:9-22:57
+	android:exported
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:21:13-37
+	android:theme
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:22:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:20:13-74
+activity#com.stripe.android.view.PaymentFlowActivity
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:23:9-26:57
+	android:exported
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:26:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:24:13-71
+activity#com.stripe.android.view.PaymentAuthWebViewActivity
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:27:9-31:58
+	android:windowSoftInputMode
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:31:13-55
+	android:exported
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:29:13-37
+	android:theme
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:30:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:28:13-78
+activity#com.stripe.android.view.PaymentRelayActivity
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:32:9-35:61
+	android:exported
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:34:13-37
+	android:theme
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:35:13-58
+	android:name
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:33:13-72
+activity#com.stripe.android.payments.StripeBrowserLauncherActivity
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:41:9-45:61
+	android:launchMode
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:44:13-44
+	android:exported
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:43:13-37
+	android:theme
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:45:13-58
+	android:name
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:42:13-85
+activity#com.stripe.android.payments.StripeBrowserProxyReturnActivity
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:46:9-63:20
+	android:launchMode
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:50:13-58
+	android:name
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:47:13-88
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:payment_return_url+data:path:/${applicationId}+data:scheme:stripesdk
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:51:13-62:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:payment_return_url+data:path:/com.orkestra.paycars+data:scheme:stripesdk
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:51:13-62:29
+activity#com.stripe.android.payments.core.authentication.threeds2.Stripe3ds2TransactionActivity
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:64:9-67:57
+	android:exported
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:66:13-37
+	android:theme
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:67:13-54
+	android:name
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:65:13-114
+activity#com.stripe.android.googlepaylauncher.GooglePayLauncherActivity
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:68:9-71:66
+	android:exported
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:70:13-37
+	android:theme
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:71:13-63
+	android:name
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:69:13-90
+activity#com.stripe.android.googlepaylauncher.GooglePayPaymentMethodLauncherActivity
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:72:9-75:66
+	android:exported
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:74:13-37
+	android:theme
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:75:13-63
+	android:name
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:73:13-103
+activity#com.stripe.android.payments.paymentlauncher.PaymentLauncherConfirmationActivity
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:76:9-79:68
+	android:exported
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:78:13-37
+	android:theme
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:79:13-65
+	android:name
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:77:13-107
+activity#com.stripe.android.payments.bankaccount.ui.CollectBankAccountActivity
+ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:80:9-83:61
+	android:exported
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:82:13-37
+	android:theme
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:83:13-58
+	android:name
+		ADDED from [com.stripe:payments-core:20.34.4] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\4a7b72da8f979330b515d1c5861aa02a\transformed\payments-core-20.34.4\AndroidManifest.xml:81:13-97
+activity#com.stripe.android.stripe3ds2.views.ChallengeActivity
+ADDED from [com.stripe:stripe-3ds2-android:6.1.7] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\be751946fcb6c22429f4ff46a9465b33\transformed\stripe-3ds2-android-6.1.7\AndroidManifest.xml:8:9-11:54
+	android:exported
+		ADDED from [com.stripe:stripe-3ds2-android:6.1.7] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\be751946fcb6c22429f4ff46a9465b33\transformed\stripe-3ds2-android-6.1.7\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [com.stripe:stripe-3ds2-android:6.1.7] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\be751946fcb6c22429f4ff46a9465b33\transformed\stripe-3ds2-android-6.1.7\AndroidManifest.xml:11:13-51
+	android:name
+		ADDED from [com.stripe:stripe-3ds2-android:6.1.7] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\be751946fcb6c22429f4ff46a9465b33\transformed\stripe-3ds2-android-6.1.7\AndroidManifest.xml:9:13-81
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f9620b616c26eed9fd683ae5a1de2197\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
@@ -534,26 +969,6 @@ ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.
 		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:30:13-80
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
 ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:35:13-45:29
-action#android.intent.action.VIEW
-ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:36:17-69
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:36:25-66
-category#android.intent.category.DEFAULT
-ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:38:17-76
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:38:27-73
-category#android.intent.category.BROWSABLE
-ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:39:17-78
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:39:27-75
-data
-ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:41:17-44:51
-	android:path
-		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:43:21-37
-	android:host
-		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:42:21-49
-	android:scheme
-		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:44:21-48
 activity#com.google.firebase.auth.internal.RecaptchaActivity
 ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:47:9-64:20
 	android:excludeFromRecents
@@ -574,6 +989,22 @@ ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.
 		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:71:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\a255ffcb0cadffe8cec87db3b04b4275\transformed\firebase-auth-22.3.0\AndroidManifest.xml:70:17-109
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\93ebec446551f589961c787b5c4ad545\transformed\play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\78dbb9d6464c5385d8e6b97277b56c51\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
 	android:exported
@@ -678,28 +1109,6 @@ ADDED from [androidx.room:room-runtime:2.6.0] C:\Users\Tri agus hadi p\.gradle\c
 		ADDED from [androidx.room:room-runtime:2.6.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f57284dc1149ac85b21d584ef37a2ed9\transformed\room-runtime-2.6.0\AndroidManifest.xml:26:13-43
 	android:name
 		ADDED from [androidx.room:room-runtime:2.6.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f57284dc1149ac85b21d584ef37a2ed9\transformed\room-runtime-2.6.0\AndroidManifest.xml:25:13-74
-provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0af9b639c040a2a54bb31caecb834af3\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f5f53ca6a6b064914a3f615743bb8f85\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f5f53ca6a6b064914a3f615743bb8f85\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\da119182b2c12ec0bc4c5da5577c71e2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\da119182b2c12ec0bc4c5da5577c71e2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ae9baa4c9ce3762547fbe50f45ecd20\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ae9baa4c9ce3762547fbe50f45ecd20\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0af9b639c040a2a54bb31caecb834af3\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
-	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0af9b639c040a2a54bb31caecb834af3\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0af9b639c040a2a54bb31caecb834af3\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0af9b639c040a2a54bb31caecb834af3\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0af9b639c040a2a54bb31caecb834af3\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0af9b639c040a2a54bb31caecb834af3\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0af9b639c040a2a54bb31caecb834af3\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\79985618a9d245d4f3cf2a71823eb3f3\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:26:5-110
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\7d39665d3bb7dc83a0309bbeb5bdeb00\transformed\play-services-measurement-impl-21.5.0\AndroidManifest.xml:26:5-110
@@ -732,6 +1141,28 @@ ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Tr
 		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\79985618a9d245d4f3cf2a71823eb3f3\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:43:13-69
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\79985618a9d245d4f3cf2a71823eb3f3\transformed\play-services-measurement-21.5.0\AndroidManifest.xml:40:13-87
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0a767c83f4989fa6f0df59d60daec961\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f5f53ca6a6b064914a3f615743bb8f85\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f5f53ca6a6b064914a3f615743bb8f85\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\da119182b2c12ec0bc4c5da5577c71e2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\da119182b2c12ec0bc4c5da5577c71e2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ae9baa4c9ce3762547fbe50f45ecd20\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ae9baa4c9ce3762547fbe50f45ecd20\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0a767c83f4989fa6f0df59d60daec961\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0a767c83f4989fa6f0df59d60daec961\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0a767c83f4989fa6f0df59d60daec961\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0a767c83f4989fa6f0df59d60daec961\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0a767c83f4989fa6f0df59d60daec961\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0a767c83f4989fa6f0df59d60daec961\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0a767c83f4989fa6f0df59d60daec961\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\f5f53ca6a6b064914a3f615743bb8f85\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
 	android:value
@@ -744,12 +1175,18 @@ ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Tr
 		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ad485dd0eaade883c640d1511492ebf0\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
 	android:name
 		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\ad485dd0eaade883c640d1511492ebf0\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16875ecfa279be9d35b92e3a3fd6f7e4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16875ecfa279be9d35b92e3a3fd6f7e4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8fe4579a8c0532d0f836710d7b6591aa\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8fe4579a8c0532d0f836710d7b6591aa\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16875ecfa279be9d35b92e3a3fd6f7e4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8fe4579a8c0532d0f836710d7b6591aa\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8fe4579a8c0532d0f836710d7b6591aa\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8fe4579a8c0532d0f836710d7b6591aa\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\8fe4579a8c0532d0f836710d7b6591aa\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e6ea81b027c8cc7879d59d61516a5e2\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
@@ -770,6 +1207,12 @@ uses-permission#com.orkestra.paycars.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e6ea81b027c8cc7879d59d61516a5e2\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.12.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\5e6ea81b027c8cc7879d59d61516a5e2\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16875ecfa279be9d35b92e3a3fd6f7e4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16875ecfa279be9d35b92e3a3fd6f7e4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\16875ecfa279be9d35b92e3a3fd6f7e4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
 ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\da119182b2c12ec0bc4c5da5577c71e2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
 	android:value
@@ -812,3 +1255,9 @@ action#androidx.profileinstaller.action.BENCHMARK_OPERATION
 ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\da119182b2c12ec0bc4c5da5577c71e2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
 	android:name
 		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\da119182b2c12ec0bc4c5da5577c71e2\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+meta-data#aia-compat-api-min-version
+ADDED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ff691d20cc4ba7eb1080818bddc4efc\transformed\instantapps-1.1.0\AndroidManifest.xml:10:9-12:33
+	android:value
+		ADDED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ff691d20cc4ba7eb1080818bddc4efc\transformed\instantapps-1.1.0\AndroidManifest.xml:12:13-30
+	android:name
+		ADDED from [com.google.android.instantapps:instantapps:1.1.0] C:\Users\Tri agus hadi p\.gradle\caches\transforms-3\0ff691d20cc4ba7eb1080818bddc4efc\transformed\instantapps-1.1.0\AndroidManifest.xml:11:13-54

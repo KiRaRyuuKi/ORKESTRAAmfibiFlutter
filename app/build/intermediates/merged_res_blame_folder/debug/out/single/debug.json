@@ -1,394 +1,394 @@
 [
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\font_poppins_thin.ttf.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\font\\poppins_thin.ttf"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_item_data_transaction.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\item_data_transaction.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_menu.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_menu.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_button_gradient_color.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\button_gradient_color.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\raw_orange_car.json.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\raw\\orange_car.json"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\raw_orange_car.json.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\raw\\orange_car.json"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_button_item_selector.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\button_item_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\xml_activity_main_start_scene.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\xml\\activity_main_start_scene.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\raw_loading.json.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\raw\\loading.json"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_log_out.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_log_out.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\font_poppins_semi_bold.ttf.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\font\\poppins_semi_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-ldpi_logo_add.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-ldpi\\logo_add.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-mdpi_logo_app.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-mdpi\\logo_app.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_drawable_user.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_drawable_user.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\profile.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-xxhdpi_logo_add.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-xxhdpi\\logo_add.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\font_poppins_thin.ttf.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\font\\poppins_thin.ttf"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\layout_custom_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-xxhdpi_logo_app.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-xxhdpi\\logo_app.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_activity_main_home.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\activity_main_home.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_map_pin.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_map_pin.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_item_data_message.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\item_data_message.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_activity_main_message.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\activity_main_message.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-anydpi-v24_logo_add.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-anydpi-v24\\logo_add.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_bell.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_bell.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_drawable_lock.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_drawable_lock.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_account.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_account.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-ldpi_logo_app.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-ldpi\\logo_app.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-hdpi_logo_add.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-hdpi\\logo_add.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_button_gradient_color.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\button_gradient_color.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-xhdpi_logo_add.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-xhdpi\\logo_add.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_customer_automobile_saloon.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\customer_automobile_saloon.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_edit.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_edit.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\font\\poppins_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_profile.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\profile.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_activity_main_sign_in.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\activity_main_sign_in.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-hdpi_logo_app.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-hdpi\\logo_app.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-xxxhdpi_logo_app.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-xxxhdpi\\logo_app.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\font_poppins_italic.ttf.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\font\\poppins_italic.ttf"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_activity_main_welcome.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\activity_main_welcome.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_activity_main_content.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\activity_main_content.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_activity_main_content.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\activity_main_content.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_search.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_search.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_activity_main_message.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\activity_main_message.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\menu_button_items_menu.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\menu\\button_items_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_background_screen.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\background_screen.png"
+        "merged": "com.orkestra.paycars.app-merged_res-104:/layout_layout_custom_dialog.xml.flat",
+        "source": "com.orkestra.paycars.app-main-106:/layout/layout_custom_dialog.xml"
     },
     {
-        "merged": "com.orkestra.paycars.app-merged_res-54:/layout_fragment_search.xml.flat",
-        "source": "com.orkestra.paycars.app-main-56:/layout/fragment_search.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_close.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_close.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_more_vertical.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_more_vertical.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-hdpi_logo_add.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-hdpi\\logo_add.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\raw_city_cars.json.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\raw\\city_cars.json"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\raw_screen.json.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\raw\\screen.json"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-xxxhdpi_logo_add.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-xxxhdpi\\logo_add.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\font\\poppins_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_button_white_color.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\button_white_color.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-anydpi-v24_logo_add.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-anydpi-v24\\logo_add.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_info.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_info.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_content_first.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\content_first.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_activity_main_sign_up.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\activity_main_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_message.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_message.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-xhdpi_logo_app.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-xhdpi\\logo_app.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_copy.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_copy.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_arrow_left.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_arrow_left.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\fragment_account.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_close.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_close.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\font_poppins_italic.ttf.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\font\\poppins_italic.ttf"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_background_screen.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\background_screen.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-xhdpi_logo_app.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-xhdpi\\logo_app.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_activity_main_home.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\activity_main_home.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_fragment_account.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\fragment_account.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\font_poppins_extra_bold.ttf.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\font\\poppins_extra_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_drawable_mail.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_drawable_mail.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_more_vertical.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_more_vertical.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_activity_main_sign_in.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\activity_main_sign_in.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_data_content.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\data_content.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_item_data_content.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\item_data_content.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_home.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_home.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_content_third.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\content_third.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_customer_automobile_saloon.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\customer_automobile_saloon.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_fragment_transaction.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\fragment_transaction.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_button_black_color.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\button_black_color.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\font_poppins_regular.ttf.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\font\\poppins_regular.ttf"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_activity_main_welcome.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\activity_main_welcome.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_transaction.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_transaction.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_lock.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_lock.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-ldpi_logo_app.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-ldpi\\logo_app.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_activity_main_start.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\activity_main_start.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\raw_screen.json.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\raw\\screen.json"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_copy.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_copy.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_fragment_search.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\fragment_search.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_item_data_content.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\item_data_content.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_item_data_message.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\item_data_message.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-anydpi-v24_logo_app.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-anydpi-v24\\logo_app.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\raw_loading.json.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\raw\\loading.json"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-mdpi_logo_app.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-mdpi\\logo_app.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-xxhdpi_logo_add.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-xxhdpi\\logo_add.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\menu_button_items_menu.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\menu\\button_items_menu.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-mdpi_logo_add.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-mdpi\\logo_add.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_activity_main_sign_up.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\activity_main_sign_up.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-xxhdpi_logo_app.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-xxhdpi\\logo_app.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_google.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\google.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\font_poppins_extra_bold.ttf.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\font\\poppins_extra_bold.ttf"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_transaction.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_transaction.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_drawable_mail.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_drawable_mail.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\xml_activity_main_start_scene.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\xml\\activity_main_start_scene.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\font_poppins_semi_bold.ttf.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\font\\poppins_semi_bold.ttf"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_menu.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_google.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\google.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_background_welcome.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\background_welcome.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_account.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_account.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-ldpi_logo_add.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-ldpi\\logo_add.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_edit.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_edit.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_bell.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_bell.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-anydpi-v24_logo_app.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-anydpi-v24\\logo_app.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_search.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_search.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_arrow_right.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_arrow_right.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_content_second.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\content_second.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_arrow_left.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_arrow_left.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_map_pin.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_map_pin.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-xhdpi_logo_add.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-xhdpi\\logo_add.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\raw_search.json.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\raw\\search.json"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-xxxhdpi_logo_add.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-xxxhdpi\\logo_add.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\font_poppins_bold.ttf.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\font\\poppins_bold.ttf"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_log_out.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_log_out.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_chevron_right.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_chevron_right.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_message.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_message.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_drawable_key.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_drawable_key.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-xxxhdpi_logo_app.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-xxxhdpi\\logo_app.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_copyright_line.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\copyright_line.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_fragment_showroom.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\fragment_showroom.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_drawable_code.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_drawable_code.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_button_black_color.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\button_black_color.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_data_content.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\data_content.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_home.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_home.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\raw_city_cars.json.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\raw\\city_cars.json"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_globe.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_globe.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_globe.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_globe.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_background_welcome.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\background_welcome.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_fragment_transaction.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\fragment_transaction.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_item_data_transaction.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\item_data_transaction.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_custom_stroke_color.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\custom_stroke_color.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_arrow_right.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_arrow_right.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_button_item_selector.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\button_item_selector.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_drawable_user.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_drawable_user.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_drawable_key.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_drawable_key.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_content_third.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\content_third.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_content_second.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\content_second.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_copyright_line.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\copyright_line.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_custom_stroke_color.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\custom_stroke_color.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\layout\\fragment_search.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_lock.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_lock.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\raw_search.json.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\raw\\search.json"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\layout_activity_main_start.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\layout\\activity_main_start.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_button_white_color.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\button_white_color.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable-hdpi_logo_app.png.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-99:\\drawable-hdpi\\logo_app.png"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_baseline_drawable_code.xml.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\baseline_drawable_code.xml"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_info.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_info.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable_content_first.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-56:\\drawable\\content_first.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_drawable_lock.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_drawable_lock.xml"
     },
     {
-        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-54:\\drawable-mdpi_logo_add.png.flat",
-        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-pngs-49:\\drawable-mdpi\\logo_add.png"
+        "merged": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-merged_res-104:\\drawable_baseline_chevron_right.xml.flat",
+        "source": "C:\\Users\\Tri agus hadi p\\.gradle\\daemon\\8.0\\com.orkestra.paycars.app-main-106:\\drawable\\baseline_chevron_right.xml"
     }
 ]

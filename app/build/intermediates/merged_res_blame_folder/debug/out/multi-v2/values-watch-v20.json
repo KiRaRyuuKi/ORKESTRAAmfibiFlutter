@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.orkestra.paycars.app-mergeDebugResources-52:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.orkestra.paycars.app-mergeDebugResources-102:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Tri agus hadi p\\.gradle\\caches\\transforms-3\\f9620b616c26eed9fd683ae5a1de2197\\transformed\\play-services-auth-20.7.0\\res\\values-watch-v20\\values.xml",

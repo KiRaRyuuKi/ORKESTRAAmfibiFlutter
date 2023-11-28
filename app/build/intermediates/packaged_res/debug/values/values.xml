@@ -5,6 +5,8 @@
     <color name="accentsStroke">#CECECE</color>
     <color name="accentsThrid">#F5F5F5</color>
     <color name="black">#FF000000</color>
+    <color name="green">#008000</color>
+    <color name="orange">#FFA500</color>
     <color name="primaryFirst">#FF3518</color>
     <color name="primarySecond">#FF5E18</color>
     <color name="white">#FFFFFFFF</color>
@@ -68,6 +70,10 @@
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:windowTranslucentStatus">true</item>
         <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="buttonLogout" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">@color/primaryFirst</item>
+        <item name="colorButtonNormal">@color/black</item>
     </style>
     <style name="circular">
         <item name="cornerSize">50%</item>
