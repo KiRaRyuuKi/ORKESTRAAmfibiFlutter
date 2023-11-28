@@ -16,7 +16,7 @@ import com.orkestra.paycars.R
 import com.orkestra.paycars.controllers.adapter.AdapterDataContent
 import com.orkestra.paycars.services.ApiClientService
 import com.orkestra.paycars.controllers.model.ModelDataContent
-import com.orkestra.paycars.controllers.view.ViewDataListContent
+import com.orkestra.paycars.controllers.view.ViewDataContent
 import com.orkestra.paycars.models.ui.MainContentActivity
 import retrofit2.Call
 import retrofit2.Callback
@@ -29,7 +29,7 @@ class SearchFragment : Fragment() {
     private lateinit var swipeRefreshLayout: SwipeRefreshLayout
     private lateinit var recyclerView: RecyclerView
     private lateinit var searchView: SearchView
-    private lateinit var call: Call<ViewDataListContent>
+    private lateinit var call: Call<ViewDataContent>
     private lateinit var adapterDataProduct: AdapterDataContent
 
     private var param1: String? = null
@@ -64,7 +64,6 @@ class SearchFragment : Fragment() {
 
         return view
     }
-
 
     companion object {
         @JvmStatic
@@ -104,19 +103,19 @@ class SearchFragment : Fragment() {
     private fun getDataProduct() {
         swipeRefreshLayout.isRefreshing = true
 
-        val productService = ApiClientService.apiContentService
+        val productService = ApiClientService.apiDataService
         call = productService.getAllProduct()
 
-        call.enqueue(object : Callback<ViewDataListContent> {
+        call.enqueue(object : Callback<ViewDataContent> {
             @SuppressLint("NotifyDataSetChanged")
-            override fun onResponse(call: Call<ViewDataListContent>, response: Response<ViewDataListContent>) {
+            override fun onResponse(call: Call<ViewDataContent>, response: Response<ViewDataContent>) {
                 swipeRefreshLayout.isRefreshing = false
                 if (response.isSuccessful) {
                     adapterDataProduct.setData(response.body()?.products ?: emptyList())
                 }
             }
 
-            override fun onFailure(call: Call<ViewDataListContent>, t: Throwable) {
+            override fun onFailure(call: Call<ViewDataContent>, t: Throwable) {
                 swipeRefreshLayout.isRefreshing = false
                 Toast.makeText(context, t.localizedMessage, Toast.LENGTH_SHORT).show()
             }

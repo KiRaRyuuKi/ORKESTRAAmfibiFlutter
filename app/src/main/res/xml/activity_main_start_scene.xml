@@ -1,67 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<MotionScene
+<MotionScene 
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:motion="http://schemas.android.com/apk/res-auto">
 
     <Transition
-        motion:autoTransition="animateToEnd"
         motion:constraintSetEnd="@+id/end"
-        motion:constraintSetStart="@+id/start"
-        motion:duration="1000">
-        <KeyFrameSet/>
+        motion:constraintSetStart="@id/start"
+        motion:duration="1000"
+        motion:autoTransition="animateToEnd">
+       <KeyFrameSet>
+       </KeyFrameSet>
     </Transition>
 
-    <ConstraintSet
-        android:id="@+id/start">
+    <ConstraintSet android:id="@+id/start">
         <Constraint
             android:id="@+id/logoAppScreen"
+            motion:layout_constraintEnd_toEndOf="@+id/lottieAnimationScreen"
             android:layout_width="125dp"
             android:layout_height="75dp"
-            android:alpha="0"
+            motion:layout_constraintBottom_toBottomOf="@+id/lottieAnimationScreen"
+            motion:layout_constraintTop_toTopOf="@+id/lottieAnimationScreen"
+            motion:layout_constraintStart_toStartOf="@+id/lottieAnimationScreen"
             android:scaleX="0"
             android:scaleY="0"
-            motion:layout_constraintBottom_toBottomOf="@+id/lottieAnimationScreen"
-            motion:layout_constraintEnd_toEndOf="@+id/lottieAnimationScreen"
-            motion:layout_constraintStart_toStartOf="@+id/lottieAnimationScreen"
-            motion:layout_constraintTop_toTopOf="@+id/lottieAnimationScreen"/>
-
+            android:alpha="1" />
         <Constraint
-            android:id="@+id/copyrightScreen"
+            motion:layout_constraintEnd_toEndOf="parent"
             android:layout_width="wrap_content"
             android:layout_height="15dp"
-            android:layout_marginBottom="15dp"
-            android:alpha="0"
             motion:layout_constraintBottom_toBottomOf="@+id/backgroundStartScreen"
-            motion:layout_constraintEnd_toEndOf="parent"
-            motion:layout_constraintStart_toStartOf="parent"/>
-
+            android:layout_marginBottom="25dp"
+            motion:layout_constraintStart_toStartOf="parent"
+            android:id="@+id/copyrightScreen"
+            android:alpha="1" />
     </ConstraintSet>
 
     <ConstraintSet android:id="@+id/end">
         <Constraint
             android:id="@+id/logoAppScreen"
+            motion:layout_constraintEnd_toEndOf="@+id/lottieAnimationScreen"
             android:layout_width="125dp"
             android:layout_height="75dp"
-            android:alpha="1"
+            motion:layout_constraintBottom_toBottomOf="@+id/lottieAnimationScreen"
+            motion:layout_constraintTop_toTopOf="@+id/lottieAnimationScreen"
+            motion:layout_constraintStart_toStartOf="@+id/lottieAnimationScreen"
             android:scaleX="1"
             android:scaleY="1"
-            motion:layout_constraintBottom_toBottomOf="@+id/lottieAnimationScreen"
-            motion:layout_constraintEnd_toEndOf="@+id/lottieAnimationScreen"
-            motion:layout_constraintStart_toStartOf="@+id/lottieAnimationScreen"
-            motion:layout_constraintTop_toTopOf="@+id/lottieAnimationScreen"
-            motion:transitionEasing="cubic(0.5,0,1,0.30)"/>
-
+            motion:transitionEasing="cubic(0.5,0,1,0.5)"
+            android:alpha="1"
+            android:visibility="visible" />
         <Constraint
             android:id="@+id/copyrightScreen"
+            motion:layout_constraintEnd_toEndOf="parent"
             android:layout_width="wrap_content"
             android:layout_height="15dp"
-            android:layout_marginBottom="50dp"
-            android:alpha="1"
             motion:layout_constraintBottom_toBottomOf="@+id/backgroundStartScreen"
-            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="50dp"
             motion:layout_constraintStart_toStartOf="parent"
-            motion:transitionEasing="cubic(0.5,0,1,0.30)"/>
-
+            android:alpha="1"
+            motion:transitionEasing="cubic(0.5,0,1,0.5)"
+            android:visibility="visible" />
     </ConstraintSet>
-
 </MotionScene>

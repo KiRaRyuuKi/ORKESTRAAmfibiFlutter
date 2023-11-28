@@ -3,7 +3,6 @@ package com.orkestra.paycars.models.ui
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
-import androidx.recyclerview.widget.RecyclerView
 import com.orkestra.paycars.R
 import com.orkestra.paycars.databinding.ActivityMainHomeBinding
 import com.orkestra.paycars.models.fragment.AccountFragment
@@ -11,9 +10,8 @@ import com.orkestra.paycars.models.fragment.HomeFragment
 import com.orkestra.paycars.models.fragment.SearchFragment
 import com.orkestra.paycars.models.fragment.TransactionFragment
 
+@Suppress("DEPRECATED_IDENTITY_EQUALS")
 class MainHomeActivity : AppCompatActivity() {
-    private val ListAdapter : RecyclerView.Adapter<*>? = null
-    private val RecyclerViewAdapter : RecyclerView? = null
     private lateinit var binding : ActivityMainHomeBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -22,6 +20,8 @@ class MainHomeActivity : AppCompatActivity() {
 
         binding = ActivityMainHomeBinding.inflate(layoutInflater)
         setContentView(binding.getRoot())
+        replaceFragment(HomeFragment())
+
         binding.bottomNavigationView.setOnItemSelectedListener { item ->
             if (item.getItemId() === R.id.homeItem) {
                 replaceFragment(HomeFragment())

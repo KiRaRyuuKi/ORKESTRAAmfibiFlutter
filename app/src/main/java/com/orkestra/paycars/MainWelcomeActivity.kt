@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
 import com.orkestra.paycars.models.MainSignInActivity
-import com.orkestra.paycars.models.ui.MainContentActivity
 
 class MainWelcomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

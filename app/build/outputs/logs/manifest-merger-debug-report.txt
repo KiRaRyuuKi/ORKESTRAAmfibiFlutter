@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:2:1-44:12
+ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:2:1-47:12
 MERGED from [androidx.databinding:databinding-adapters:8.1.2] /home/kira/.gradle/caches/transforms-3/46dd170bdf72051850e3b30f5c5d491c/transformed/databinding-adapters-8.1.2/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-ktx:8.1.2] /home/kira/.gradle/caches/transforms-3/e0e07cc22199bd397a32f96d4b82b094/transformed/databinding-ktx-8.1.2/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-runtime:8.1.2] /home/kira/.gradle/caches/transforms-3/772884b10ebe4abde88b5d4e5b4fe31e/transformed/databinding-runtime-8.1.2/AndroidManifest.xml:2:1-7:12
@@ -158,7 +158,7 @@ MERGED from [com.google.android.instantapps:instantapps:1.1.0] /home/kira/.gradl
 	xmlns:android
 		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:5:5-66
+ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:5:5-67
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:25:5-67
 MERGED from [com.google.android.gms:play-services-maps:18.0.2] /home/kira/.gradle/caches/transforms-3/93ebec446551f589961c787b5c4ad545/transformed/play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
@@ -178,7 +178,7 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /h
 	android:name
 		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:6:5-78
+ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:6:5-79
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:26:5-79
 MERGED from [com.google.firebase:firebase-auth:22.3.0] /home/kira/.gradle/caches/transforms-3/a255ffcb0cadffe8cec87db3b04b4275/transformed/firebase-auth-22.3.0/AndroidManifest.xml:26:5-79
 MERGED from [com.google.android.gms:play-services-maps:18.0.2] /home/kira/.gradle/caches/transforms-3/93ebec446551f589961c787b5c4ad545/transformed/play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
@@ -200,8 +200,8 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /h
 	android:name
 		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:8:5-42:19
-INJECTED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:8:5-42:19
+ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:8:5-45:19
+INJECTED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:8:5-45:19
 MERGED from [com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:7:5-39:19
 MERGED from [com.stripe:paymentsheet:20.34.4] /home/kira/.gradle/caches/transforms-3/b3d7dbec215e1345c364cac016c72265/transformed/paymentsheet-20.34.4/AndroidManifest.xml:7:5-39:19
 MERGED from [com.stripe:link:20.34.4] /home/kira/.gradle/caches/transforms-3/6bb7ab369b185ae84f6540b44384600f/transformed/link-20.34.4/AndroidManifest.xml:7:5-32:19
@@ -308,52 +308,58 @@ MERGED from [com.google.android.instantapps:instantapps:1.1.0] /home/kira/.gradl
 		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:16:9-79
 	android:dataExtractionRules
 		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:10:9-65
-activity#com.orkestra.paycars.models.ui.MainContentActivity
+activity#com.orkestra.paycars.uji.MainActivity
 ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:18:9-20:40
 	android:exported
 		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:19:13-58
-activity#com.orkestra.paycars.MainWelcomeActivity
+		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:19:13-45
+activity#com.orkestra.paycars.models.ui.MainContentActivity
 ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:21:9-23:40
 	android:exported
 		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:22:13-48
-activity#com.orkestra.paycars.models.MainSignUpActivity
+		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:22:13-58
+activity#com.orkestra.paycars.MainWelcomeActivity
 ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:24:9-26:40
 	android:exported
 		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:25:13-54
-activity#com.orkestra.paycars.models.MainSignInActivity
+		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:25:13-48
+activity#com.orkestra.paycars.models.MainSignUpActivity
 ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:27:9-29:40
 	android:exported
 		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:29:13-37
 	android:name
 		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:28:13-54
-activity#com.orkestra.paycars.models.ui.MainHomeActivity
+activity#com.orkestra.paycars.models.MainSignInActivity
 ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:30:9-32:40
 	android:exported
 		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:31:13-55
-activity#com.orkestra.paycars.MainStartActivity
-ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:33:9-41:20
+		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:31:13-54
+activity#com.orkestra.paycars.models.ui.MainHomeActivity
+ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:33:9-35:40
 	android:exported
-		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:35:13-36
+		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:34:13-46
+		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:34:13-55
+activity#com.orkestra.paycars.MainStartActivity
+ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:36:9-44:20
+	android:exported
+		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:37:13-46
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:36:13-40:29
+ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:37:17-69
+ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:37:25-66
+		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:39:17-77
+ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:39:27-74
+		ADDED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml:42:27-74
 uses-sdk
 INJECTED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/kira/Documents/Pribadi/ORKESTRAPayCarsPlatformMobile/app/src/main/AndroidManifest.xml

@@ -50,6 +50,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.ORKESTRAPayCarsPlatformJualBeliMobilBekas" >
         <activity
+            android:name="com.orkestra.paycars.uji.MainActivity"
+            android:exported="false" />
+        <activity
             android:name="com.orkestra.paycars.models.ui.MainContentActivity"
             android:exported="false" />
         <activity

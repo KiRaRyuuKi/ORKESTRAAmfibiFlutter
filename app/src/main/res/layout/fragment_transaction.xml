@@ -8,61 +8,34 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="15dp"
-        android:layout_marginTop="18dp"
-        android:layout_marginEnd="15dp"
-        android:gravity="center_vertical"
-        android:orientation="horizontal">
-
-        <com.google.android.material.imageview.ShapeableImageView
-            android:id="@+id/imageProfileTransaction"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:layout_marginStart="5dp"
-            android:src="@drawable/profile"
-            android:padding="2dp"
-            app:strokeWidth="3dp"
-            app:shapeAppearanceOverlay="@style/circular" />
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
         <TextView
-            android:id="@+id/nameProfileTransaction"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="15dp"
-            android:layout_marginBottom="-2dp"
-            android:layout_weight="1"
-            android:fontFamily="@font/poppins_semi_bold"
-            android:text="Muhammad Ilham"
-            android:textSize="15sp" />
-
-        <Button
-            android:id="@+id/buttonMassageTransaction"
-            android:layout_width="25dp"
-            android:layout_height="25dp"
-            android:layout_marginEnd="15dp"
-            android:background="@drawable/baseline_message" />
-
-        <Button
-            android:id="@+id/buttonNavigationTransaction"
-            android:layout_width="25dp"
-            android:layout_height="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="12dp"
             android:layout_marginEnd="5dp"
-            android:background="@drawable/baseline_menu" />
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/poppins_semi_bold"
+            android:gravity="center"
+            android:text="Transaction"
+            android:textAlignment="center"
+            android:textSize="18sp" />
+
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+            android:id="@+id/swipeRefreshTransaction"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerDataTransaction"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
 
     </LinearLayout>
-
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="650dp"
-        android:layout_gravity="bottom">
-
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recyclerViewTransaction"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            tools:listitem="@layout/item_data_transaction" />
-
-    </ScrollView>
 
 </FrameLayout>

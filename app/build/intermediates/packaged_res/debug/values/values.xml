@@ -5,6 +5,7 @@
     <color name="accentsStroke">#CECECE</color>
     <color name="accentsThrid">#F5F5F5</color>
     <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
     <color name="primaryFirst">#FF3518</color>
     <color name="primarySecond">#FF5E18</color>
     <color name="white">#FFFFFFFF</color>

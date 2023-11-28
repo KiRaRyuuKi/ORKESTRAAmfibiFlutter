@@ -13,7 +13,9 @@ object ApiClientService {
         .addConverterFactory(GsonConverterFactory.create())
         .build()
 
-    val apiContentService: ApiContentService = retrofit.create(ApiContentService::class.java)
+    val apiDataService: ApiDataService = retrofit.create(ApiDataService::class.java)
+
+    val apiTransactionService: ApiDataService = retrofit.create(ApiDataService::class.java)
 
     fun getApiInterface(): ApiInterfaceService {
         return Retrofit.Builder()

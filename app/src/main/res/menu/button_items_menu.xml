@@ -8,13 +8,13 @@
         android:title="Home"
         android:icon="@drawable/baseline_home"
         app:itemTextAppearanceActive="@style/BottomNavigationActiveText"
-        app:itemTextAppearanceInactive="@style/BottomNavigationInactiveText"/>/>
+        app:itemTextAppearanceInactive="@style/BottomNavigationInactiveText"/>
     <item
         android:id="@+id/searchItem"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:title="Search"
-        android:icon="@drawable/baseline_search"
+        android:icon="@drawable/baseline_black_search"
         app:itemTextAppearanceActive="@style/BottomNavigationActiveText"
         app:itemTextAppearanceInactive="@style/BottomNavigationInactiveText"/>
     <item

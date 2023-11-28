@@ -1,7 +1,8 @@
 package com.orkestra.paycars.controllers.view
 
+import com.orkestra.paycars.controllers.model.ModelDataContent
+
 data class ViewDataContent(
 
-    val image: Int,
-    val offer: String
+    val products: List<ModelDataContent>
 )
