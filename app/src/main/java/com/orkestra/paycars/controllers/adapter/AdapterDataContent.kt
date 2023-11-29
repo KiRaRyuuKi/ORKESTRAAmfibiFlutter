@@ -22,7 +22,7 @@ class AdapterDataContent(private val onClickListener: (ModelDataContent) -> Unit
         private val thumbnail: ImageView = itemView.findViewById(R.id.imageContent)
         private val title: TextView = itemView.findViewById(R.id.nameContent)
         private val description: TextView = itemView.findViewById(R.id.descriptionContent)
-        private val brand: TextView = itemView.findViewById(R.id.cityContent)
+        private val brand: TextView = itemView.findViewById(R.id.brandContent)
         private val price: TextView = itemView.findViewById(R.id.priceContent)
 
         private var currentProducts: ModelDataContent? = null

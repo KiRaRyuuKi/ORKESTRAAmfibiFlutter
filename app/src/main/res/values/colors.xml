@@ -8,4 +8,6 @@
     <color name="accentsSecond">#2C2C2C</color>
     <color name="accentsThrid">#F5F5F5</color>
     <color name="accentsStroke">#CECECE</color>
+
+    <color name="ic_launcher_background">#FFFFFF</color>
 </resources>

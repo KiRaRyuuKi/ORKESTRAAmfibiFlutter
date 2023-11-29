@@ -1,12 +1,12 @@
 package com.orkestra.paycars.controllers.model
 
 class ModelDataMessage {
-    var judul: String? = null
-    var gambar: String? = null
+    var header: String? = null
+    var image: String? = null
     constructor()
 
-    constructor(judul: String?, gambar: String?) {
-        this.judul = judul
-        this.gambar = gambar
+    constructor(judul: String?, image: String?) {
+        this.header = header
+        this.image = image
     }
 }

@@ -12,6 +12,10 @@
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/drawable/baseline_bell.xml"
     },
     {
+        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/layout_item_data_promo.xml.flat",
+        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/layout/item_data_promo.xml"
+    },
+    {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/mipmap-mdpi/ic_launcher_round.webp"
     },
@@ -112,6 +116,10 @@
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/layout/fragment_account.xml"
     },
     {
+        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/layout_item_data_subtitle.xml.flat",
+        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/layout/item_data_subtitle.xml"
+    },
+    {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/mipmap-anydpi-v26/ic_launcher.xml"
     },
@@ -140,12 +148,12 @@
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/drawable/button_black_color.xml"
     },
     {
-        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/drawable-xxhdpi_logo_add.png.flat",
-        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-pngs-95:/drawable-xxhdpi/logo_add.png"
-    },
-    {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/drawable-xxxhdpi_logo_app.png.flat",
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-pngs-95:/drawable-xxxhdpi/logo_app.png"
+    },
+    {
+        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/drawable-xxhdpi_logo_add.png.flat",
+        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-pngs-95:/drawable-xxhdpi/logo_add.png"
     },
     {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/raw_orange_car.json.flat",
@@ -186,6 +194,10 @@
     {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/drawable_button_white_color.xml.flat",
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/drawable/button_white_color.xml"
+    },
+    {
+        "merged": "com.orkestra.paycars.app-merged_res-100:/layout_fragment_home.xml.flat",
+        "source": "com.orkestra.paycars.app-main-102:/layout/fragment_home.xml"
     },
     {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/mipmap-xxhdpi_ic_launcher.webp.flat",
@@ -236,6 +248,10 @@
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/xml/activity_main_start_scene2.xml"
     },
     {
+        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/layout_item_data_banner.xml.flat",
+        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/layout/item_data_banner.xml"
+    },
+    {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/drawable_baseline_map_pin.xml.flat",
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/drawable/baseline_map_pin.xml"
     },
@@ -248,12 +264,16 @@
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-pngs-95:/drawable-ldpi/logo_add.png"
     },
     {
-        "merged": "com.orkestra.paycars.app-merged_res-100:/xml_activity_main_start_scene.xml.flat",
-        "source": "com.orkestra.paycars.app-main-102:/xml/activity_main_start_scene.xml"
-    },
-    {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/layout_fragment_transaction.xml.flat",
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/layout/fragment_transaction.xml"
+    },
+    {
+        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/layout_item_data_seller.xml.flat",
+        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/layout/item_data_seller.xml"
+    },
+    {
+        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/layout_item_data_title.xml.flat",
+        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/layout/item_data_title.xml"
     },
     {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/drawable_baseline_arrow_right.xml.flat",
@@ -308,12 +328,12 @@
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/drawable/background_start.png"
     },
     {
-        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/drawable_background_screen_item.xml.flat",
-        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/drawable/background_screen_item.xml"
-    },
-    {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/drawable_background_screen_item.xml.flat",
+        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/drawable/background_screen_item.xml"
     },
     {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/layout_clothing_layout.xml.flat",
@@ -408,6 +428,10 @@
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/drawable/content_second.png"
     },
     {
+        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/layout_activity_main_each.xml.flat",
+        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/layout/activity_main_each.xml"
+    },
+    {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/layout_fragment_search.xml.flat",
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/layout/fragment_search.xml"
     },
@@ -424,12 +448,12 @@
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/drawable/baseline_transaction.xml"
     },
     {
-        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/layout_activity_main_welcome.xml.flat",
-        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/layout/activity_main_welcome.xml"
-    },
-    {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/layout_activity_main_welcome.xml.flat",
+        "source": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-main-102:/layout/activity_main_welcome.xml"
     },
     {
         "merged": "/home/kira/.gradle/daemon/8.0/com.orkestra.paycars.app-merged_res-100:/mipmap-xxxhdpi_ic_launcher.webp.flat",

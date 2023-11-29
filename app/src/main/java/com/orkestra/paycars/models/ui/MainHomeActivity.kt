@@ -1,6 +1,9 @@
 package com.orkestra.paycars.models.ui
 
 import android.os.Bundle
+import android.os.Handler
+import android.os.Looper
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import com.orkestra.paycars.R
@@ -13,6 +16,8 @@ import com.orkestra.paycars.models.fragment.TransactionFragment
 @Suppress("DEPRECATED_IDENTITY_EQUALS")
 class MainHomeActivity : AppCompatActivity() {
     private lateinit var binding : ActivityMainHomeBinding
+    private var dataLoaded = false
+    private var dataLoading = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -35,6 +40,33 @@ class MainHomeActivity : AppCompatActivity() {
             true
         }
         initRecyclerView()
+    }
+
+    @Deprecated("Deprecated in Java")
+    override fun onBackPressed() {
+        val currentFragment = supportFragmentManager.findFragmentById(R.id.frameLayout)
+
+        if (currentFragment is SearchFragment) {
+            handleBackPressedFragment()
+        } else {
+            super.onBackPressed()
+        }
+    }
+
+    private fun handleBackPressedFragment() {
+        if (!dataLoading) {
+            if (dataLoaded) {
+                super.onBackPressed()
+            } else {
+                dataLoading = true
+                Toast.makeText(this, "Press again to exit", Toast.LENGTH_SHORT).show()
+
+                Handler(Looper.getMainLooper()).postDelayed({
+                    dataLoaded = true
+                    dataLoading = false
+                }, 2000)
+            }
+        }
     }
 
     private fun replaceFragment(fragment: Fragment) {

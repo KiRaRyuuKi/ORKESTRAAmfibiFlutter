@@ -32,7 +32,6 @@ class MainContentActivity : AppCompatActivity() {
         val thumbnail: ImageView = findViewById(R.id.imageDetailContent)
         val title: TextView = findViewById(R.id.nameDetailContent)
         val description: TextView = findViewById(R.id.descriptionDetailContent)
-        val brand: TextView = findViewById(R.id.textView)
         val price: TextView = findViewById(R.id.priceDetailContent)
 
         intent.extras?.apply {
@@ -41,7 +40,6 @@ class MainContentActivity : AppCompatActivity() {
 
             title.text = getString("title")
             description.text = getString("description")
-            brand.text = getString("brand")
             price.text = getString("price")
         }
 
