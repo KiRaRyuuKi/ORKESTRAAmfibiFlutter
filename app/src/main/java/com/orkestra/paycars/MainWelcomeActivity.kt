@@ -18,4 +18,4 @@ class MainWelcomeActivity : AppCompatActivity() {
             startActivity(intent)
         }
     }
-}z
+}

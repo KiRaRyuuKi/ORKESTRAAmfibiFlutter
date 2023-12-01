@@ -46,7 +46,7 @@ class AccountFragment : Fragment() {
     private lateinit var btnSignOut: Button
 
     private lateinit var userViewModel: userViewModel
->>>>>>> Stashed changes
+
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -54,7 +54,7 @@ class AccountFragment : Fragment() {
     ): View? {
         val rootView = inflater.inflate(R.layout.fragment_account, container, false)
 
-<<<<<<< Updated upstream
+
         tvUserName = rootView.findViewById(R.id.nameUserAccount)
         tvUserEmail = rootView.findViewById(R.id.usernameUserAccount)
         userImageView = rootView.findViewById(R.id.imageUserAccount)
@@ -68,7 +68,7 @@ class AccountFragment : Fragment() {
         tvUserName.text = userName
         tvUserEmail.text = userEmail
         Glide.with(this).load(userImageUrl).into(userImageView)
-=======
+
         tvUserName = rootView.findViewById(R.id.textView3)
         tvUserEmail = rootView.findViewById(R.id.textView4)
         userImageView = rootView.findViewById(R.id.imageUserAccount)
@@ -92,7 +92,6 @@ class AccountFragment : Fragment() {
                 Glide.with(this).load(it.userImageUrl).into(userImageView)
             }
         })
->>>>>>> Stashed changes
 
         btnSignOut.setOnClickListener {
             val message = "Apakah Anda Yakin Ingin Log Out?"
