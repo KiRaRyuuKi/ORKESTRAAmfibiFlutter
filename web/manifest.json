@@ -1,6 +1,6 @@
 {
-    "name": "orkestra_amfibi_flutter",
-    "short_name": "orkestra_amfibi_flutter",
+    "name": "flutter_firebase",
+    "short_name": "flutter_firebase",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

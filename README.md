@@ -1,4 +1,4 @@
-# orkestra_amfibi_flutter
+# flutter_firebase
 
 A new Flutter project.
 
