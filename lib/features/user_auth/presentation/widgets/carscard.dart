@@ -1,94 +1,35 @@
 import 'package:flutter/material.dart';
-import 'package:ionicons/ionicons.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/pages/model/cars.dart';
-import 'package:Amfibi_App/features/shared/constants.dart';
-import 'package:Amfibi_App/features/user_auth/presentation/pages/cars_product/cars_product.dart';
-
 
 class CarsCard extends StatelessWidget {
-  final Product product;
-  const CarsCard({super.key, required this.product});
+  final Cars product;
+
+  const CarsCard({required this.product, Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return GestureDetector(
-      onTap: () {
-        Navigator.of(context).push(
-          MaterialPageRoute(
-            builder: (context) => CarsScreen(product: product),
-          ),
-        );
-      },
-      child: Stack(
+    return Card(
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Container(
-            height: 250,
-            width: double.infinity,
-            decoration: BoxDecoration(
-              color: kcontentColor,
-              borderRadius: BorderRadius.circular(20),
-            ),
-            child: Column(
-              children: [
-                Image.asset(
-                  product.image,
-                  width: 120,
-                  height: 120,
-                ),
-                Text(
-                  product.title,
-                  style: const TextStyle(
-                    fontWeight: FontWeight.bold,
-                    fontSize: 16,
-                  ),
-                ),
-                Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceAround,
-                  children: [
-                    Text(
-                      "\$${product.price}",
-                      style: const TextStyle(
-                        fontWeight: FontWeight.bold,
-                        fontSize: 16,
-                      ),
-                    ),
-                    Row(
-                      children: List.generate(
-                        product.colors.length,
-                        (cindex) => Container(
-                          height: 15,
-                          width: 15,
-                          margin: const EdgeInsets.only(right: 2),
-                          decoration: BoxDecoration(
-                            color: product.colors[cindex],
-                            shape: BoxShape.circle,
-                          ),
-                        ),
-                      ),
-                    )
-                  ],
-                )
-              ],
+          Image.asset(product.image, fit: BoxFit.cover),
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Text(
+              product.carName,
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+              ),
             ),
           ),
-          Positioned.fill(
-            child: Align(
-              alignment: Alignment.topRight,
-              child: Container(
-                width: 30,
-                height: 30,
-                decoration: const BoxDecoration(
-                  color: kprimaryColor,
-                  borderRadius: BorderRadius.only(
-                    topRight: Radius.circular(20),
-                    bottomLeft: Radius.circular(10),
-                  ),
-                ),
-                child: const Icon(
-                  Ionicons.heart_outline,
-                  color: Colors.white,
-                  size: 18,
-                ),
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Text(
+              '\$${product.price}',
+              style: TextStyle(
+                fontSize: 14,
+                color: Colors.grey,
               ),
             ),
           ),

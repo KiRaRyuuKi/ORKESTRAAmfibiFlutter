@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class Product {
-  final String title;
+class Cars {
+  final String carName;
   final String description;
   final String image;
   final double price;
@@ -9,8 +9,8 @@ class Product {
   final String category;
   final double rate;
 
-  Product({
-    required this.title,
+  Cars({
+    required this.carName,
     required this.description,
     required this.image,
     required this.price,
@@ -20,45 +20,47 @@ class Product {
   });
 }
 
-final List<Product> products = [
-  Product(
-    title: "Wireless Headphones",
+final List<Cars> carsList = [
+  Cars(
+    carName: "Tesla Model S",
     description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "assets/images/mobil-2.jpg",
-    price: 120,
+        "The Tesla Model S is an all-electric five-door liftback sedan produced by Tesla, Inc., and was introduced on June 22, 2012.",
+    image: "assets/images/tesla-model_s.jpg",
+    price: 79999,
     colors: [
       Colors.black,
-      Colors.blue,
-      Colors.orange,
-    ],
-    category: "Headphones",
-    rate: 4.8,
-  ),
-  Product(
-    title: "Woman Sweter",
-    description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "assets/images/mobil-1.jpg",
-    price: 120,
-    colors: [
-      Colors.brown,
+      Colors.white,
       Colors.red,
-      Colors.pink,
     ],
-    category: "Woman Fashion",
-    rate: 4.8,
+    category: "Electric",
+    rate: 4.9,
   ),
-  Product(
-    title: "Smart Watch",
+  Cars(
+    carName: "BMW i8",
     description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "assets/images/mobil-3.jpg",
-    price: 55,
+        "The BMW i8 is a plug-in hybrid sports car developed by BMW. The i8 is part of BMW's electric fleet and was introduced in 2014.",
+    image: "assets/images/mobil-2.jpg",
+    price: 147500,
     colors: [
+      Colors.blue,
       Colors.black,
+      Colors.white,
     ],
-    category: "Watch",
+    category: "Hybrid",
+    rate: 4.7,
+  ),
+  Cars(
+    carName: "Audi R8",
+    description:
+        "The Audi R8 is a mid-engine, 2-seater sports car, which uses Audi's trademark quattro permanent all-wheel drive system.",
+    image: "assets/images/mobil-4.jpg",
+    price: 169900,
+    colors: [
+      Colors.red,
+      Colors.blue,
+      Colors.greenAccent,
+    ],
+    category: "Sports",
     rate: 4.8,
   ),
 ];

@@ -4,10 +4,11 @@ import 'package:iconsax_flutter/iconsax_flutter.dart';
 import 'package:ionicons/ionicons.dart';
 import 'package:Amfibi_App/features/shared/constants.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/pages/home/home_screen.dart';
-import 'package:Amfibi_App/features/user_auth/presentation/pages/cart/cart.dart';
-import 'package:Amfibi_App/features/user_auth/presentation/pages/profile/profile_page.dart';
+import 'package:Amfibi_App/features/user_auth/presentation/pages/cars_product/cars_screen.dart';
+import 'package:Amfibi_App/features/user_auth/presentation/pages/transaksi_history/transaksi_history_page.dart';
+import 'package:Amfibi_App/features/user_auth/presentation/pages/Settings/setting_Screen.dart';
 import 'package:Amfibi_App/features/helper/helper_function.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:Amfibi_App/features/user_auth/presentation/pages/model/cars.dart';
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});
@@ -17,15 +18,17 @@ class MainScreen extends StatefulWidget {
 }
 
 class _MainScreenState extends State<MainScreen> {
-  int currentTab = 2;
+  int currentTab = 0;
   String userName = "";
   String email = "";
+  late Cars myCar;
 
   List<Widget> screens = [];
 
   @override
   void initState() {
     super.initState();
+    myCar = carsList[0]; // Ambil salah satu mobil dari daftar
     gettingUserData();
   }
 
@@ -45,14 +48,14 @@ class _MainScreenState extends State<MainScreen> {
   }
 
   void updateScreens() {
-    screens = [
-      Scaffold(),
-      Scaffold(),
-      HomeScreen(),
-      CartScreen(),
-      ProfilePage(email: email, userName: userName),
-      Scaffold(),
-    ];
+    setState(() {
+      screens = [
+        HomeScreen(),
+        CarsScreen(), // Pass the Cars object here
+        TransactionHistoryScreen(),
+        SettingsScreen(email: email, userName: userName),
+      ];
+    });
   }
 
   @override
@@ -61,7 +64,7 @@ class _MainScreenState extends State<MainScreen> {
       floatingActionButton: FloatingActionButton(
         onPressed: () {
           setState(() {
-            currentTab = 2;
+            currentTab = 0;
           });
         },
         shape: const CircleBorder(),
@@ -88,7 +91,7 @@ class _MainScreenState extends State<MainScreen> {
                 currentTab = 0;
               }),
               icon: Icon(
-                Ionicons.grid_outline,
+                Iconsax.home,
                 color: currentTab == 0 ? kprimaryColor : Colors.grey.shade400,
               ),
             ),
@@ -97,8 +100,17 @@ class _MainScreenState extends State<MainScreen> {
                 currentTab = 1;
               }),
               icon: Icon(
-                Ionicons.heart_outline,
+                Ionicons.grid_outline,
                 color: currentTab == 1 ? kprimaryColor : Colors.grey.shade400,
+              ),
+            ),
+            IconButton(
+              onPressed: () => setState(() {
+                currentTab = 2;
+              }),
+              icon: Icon(
+                Ionicons.heart_outline,
+                color: currentTab == 2 ? kprimaryColor : Colors.grey.shade400,
               ),
             ),
             IconButton(
@@ -106,51 +118,14 @@ class _MainScreenState extends State<MainScreen> {
                 currentTab = 3;
               }),
               icon: Icon(
-                Ionicons.cart_outline,
-                color: currentTab == 3 ? kprimaryColor : Colors.grey.shade400,
-              ),
-            ),
-            IconButton(
-              onPressed: () => setState(() {
-                currentTab = 4;
-              }),
-              icon: Icon(
                 Ionicons.person_outline,
-                color: currentTab == 4 ? kprimaryColor : Colors.grey.shade400,
+                color: currentTab == 3 ? kprimaryColor : Colors.grey.shade400,
               ),
             ),
           ],
         ),
       ),
-      body: screens[currentTab],
+      body: screens.isEmpty ? Container() : screens[currentTab],
     );
-  }
-}
-
-class UserModel {
-  final String? username;
-  final String? address;
-  final int? age;
-  final String? id;
-
-  UserModel({this.id, this.username, this.address, this.age});
-
-  static UserModel fromSnapshot(
-      DocumentSnapshot<Map<String, dynamic>> snapshot) {
-    return UserModel(
-      username: snapshot['username'],
-      address: snapshot['address'],
-      age: snapshot['age'],
-      id: snapshot['id'],
-    );
-  }
-
-  Map<String, dynamic> toJson() {
-    return {
-      "username": username,
-      "age": age,
-      "id": id,
-      "address": address,
-    };
   }
 }

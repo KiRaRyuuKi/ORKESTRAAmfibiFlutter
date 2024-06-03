@@ -12,7 +12,7 @@ import 'package:Amfibi_App/features/user_auth/presentation/pages/home/main_scree
 import 'package:Amfibi_App/features/user_auth/presentation/pages/login/resetpassword_page.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/pages/login/sign_up_page.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/widgets/widgets.dart';
-import 'package:Amfibi_App/features/user_auth/firebase_auth_implementation/APIService.dart';
+import 'package:Amfibi_App/features/service/APIService.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/pages/home/home_screen.dart';
 
 class LoginPage extends StatefulWidget {
@@ -110,8 +110,11 @@ class _LoginPageState extends State<LoginPage> {
                           fontSize: 15,
                           fontWeight: FontWeight.w400,
                         ),
+                        textAlign: TextAlign.center,
                       ),
-                      Image.asset("assets/images/LogoAmfibi.png"),
+                      const SizedBox(height: 20),
+                      Image.asset("assets/images/LogoAmfibi.png", height: 150),
+                      const SizedBox(height: 20),
                       TextFormField(
                         controller: _emailController,
                         decoration: textInputDecoration.copyWith(
@@ -159,11 +162,14 @@ class _LoginPageState extends State<LoginPage> {
                             ),
                           );
                         },
-                        child: const Text(
-                          "Lupa Password?",
-                          style: TextStyle(
-                            color: Colors.blue,
-                            decoration: TextDecoration.underline,
+                        child: const Align(
+                          alignment: Alignment.centerRight,
+                          child: Text(
+                            "Lupa Password?",
+                            style: TextStyle(
+                              color: Colors.blue,
+                              decoration: TextDecoration.underline,
+                            ),
                           ),
                         ),
                       ),
@@ -172,11 +178,12 @@ class _LoginPageState extends State<LoginPage> {
                         width: double.infinity,
                         child: ElevatedButton(
                           style: ElevatedButton.styleFrom(
-                            primary: Theme.of(context).primaryColor,
+                            primary: Colors.orange, // Shopee primary color
                             elevation: 0,
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(30),
                             ),
+                            padding: EdgeInsets.symmetric(vertical: 16),
                           ),
                           child: const Text(
                             "Sign In",
@@ -199,6 +206,7 @@ class _LoginPageState extends State<LoginPage> {
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(30),
                             ),
+                            padding: EdgeInsets.symmetric(vertical: 16),
                           ),
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.center,
@@ -207,7 +215,7 @@ class _LoginPageState extends State<LoginPage> {
                                 FontAwesomeIcons.google,
                                 color: Colors.white,
                               ),
-                              SizedBox(width: 5),
+                              SizedBox(width: 10),
                               Text(
                                 "Sign in with Google",
                                 style: TextStyle(
@@ -220,7 +228,7 @@ class _LoginPageState extends State<LoginPage> {
                           onPressed: _signInWithGoogle,
                         ),
                       ),
-                      const SizedBox(height: 10),
+                      const SizedBox(height: 20),
                       Text.rich(
                         TextSpan(
                           text: "Belum Punya Akun? ",
@@ -232,7 +240,7 @@ class _LoginPageState extends State<LoginPage> {
                             TextSpan(
                               text: "Klik Disini!",
                               style: const TextStyle(
-                                color: Colors.black,
+                                color: Colors.blue,
                                 decoration: TextDecoration.underline,
                               ),
                               recognizer: TapGestureRecognizer()
@@ -257,7 +265,8 @@ class _LoginPageState extends State<LoginPage> {
     });
 
     final GoogleSignIn _googleSignIn = GoogleSignIn(
-      clientId: '449651558029-s10qjomvv43qhsjmfouijhujrdi79ji0.apps.googleusercontent.com',
+      clientId:
+          '449651558029-s10qjomvv43qhsjmfouijhujrdi79ji0.apps.googleusercontent.com',
     );
 
     try {

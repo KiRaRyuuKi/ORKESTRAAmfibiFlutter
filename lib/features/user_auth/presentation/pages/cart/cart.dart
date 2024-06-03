@@ -1,13 +1,14 @@
+import 'package:Amfibi_App/features/user_auth/presentation/pages/model/cart_item.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:ionicons/ionicons.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/widgets/cart_tile.dart';
 import 'package:Amfibi_App/features/shared/constants.dart';
-import 'package:Amfibi_App/features/user_auth/presentation/pages/model/cart_item.dart';
+import 'package:Amfibi_App/features/user_auth/presentation/pages/model/cars.dart'; // Import model cars
 import 'package:Amfibi_App/features/user_auth/presentation/widgets/checkout_box.dart';
 
 class CartScreen extends StatefulWidget {
-  const CartScreen({super.key});
+  const CartScreen({Key? key}) : super(key: key);
 
   @override
   State<CartScreen> createState() => _CartScreenState();
@@ -39,9 +40,7 @@ class _CartScreenState extends State<CartScreen> {
           ),
         ),
       ),
-      bottomSheet: CheckOutBox(
-        items: cartItems,
-      ),
+      bottomSheet: CheckOutBox(items: cartItems), // Gunakan cartItems di sini
       body: ListView.separated(
         padding: const EdgeInsets.all(20),
         itemBuilder: (context, index) => CartTile(

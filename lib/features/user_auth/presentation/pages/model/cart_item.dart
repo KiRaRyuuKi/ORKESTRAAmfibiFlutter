@@ -2,7 +2,7 @@ import 'package:Amfibi_App/features/user_auth/presentation/pages/model/cars.dart
 
 class CartItem {
   int quantity;
-  Product product;
+  Cars product;
 
   CartItem({
     required this.quantity,
@@ -11,6 +11,6 @@ class CartItem {
 }
 
 List<CartItem> cartItems = [
-  CartItem(quantity: 2, product: products[0]),
-  CartItem(quantity: 1, product: products[1]),
+  CartItem(quantity: 2, product: carsList[0]),
+  CartItem(quantity: 1, product: carsList[1]),
 ];

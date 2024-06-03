@@ -6,7 +6,7 @@ import 'package:Amfibi_App/features/user_auth/presentation/pages/model/cars.dart
 
 
 class ProductInfo extends StatelessWidget {
-  final Product product;
+  final Cars product;
   const ProductInfo({super.key, required this.product});
 
   @override
@@ -15,7 +15,7 @@ class ProductInfo extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
-          product.title,
+          product.carName,
           style: const TextStyle(
             fontSize: 22,
             fontWeight: FontWeight.bold,

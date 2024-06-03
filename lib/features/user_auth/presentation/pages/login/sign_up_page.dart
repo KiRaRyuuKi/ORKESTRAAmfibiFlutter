@@ -178,13 +178,19 @@ class _SignUpPageState extends State<SignUpPage> {
                       const Text(
                         "Register",
                         style: TextStyle(
-                            fontSize: 40, fontWeight: FontWeight.bold),
+                          fontSize: 40,
+                          fontWeight: FontWeight.bold,
+                          color: Colors.red,
+                        ),
                       ),
                       const SizedBox(height: 10),
                       const Text(
                         "Create an account to continue!",
                         style: TextStyle(
-                            fontSize: 15, fontWeight: FontWeight.w400),
+                          fontSize: 15,
+                          fontWeight: FontWeight.w400,
+                          color: Colors.grey,
+                        ),
                       ),
                       const SizedBox(height: 10),
                       Image.asset("assets/images/LogoAmfibi.png"),
@@ -196,7 +202,15 @@ class _SignUpPageState extends State<SignUpPage> {
                           hintText: "Enter your full name",
                           prefixIcon: Icon(
                             Icons.person,
-                            color: Theme.of(context).primaryColor,
+                            color: Colors.red,
+                          ),
+                          enabledBorder: OutlineInputBorder(
+                            borderSide: BorderSide(color: Colors.red),
+                            borderRadius: BorderRadius.circular(10),
+                          ),
+                          focusedBorder: OutlineInputBorder(
+                            borderSide: BorderSide(color: Colors.red),
+                            borderRadius: BorderRadius.circular(10),
                           ),
                         ),
                         validator: (val) {
@@ -213,7 +227,15 @@ class _SignUpPageState extends State<SignUpPage> {
                           hintText: "Enter your email",
                           prefixIcon: Icon(
                             Icons.email,
-                            color: Theme.of(context).primaryColor,
+                            color: Colors.red,
+                          ),
+                          enabledBorder: OutlineInputBorder(
+                            borderSide: BorderSide(color: Colors.red),
+                            borderRadius: BorderRadius.circular(10),
+                          ),
+                          focusedBorder: OutlineInputBorder(
+                            borderSide: BorderSide(color: Colors.red),
+                            borderRadius: BorderRadius.circular(10),
                           ),
                         ),
                         validator: (val) {
@@ -233,7 +255,15 @@ class _SignUpPageState extends State<SignUpPage> {
                           hintText: "Enter your password",
                           prefixIcon: Icon(
                             Icons.lock,
-                            color: Theme.of(context).primaryColor,
+                            color: Colors.red,
+                          ),
+                          enabledBorder: OutlineInputBorder(
+                            borderSide: BorderSide(color: Colors.red),
+                            borderRadius: BorderRadius.circular(10),
+                          ),
+                          focusedBorder: OutlineInputBorder(
+                            borderSide: BorderSide(color: Colors.red),
+                            borderRadius: BorderRadius.circular(10),
                           ),
                         ),
                         validator: (val) {
@@ -249,7 +279,7 @@ class _SignUpPageState extends State<SignUpPage> {
                         width: double.infinity,
                         child: ElevatedButton(
                           style: ElevatedButton.styleFrom(
-                            primary: Theme.of(context).primaryColor,
+                            primary: Colors.red,
                             elevation: 0,
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(30),
@@ -272,7 +302,7 @@ class _SignUpPageState extends State<SignUpPage> {
                             TextSpan(
                               text: "Sign In!",
                               style: const TextStyle(
-                                  color: Colors.black,
+                                  color: Colors.red,
                                   decoration: TextDecoration.underline),
                               recognizer: TapGestureRecognizer()
                                 ..onTap = () {

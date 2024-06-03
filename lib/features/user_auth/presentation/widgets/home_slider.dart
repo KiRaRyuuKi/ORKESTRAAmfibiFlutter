@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 class HomeSlider extends StatelessWidget {
   final Function(int) onChange;
   final int currentSlide;
+
   const HomeSlider({
     super.key,
     required this.onChange,
@@ -11,6 +12,14 @@ class HomeSlider extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Dummy slider images for example
+    final List<String> sliderImages = [
+      'assets/images/banner1.jpg',
+      'assets/images/banner2.jpg',
+      'assets/images/banner3.jpg',
+      'assets/images/banner4.jpg',
+    ];
+
     return Stack(
       children: [
         SizedBox(
@@ -18,16 +27,16 @@ class HomeSlider extends StatelessWidget {
           width: double.infinity,
           child: PageView.builder(
             onPageChanged: onChange,
-            itemCount: 4,
+            itemCount: sliderImages.length,
             itemBuilder: (context, index) {
               return Container(
                 height: 200,
                 width: double.infinity,
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(20),
-                  image: const DecorationImage(
-                    fit: BoxFit.fill,
-                    image: AssetImage("assets/images/banner1.jpg"),
+                  image: DecorationImage(
+                    fit: BoxFit.cover,
+                    image: AssetImage(sliderImages[index]),
                   ),
                 ),
               );
@@ -41,12 +50,12 @@ class HomeSlider extends StatelessWidget {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: List.generate(
-                4,
+                sliderImages.length,
                 (index) => AnimatedContainer(
                   duration: const Duration(milliseconds: 300),
                   width: currentSlide == index ? 15 : 8,
                   height: 8,
-                  margin: const EdgeInsets.only(right: 3),
+                  margin: const EdgeInsets.symmetric(horizontal: 3),
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(10),
                     color: currentSlide == index

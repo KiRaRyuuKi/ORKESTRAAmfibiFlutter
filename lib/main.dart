@@ -1,9 +1,11 @@
 import 'package:Amfibi_App/features/helper/helper_function.dart';
+import 'package:Amfibi_App/features/user_auth/presentation/pages/Settings/setting_Screen.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/pages/home/home_screen.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/pages/home/main_screen.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/pages/login/login_page.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/pages/Message/message_page.dart';
 import 'package:Amfibi_App/features/shared/constants.dart';
+import 'package:Amfibi_App/features/user_auth/presentation/pages/transaksi_history/transaksi_history_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
@@ -58,7 +60,7 @@ class _MyAppState extends State<MyApp> {
           primaryColor: Constants().primaryColor,
           scaffoldBackgroundColor: Colors.white),
       debugShowCheckedModeBanner: false,
-      home: _isSignedIn ? const MainScreen() : const LoginPage(),
+      home: _isSignedIn ? const MainScreen() : const HomeScreen(),
     );
   }
 }

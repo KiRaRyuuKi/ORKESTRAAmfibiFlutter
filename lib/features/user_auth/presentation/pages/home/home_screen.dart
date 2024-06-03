@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ionicons/ionicons.dart';
-import 'package:Amfibi_App/features/user_auth/presentation/pages/model/categories..dart';
+import 'package:Amfibi_App/features/user_auth/presentation/pages/model/categories..dart'; // Fixed import
 import 'package:Amfibi_App/features/shared/constants.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/widgets/categories.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/widgets/home_slider.dart';
@@ -8,8 +8,7 @@ import 'package:Amfibi_App/features/user_auth/presentation/widgets/homeappbar.da
 import 'package:Amfibi_App/features/user_auth/presentation/widgets/carscard.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/widgets/search_field.dart';
 import 'package:Amfibi_App/features/user_auth/presentation/pages/model/cars.dart';
-
-
+import 'package:Amfibi_App/features/user_auth/presentation/pages/cars_product/cars_screen.dart'; // Import CarsScreen
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -58,13 +57,20 @@ class _HomeScreenState extends State<HomeScreen> {
                       ),
                     ),
                     TextButton(
-                      onPressed: () {},
+                      onPressed: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => CarsScreen(),
+                          ),
+                        );
+                      },
                       child: const Text("See all"),
                     ),
                   ],
                 ),
                 const SizedBox(height: 10),
-                GridView.builder(
+               GridView.builder(
                   physics: const NeverScrollableScrollPhysics(),
                   shrinkWrap: true,
                   gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
@@ -72,9 +78,12 @@ class _HomeScreenState extends State<HomeScreen> {
                     crossAxisSpacing: 20,
                     mainAxisSpacing: 20,
                   ),
-                  itemCount: products.length,
+                  itemCount: carsList.length,
                   itemBuilder: (context, index) {
-                    return CarsCard(product: products[index]);
+                    final car =
+                        carsList[index]; // Get the car object from carsList
+                    return CarsCard(
+                        product:car); // Pass the car object as the product argument
                   },
                 ),
               ],
@@ -85,4 +94,3 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
-
